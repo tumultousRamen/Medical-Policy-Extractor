@@ -1,0 +1,3543 @@
+{
+  "1048": {
+    "id": 1048,
+    "text": "Aetna considers the following procedures medically necessary as a diagnostic test prior to cataract surgery: Comprehensive eye examination; or Brief or intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *\u00c2\u00a0B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "b-scan",
+        "ultrasound",
+        "a-scan"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        26
+      ],
+      [
+        "OR",
+        20
+      ],
+      [
+        "OR",
+        22
+      ],
+      [
+        "OR",
+        33
+      ],
+      [
+        "OR",
+        86
+      ],
+      [
+        "OR",
+        98
+      ],
+      [
+        "OR",
+        128
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 9420,
+        "text": "Comprehensive eye examination; or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            4
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 2909,
+        "text": "Brief or intermediate examination; and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            5
+          ],
+          [
+            "OR",
+            1
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 3151,
+        "text": "A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *\u00c2\u00a0B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [
+            "b-scan",
+            "ultrasound",
+            "a-scan"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            6
+          ],
+          [
+            "OR",
+            59
+          ],
+          [
+            "OR",
+            71
+          ],
+          [
+            "OR",
+            101
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "1930": {
+    "id": 1930,
+    "text": "The following specialized ophthalmologic services are considered medically necessary for the routine pre-operative work-up for cataract surgery: Optical coherence biometry; Ultrasound, A-scan, diagnostic; Ultrasound, A-scan, ophthalmic biometry; Ultrasound, with intra-ocular lens (IOL) power calculation. Note: Contrast sensitivity testing, glare testing (BAT), and potential vision testing (PAM) are considered integral to the ophthalmologic examination and are not separately reimbursed.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [
+        "glare"
+      ],
+      "Diagnostic_Tests": [
+        "optical coherence biometry",
+        "a-scan",
+        "ultrasound",
+        "contrast sensitivity testing",
+        "glare testing"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        58
+      ],
+      [
+        "AND",
+        72
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 6395,
+        "text": "Optical coherence biometry;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [
+            "optical coherence biometry"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 181,
+        "text": "Ultrasound, A-scan, diagnostic;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [
+            "ultrasound",
+            "a-scan"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 2602,
+        "text": "Ultrasound, A-scan, ophthalmic biometry;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [
+            "ultrasound",
+            "a-scan"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 9969,
+        "text": "Ultrasound, with intra-ocular lens (IOL) power calculation.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [
+            "ultrasound"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "3748": {
+    "id": 3748,
+    "text": "Cataract removal surgery is considered medically necessary according to the member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s level of visual impairment as follows:",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "3820": {
+    "id": 3820,
+    "text": "The following\u00c2\u00a0are considered medically necessary: Capsular tension rings (e.g., StabilEyes) for stabilization of the lens capsule during IOL placement in conditions associated with weak or partially absent zonules (including primary zonular weakness (e.g., Marfan syndrome), and secondary zonular weakness (e.g., trauma or vitrectomy)); Other medically necessary indications may be cases of zonulysis, pseudo-exfoliation and Marchesani\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s syndrome. An unexpected loss of zonules during surgery may also support the medical necessity of a CTR. Note: The use of capsular tension rings is considered integral to the ocular surgery and is not separately reimbursed. Nd:YAG laser capsulotomy when performed 6 months or more following cataract extraction in members with visually significant clouding (opacification) of the posterior portion of the membrane that surrounds the lens (the posterior capsule). Requests for Nd:YAG laser capsulotomy performed within 6 months of cataract extraction should be forwarded for medical review; Combined glaucoma and cataract surgery for persons with a visually significant cataract with uncontrolled glaucoma despite maximal medical therapy and/or laser trabeculoplasty; For aphakia: Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA); Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO); Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY)); Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX)); Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb); Note: Aetna considers the following IOLs non-covered deluxe items: Accommodating posterior chamber IOLs (e.g., Crystalens (Eyeonics Inc., Aliso Viejo, CA); multi-focal posterior chamber IOLs (e.g., Array Model SA40 (Abbott Medical Optics, Santa Ana, CA), ReZoom (Abbott Medical Optics, Santa Ana, CA), Tecnis ZM900, Tecnis posterior chamber IOLs (Model ZKB00), and ZMAOO (Abbott Medical Optics, Santa Ana, CA), AcrySof IQ Vivity Extended Vision Intraocular Lens (Model DFT015), AcrySof ReSTOR, (Alcon Surgical, Fort Worth, TX), Acrysof ReSTOR SA60D3 multifocal, Acrysof Natural ReSTOR SN60D3, AcrySof ReSTOR Aspheric IOL model SN6AD1, AcrySof ReSTOR Aspheric IOL model SN6AD3); astigmatism-correcting (toric) posterior chamber IOLs (e.g., Staar Toric IOL (Star Surgical, Monrovia, CA), Staar Elastic Toric Lens Model AA4203TL, Abbott Medical Optics Tecnis Toric model ZCT150, AcrySof IQ Vivity Toric Extended Vision IOLs (DFT315, DFT 415, DFT515), AcrySof Toric IOL (Alcon Surgical, Fort Worth, TX)) AcrySof Aspheric Toric IOL SN6AT3, SN6AT4 and SN6AT5, AcrySof Toric Models SA60T3, SA60T4 and SA60T5, AcrySof Toric Model SA60T, and Acrysof IQ Toric Model SN6ATT, SA6AT3, SN6AT6, SN6AT7 SN6AT8, and SN6AT9); Clareon Vivity Extended Vision IOL,\u00c2\u00a0light adjustable IOLs; multifocal astigmatism-correcting (toric) IOLs (ReSTOR Multifocal Toric IOL); accommodating toric IOLs (Trulign Toric IOL (Bausch & Lomb, Inc., Rochester, NY); extended depth of focus multifocal lens (Tecnis Symfony ZXR00), and trifocal IOLs (e.g., ALCON PanOptix). Given that the intent of the multi-focal IOL, accommodating IOL and the toric IOL is to obviate the need for reading glasses post-surgery, these IOLs are considered not medically necessary. For members who elect non-covered new technology IOLs, cataract removal and lens implantation would be considered medically necessary if the criteria for cataract surgery outlined above are met. The new technology lens itself would be non-covered.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "reading"
+      ],
+      "Objective_Findings": [
+        "clouding",
+        "glaucoma",
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [
+        "marfan syndrome"
+      ],
+      "Surgical_Procedures": [
+        "vitrectomy",
+        "trabeculoplasty"
+      ],
+      "IOL_Types": [
+        "accommodating",
+        "toric",
+        "multifocal",
+        "monofocal"
+      ]
+    },
+    "logical_structure": [
+      [
+        "AND",
+        45
+      ],
+      [
+        "AND",
+        69
+      ],
+      [
+        "AND",
+        105
+      ],
+      [
+        "AND",
+        174
+      ],
+      [
+        "AND",
+        240
+      ],
+      [
+        "AND",
+        323
+      ],
+      [
+        "AND",
+        460
+      ],
+      [
+        "AND",
+        586
+      ],
+      [
+        "AND",
+        676
+      ],
+      [
+        "AND",
+        812
+      ],
+      [
+        "AND",
+        821
+      ],
+      [
+        "AND",
+        829
+      ],
+      [
+        "AND",
+        843
+      ],
+      [
+        "AND",
+        902
+      ],
+      [
+        "AND",
+        923
+      ],
+      [
+        "AND",
+        956
+      ],
+      [
+        "OR",
+        29
+      ],
+      [
+        "OR",
+        53
+      ],
+      [
+        "OR",
+        120
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 7818,
+        "text": "Capsular tension rings (e.g., StabilEyes) for stabilization of the lens capsule during IOL placement in conditions associated with weak or partially absent zonules (including primary zonular weakness (e.g., Marfan syndrome), and secondary zonular weakness (e.g., trauma or vitrectomy)); Other medically necessary indications may be cases of zonulysis, pseudo-exfoliation and Marchesani\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s syndrome. An unexpected loss of zonules during surgery may also support the medical necessity of a CTR. Note: The use of capsular tension rings is considered integral to the ocular surgery and is not separately reimbursed.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [
+            "marfan syndrome"
+          ],
+          "Surgical_Procedures": [
+            "vitrectomy"
+          ],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            38
+          ],
+          [
+            "AND",
+            62
+          ],
+          [
+            "AND",
+            98
+          ],
+          [
+            "OR",
+            22
+          ],
+          [
+            "OR",
+            46
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 2688,
+        "text": "Nd:YAG laser capsulotomy when performed 6 months or more following cataract extraction in members with visually significant clouding (opacification) of the posterior portion of the membrane that surrounds the lens (the posterior capsule). Requests for Nd:YAG laser capsulotomy performed within 6 months of cataract extraction should be forwarded for medical review;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "clouding",
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            9
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 8251,
+        "text": "Combined glaucoma and cataract surgery for persons with a visually significant cataract with uncontrolled glaucoma despite maximal medical therapy and/or laser trabeculoplasty;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract",
+            "glaucoma"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [
+            "trabeculoplasty"
+          ],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            2
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 7920,
+        "text": "For aphakia: Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA); Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO); Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY)); Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX)); Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb);",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": [
+            "monofocal"
+          ]
+        },
+        "logical_structure": [
+          [
+            "AND",
+            45
+          ],
+          [
+            "AND",
+            128
+          ],
+          [
+            "AND",
+            265
+          ],
+          [
+            "AND",
+            391
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 5351,
+            "text": "Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA);",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [],
+            "sub_items": []
+          },
+          {
+            "id": 2818,
+            "text": "Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO);",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                18
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 1826,
+            "text": "Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY));",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": [
+                "monofocal"
+              ]
+            },
+            "logical_structure": [
+              [
+                "AND",
+                79
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 7195,
+            "text": "Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX));",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": [
+                "monofocal"
+              ]
+            },
+            "logical_structure": [
+              [
+                "AND",
+                119
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 2283,
+            "text": "Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb);",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": [
+                "monofocal"
+              ]
+            },
+            "logical_structure": [
+              [
+                "AND",
+                111
+              ]
+            ],
+            "sub_items": []
+          }
+        ]
+      }
+    ]
+  },
+  "6062": {
+    "id": 6062,
+    "text": "Femtosecond laser-assisted cataract surgery is considered an equally effective alternative to standard methods of cataract removal.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "2295": {
+    "id": 2295,
+    "text": "Aetna considers Optiwave Refractive Analysis (ORA) not medically necessary for cataract surgery.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "6768": {
+    "id": 6768,
+    "text": "Cataract removal surgery is considered not medically necessary for the following indications: Glasses or visual aids provide satisfactory functional vision; The member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s lifestyle is not compromised; or The member is medically unfit (e.g., conditions such as comatose patients, organic brain syndrome, end stage Alzheimer's disease, persons with no light perception, etc. in which cataract surgery will not improve the member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s independence).",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "independence",
+        "lifestyle"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        14
+      ],
+      [
+        "OR",
+        29
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 7702,
+        "text": "Glasses or visual aids provide satisfactory functional vision;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            1
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 8098,
+        "text": "The member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s lifestyle is not compromised; or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "lifestyle"
+          ],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            7
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 2948,
+        "text": "The member is medically unfit (e.g., conditions such as comatose patients, organic brain syndrome, end stage Alzheimer's disease, persons with no light perception, etc. in which cataract surgery will not improve the member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s independence).",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "independence"
+          ],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "9420": {
+    "id": 9420,
+    "text": "Comprehensive eye examination; or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        4
+      ]
+    ],
+    "sub_items": []
+  },
+  "2909": {
+    "id": 2909,
+    "text": "Brief or intermediate examination; and",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        5
+      ],
+      [
+        "OR",
+        1
+      ]
+    ],
+    "sub_items": []
+  },
+  "3151": {
+    "id": 3151,
+    "text": "A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *\u00c2\u00a0B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "b-scan",
+        "ultrasound",
+        "a-scan"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        6
+      ],
+      [
+        "OR",
+        59
+      ],
+      [
+        "OR",
+        71
+      ],
+      [
+        "OR",
+        101
+      ]
+    ],
+    "sub_items": []
+  },
+  "6395": {
+    "id": 6395,
+    "text": "Optical coherence biometry;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "optical coherence biometry"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "181": {
+    "id": 181,
+    "text": "Ultrasound, A-scan, diagnostic;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "ultrasound",
+        "a-scan"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "2602": {
+    "id": 2602,
+    "text": "Ultrasound, A-scan, ophthalmic biometry;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "ultrasound",
+        "a-scan"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "9969": {
+    "id": 9969,
+    "text": "Ultrasound, with intra-ocular lens (IOL) power calculation.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [
+        "ultrasound"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "6583": {
+    "id": 6583,
+    "text": "For members with visual disability with a Snellen Acuity of 20/50 or worse, cataract surgery is considered medically necessary when all of the following subjective, objective, and educational criteria are met: Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired. The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income). Note: Functional impairment due to cataracts refers to lost or diminished ability to perform everyday activities, participate in hobbies or other leisure-time activities, or to work in one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s occupation. Several instruments such as the VF-14, the activities of daily vision scale and the visual activities questionnaire are available for assessing functional impairment related to cataract. In general, driving an automobile is the limiting life-style activity with visual acuity in the 20/50 to 20/60 range. Almost all states require 20/40 vision in one eye to get a driver's license. Household activities and reading are usually not limiting until the member reaches 20/70 vision. Objective: The best correctable Snellen visual acuity in the affected eye is 20/50 or worse, The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health permits surgery to be performed safely. Educational: The member has been educated about the risks and benefits of cataract surgery, including alternatives to treatment and the member determines if the expected reduction in the disability outweighs the potential risk, cost and inconvenience of surgery.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/50",
+        "snellen",
+        "20/70",
+        "20/60",
+        "20/40"
+      ],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "independence",
+        "lifestyle",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        29
+      ],
+      [
+        "AND",
+        81
+      ],
+      [
+        "AND",
+        88
+      ],
+      [
+        "AND",
+        109
+      ],
+      [
+        "AND",
+        181
+      ],
+      [
+        "AND",
+        235
+      ],
+      [
+        "AND",
+        290
+      ],
+      [
+        "AND",
+        295
+      ],
+      [
+        "AND",
+        315
+      ],
+      [
+        "AND",
+        325
+      ],
+      [
+        "AND",
+        342
+      ],
+      [
+        "OR",
+        11
+      ],
+      [
+        "OR",
+        42
+      ],
+      [
+        "OR",
+        49
+      ],
+      [
+        "OR",
+        84
+      ],
+      [
+        "OR",
+        145
+      ],
+      [
+        "OR",
+        156
+      ],
+      [
+        "OR",
+        161
+      ],
+      [
+        "OR",
+        262
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 6057,
+        "text": "Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired. The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income). Note: Functional impairment due to cataracts refers to lost or diminished ability to perform everyday activities, participate in hobbies or other leisure-time activities, or to work in one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s occupation. Several instruments such as the VF-14, the activities of daily vision scale and the visual activities questionnaire are available for assessing functional impairment related to cataract. In general, driving an automobile is the limiting life-style activity with visual acuity in the 20/50 to 20/60 range. Almost all states require 20/40 vision in one eye to get a driver's license. Household activities and reading are usually not limiting until the member reaches 20/70 vision.",
+        "standardized_entities": {
+          "Visual_Acuity": [
+            "20/50",
+            "20/40",
+            "20/60",
+            "20/70"
+          ],
+          "Functional_Impairment": [
+            "avocational",
+            "reading",
+            "independence",
+            "lifestyle",
+            "television",
+            "driving",
+            "occupational"
+          ],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            46
+          ],
+          [
+            "AND",
+            53
+          ],
+          [
+            "AND",
+            74
+          ],
+          [
+            "AND",
+            146
+          ],
+          [
+            "AND",
+            200
+          ],
+          [
+            "OR",
+            7
+          ],
+          [
+            "OR",
+            14
+          ],
+          [
+            "OR",
+            49
+          ],
+          [
+            "OR",
+            110
+          ],
+          [
+            "OR",
+            121
+          ],
+          [
+            "OR",
+            126
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 3275,
+            "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [
+                "avocational",
+                "reading",
+                "television",
+                "driving",
+                "occupational"
+              ],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                18
+              ],
+              [
+                "AND",
+                25
+              ],
+              [
+                "AND",
+                46
+              ],
+              [
+                "OR",
+                21
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 7470,
+            "text": "the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income).",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [
+                "independence",
+                "lifestyle"
+              ],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [],
+            "sub_items": []
+          }
+        ]
+      },
+      {
+        "id": 6504,
+        "text": "Objective: The best correctable Snellen visual acuity in the affected eye is 20/50 or worse, The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health permits surgery to be performed safely.",
+        "standardized_entities": {
+          "Visual_Acuity": [
+            "20/50",
+            "snellen"
+          ],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            42
+          ],
+          [
+            "AND",
+            47
+          ],
+          [
+            "OR",
+            14
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 7959,
+            "text": "The best correctable Snellen visual acuity in the affected eye is 20/50 or worse,",
+            "standardized_entities": {
+              "Visual_Acuity": [
+                "20/50",
+                "snellen"
+              ],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "OR",
+                12
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 8085,
+            "text": "The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [
+                "cataract"
+              ],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                25
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 4823,
+            "text": "The member's medical and mental health permits surgery to be performed safely.",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                4
+              ]
+            ],
+            "sub_items": []
+          }
+        ]
+      },
+      {
+        "id": 9894,
+        "text": "Educational: The member has been educated about the risks and benefits of cataract surgery, including alternatives to treatment and the member determines if the expected reduction in the disability outweighs the potential risk, cost and inconvenience of surgery.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            10
+          ],
+          [
+            "AND",
+            20
+          ],
+          [
+            "AND",
+            37
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "4610": {
+    "id": 4610,
+    "text": "For members with visual disability with a Snellen Acuity of 20/40 or better, cataract surgery is considered medically necessary when all of the following subjective, objective, and educational criteria are met: Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired.\u00c2\u00a0 The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light. The loss of vision mimicking the member's complaints should be verified before the member is considered a candidate for cataract surgery. Note: A drop in visual acuity in bright light is the quantitative element that allows one to correlate the \"loss of vision\" with the \"member's complaints\".\u00c2\u00a0 The most common cataract that produces this type of light-related visual loss is a centrally located posterior subcapsular plaque (PSCP). Objective: The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye, There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or Complaints of monocular diplopia or polyopia, or Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health should permit surgery to be performed safely. Educational: The member has been educated about the risks and benefits of cataract surgery, including alternatives to treatment and the member determines if the expected reduction in the disability outweighs the potential risk, cost and inconvenience of surgery.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/40",
+        "snellen"
+      ],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "independence",
+        "lifestyle",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [
+        "diplopia",
+        "polyopia",
+        "glare"
+      ],
+      "Diagnostic_Tests": [
+        "glare testing",
+        "contrast sensitivity testing"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        29
+      ],
+      [
+        "AND",
+        80
+      ],
+      [
+        "AND",
+        87
+      ],
+      [
+        "AND",
+        132
+      ],
+      [
+        "AND",
+        339
+      ],
+      [
+        "AND",
+        365
+      ],
+      [
+        "AND",
+        370
+      ],
+      [
+        "AND",
+        391
+      ],
+      [
+        "AND",
+        401
+      ],
+      [
+        "AND",
+        418
+      ],
+      [
+        "OR",
+        11
+      ],
+      [
+        "OR",
+        42
+      ],
+      [
+        "OR",
+        49
+      ],
+      [
+        "OR",
+        83
+      ],
+      [
+        "OR",
+        268
+      ],
+      [
+        "OR",
+        313
+      ],
+      [
+        "OR",
+        318
+      ],
+      [
+        "OR",
+        323
+      ],
+      [
+        "OR",
+        326
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 7156,
+        "text": "Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired.\u00c2\u00a0 The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light. The loss of vision mimicking the member's complaints should be verified before the member is considered a candidate for cataract surgery. Note: A drop in visual acuity in bright light is the quantitative element that allows one to correlate the \"loss of vision\" with the \"member's complaints\".\u00c2\u00a0 The most common cataract that produces this type of light-related visual loss is a centrally located posterior subcapsular plaque (PSCP).",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "avocational",
+            "reading",
+            "independence",
+            "lifestyle",
+            "television",
+            "driving",
+            "occupational"
+          ],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [
+            "glare"
+          ],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            45
+          ],
+          [
+            "AND",
+            52
+          ],
+          [
+            "AND",
+            97
+          ],
+          [
+            "OR",
+            7
+          ],
+          [
+            "OR",
+            14
+          ],
+          [
+            "OR",
+            48
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 1228,
+            "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision);",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [
+                "avocational",
+                "reading",
+                "television",
+                "driving",
+                "occupational"
+              ],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                18
+              ],
+              [
+                "AND",
+                25
+              ],
+              [
+                "OR",
+                21
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 8135,
+            "text": "the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [
+                "independence",
+                "lifestyle"
+              ],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                24
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 3218,
+            "text": "the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light.",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [
+                "glare"
+              ],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [],
+            "sub_items": []
+          }
+        ]
+      },
+      {
+        "id": 5559,
+        "text": "Objective: The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye, There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or Complaints of monocular diplopia or polyopia, or Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health should permit surgery to be performed safely.",
+        "standardized_entities": {
+          "Visual_Acuity": [
+            "20/40",
+            "snellen"
+          ],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [
+            "diplopia",
+            "polyopia",
+            "glare"
+          ],
+          "Diagnostic_Tests": [
+            "glare testing",
+            "contrast sensitivity testing"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            84
+          ],
+          [
+            "AND",
+            110
+          ],
+          [
+            "AND",
+            115
+          ],
+          [
+            "OR",
+            13
+          ],
+          [
+            "OR",
+            58
+          ],
+          [
+            "OR",
+            63
+          ],
+          [
+            "OR",
+            68
+          ],
+          [
+            "OR",
+            71
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 6146,
+            "text": "The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye,",
+            "standardized_entities": {
+              "Visual_Acuity": [
+                "20/40",
+                "snellen"
+              ],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "OR",
+                11
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 9838,
+            "text": "There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [
+                "glare"
+              ],
+              "Diagnostic_Tests": [
+                "glare testing",
+                "contrast sensitivity testing"
+              ],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "OR",
+                38
+              ],
+              [
+                "OR",
+                43
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 126,
+            "text": "Complaints of monocular diplopia or polyopia, or",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [
+                "diplopia",
+                "polyopia"
+              ],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "OR",
+                4
+              ],
+              [
+                "OR",
+                7
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 4588,
+            "text": "Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                12
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 8085,
+            "text": "The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [
+                "cataract"
+              ],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                25
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 1197,
+            "text": "The member's medical and mental health should permit surgery to be performed safely.",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                4
+              ]
+            ],
+            "sub_items": []
+          }
+        ]
+      },
+      {
+        "id": 9894,
+        "text": "Educational: The member has been educated about the risks and benefits of cataract surgery, including alternatives to treatment and the member determines if the expected reduction in the disability outweighs the potential risk, cost and inconvenience of surgery.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            10
+          ],
+          [
+            "AND",
+            20
+          ],
+          [
+            "AND",
+            37
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "8231": {
+    "id": 8231,
+    "text": "Persons blind in one eye: Cataract removal surgery is considered medically necessary for one-eyed members with visual disability of 20/50 or worse due to a cataract; that is, a member with irreversible, untreatable legal blindness (20/200 or worse) in the other eye. Note : In most States, 20/40 vision or better is required to drive.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/50",
+        "20/200",
+        "20/40"
+      ],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        21
+      ],
+      [
+        "OR",
+        41
+      ],
+      [
+        "OR",
+        57
+      ]
+    ],
+    "sub_items": []
+  },
+  "55": {
+    "id": 55,
+    "text": "Cataract removal surgery involving removal of the lens is considered medically necessary without regard to visual disability when any of the following criteria is met: Member has lens-induced disease (e.g., phacomorphic glaucoma, phacolytic glaucoma, phacoanaphylactic endophthalmitis, dislocated or subluxated lens), or There is a need to visualize the fundus (retina) in an eye that has the potential for sight in any of the following conditions: Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma; To prepare for vitrectomy; To prepare for surgical repair of retinal detachment; or When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "retinopathy",
+        "glaucoma",
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [
+        "diabetes"
+      ],
+      "Surgical_Procedures": [
+        "vitrectomy"
+      ],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        125
+      ],
+      [
+        "OR",
+        43
+      ],
+      [
+        "OR",
+        48
+      ],
+      [
+        "OR",
+        112
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 3582,
+        "text": "Member has lens-induced disease (e.g., phacomorphic glaucoma, phacolytic glaucoma, phacoanaphylactic endophthalmitis, dislocated or subluxated lens), or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "glaucoma"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            17
+          ],
+          [
+            "OR",
+            22
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 7855,
+        "text": "There is a need to visualize the fundus (retina) in an eye that has the potential for sight in any of the following conditions: Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma; To prepare for vitrectomy; To prepare for surgical repair of retinal detachment; or When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "retinopathy",
+            "glaucoma"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [
+            "diabetes"
+          ],
+          "Surgical_Procedures": [
+            "vitrectomy"
+          ],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            76
+          ],
+          [
+            "OR",
+            63
+          ]
+        ],
+        "sub_items": [
+          {
+            "id": 9824,
+            "text": "Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma;",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [
+                "retinopathy",
+                "glaucoma"
+              ],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [
+                "diabetes"
+              ],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [],
+            "sub_items": []
+          },
+          {
+            "id": 9500,
+            "text": "To prepare for vitrectomy;",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [
+                "vitrectomy"
+              ],
+              "IOL_Types": []
+            },
+            "logical_structure": [],
+            "sub_items": []
+          },
+          {
+            "id": 792,
+            "text": "To prepare for surgical repair of retinal detachment; or",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "OR",
+                9
+              ]
+            ],
+            "sub_items": []
+          },
+          {
+            "id": 565,
+            "text": "When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+            "standardized_entities": {
+              "Visual_Acuity": [],
+              "Functional_Impairment": [],
+              "Objective_Findings": [],
+              "Subjective_Symptoms": [],
+              "Diagnostic_Tests": [],
+              "Medical_Conditions": [],
+              "Surgical_Procedures": [],
+              "IOL_Types": []
+            },
+            "logical_structure": [
+              [
+                "AND",
+                12
+              ]
+            ],
+            "sub_items": []
+          }
+        ]
+      }
+    ]
+  },
+  "6057": {
+    "id": 6057,
+    "text": "Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired. The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income). Note: Functional impairment due to cataracts refers to lost or diminished ability to perform everyday activities, participate in hobbies or other leisure-time activities, or to work in one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s occupation. Several instruments such as the VF-14, the activities of daily vision scale and the visual activities questionnaire are available for assessing functional impairment related to cataract. In general, driving an automobile is the limiting life-style activity with visual acuity in the 20/50 to 20/60 range. Almost all states require 20/40 vision in one eye to get a driver's license. Household activities and reading are usually not limiting until the member reaches 20/70 vision.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/50",
+        "20/40",
+        "20/60",
+        "20/70"
+      ],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "independence",
+        "lifestyle",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        46
+      ],
+      [
+        "AND",
+        53
+      ],
+      [
+        "AND",
+        74
+      ],
+      [
+        "AND",
+        146
+      ],
+      [
+        "AND",
+        200
+      ],
+      [
+        "OR",
+        7
+      ],
+      [
+        "OR",
+        14
+      ],
+      [
+        "OR",
+        49
+      ],
+      [
+        "OR",
+        110
+      ],
+      [
+        "OR",
+        121
+      ],
+      [
+        "OR",
+        126
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 3275,
+        "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "avocational",
+            "reading",
+            "television",
+            "driving",
+            "occupational"
+          ],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            18
+          ],
+          [
+            "AND",
+            25
+          ],
+          [
+            "AND",
+            46
+          ],
+          [
+            "OR",
+            21
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 7470,
+        "text": "the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income).",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "independence",
+            "lifestyle"
+          ],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "6504": {
+    "id": 6504,
+    "text": "Objective: The best correctable Snellen visual acuity in the affected eye is 20/50 or worse, The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health permits surgery to be performed safely.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/50",
+        "snellen"
+      ],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        42
+      ],
+      [
+        "AND",
+        47
+      ],
+      [
+        "OR",
+        14
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 7959,
+        "text": "The best correctable Snellen visual acuity in the affected eye is 20/50 or worse,",
+        "standardized_entities": {
+          "Visual_Acuity": [
+            "20/50",
+            "snellen"
+          ],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            12
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 8085,
+        "text": "The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            25
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 4823,
+        "text": "The member's medical and mental health permits surgery to be performed safely.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            4
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "9894": {
+    "id": 9894,
+    "text": "Educational: The member has been educated about the risks and benefits of cataract surgery, including alternatives to treatment and the member determines if the expected reduction in the disability outweighs the potential risk, cost and inconvenience of surgery.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        10
+      ],
+      [
+        "AND",
+        20
+      ],
+      [
+        "AND",
+        37
+      ]
+    ],
+    "sub_items": []
+  },
+  "3275": {
+    "id": 3275,
+    "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); and",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        18
+      ],
+      [
+        "AND",
+        25
+      ],
+      [
+        "AND",
+        46
+      ],
+      [
+        "OR",
+        21
+      ]
+    ],
+    "sub_items": []
+  },
+  "7470": {
+    "id": 7470,
+    "text": "the member's perception of the impact of the visual disability on lifestyle (e.g., loss of independence, loss of income).",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "independence",
+        "lifestyle"
+      ],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "7959": {
+    "id": 7959,
+    "text": "The best correctable Snellen visual acuity in the affected eye is 20/50 or worse,",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/50",
+        "snellen"
+      ],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        12
+      ]
+    ],
+    "sub_items": []
+  },
+  "8085": {
+    "id": 8085,
+    "text": "The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        25
+      ]
+    ],
+    "sub_items": []
+  },
+  "4823": {
+    "id": 4823,
+    "text": "The member's medical and mental health permits surgery to be performed safely.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        4
+      ]
+    ],
+    "sub_items": []
+  },
+  "7156": {
+    "id": 7156,
+    "text": "Subjective: The member perceives that his or her ability to carry out needed or desired activities is impaired.\u00c2\u00a0 The member's decision is based on: the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision); the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light. The loss of vision mimicking the member's complaints should be verified before the member is considered a candidate for cataract surgery. Note: A drop in visual acuity in bright light is the quantitative element that allows one to correlate the \"loss of vision\" with the \"member's complaints\".\u00c2\u00a0 The most common cataract that produces this type of light-related visual loss is a centrally located posterior subcapsular plaque (PSCP).",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "independence",
+        "lifestyle",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [
+        "glare"
+      ],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        45
+      ],
+      [
+        "AND",
+        52
+      ],
+      [
+        "AND",
+        97
+      ],
+      [
+        "OR",
+        7
+      ],
+      [
+        "OR",
+        14
+      ],
+      [
+        "OR",
+        48
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 1228,
+        "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision);",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "avocational",
+            "reading",
+            "television",
+            "driving",
+            "occupational"
+          ],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            18
+          ],
+          [
+            "AND",
+            25
+          ],
+          [
+            "OR",
+            21
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 8135,
+        "text": "the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [
+            "independence",
+            "lifestyle"
+          ],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            24
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 3218,
+        "text": "the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [
+            "glare"
+          ],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "5559": {
+    "id": 5559,
+    "text": "Objective: The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye, There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or Complaints of monocular diplopia or polyopia, or Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and The member's medical and mental health should permit surgery to be performed safely.",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/40",
+        "snellen"
+      ],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [
+        "diplopia",
+        "polyopia",
+        "glare"
+      ],
+      "Diagnostic_Tests": [
+        "glare testing",
+        "contrast sensitivity testing"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        84
+      ],
+      [
+        "AND",
+        110
+      ],
+      [
+        "AND",
+        115
+      ],
+      [
+        "OR",
+        13
+      ],
+      [
+        "OR",
+        58
+      ],
+      [
+        "OR",
+        63
+      ],
+      [
+        "OR",
+        68
+      ],
+      [
+        "OR",
+        71
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 6146,
+        "text": "The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye,",
+        "standardized_entities": {
+          "Visual_Acuity": [
+            "20/40",
+            "snellen"
+          ],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            11
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 9838,
+        "text": "There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [
+            "glare"
+          ],
+          "Diagnostic_Tests": [
+            "glare testing",
+            "contrast sensitivity testing"
+          ],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            38
+          ],
+          [
+            "OR",
+            43
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 126,
+        "text": "Complaints of monocular diplopia or polyopia, or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [
+            "diplopia",
+            "polyopia"
+          ],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            4
+          ],
+          [
+            "OR",
+            7
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 4588,
+        "text": "Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            12
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 8085,
+        "text": "The eye examination confirms that the cataract is the limiting factor for improving visual function when other factors do not preclude improvement following surgery, and",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "cataract"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            25
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 1197,
+        "text": "The member's medical and mental health should permit surgery to be performed safely.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            4
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "1228": {
+    "id": 1228,
+    "text": "the member's own assessment of visual disability (e.g., impact on driving, viewing television, and special occupational or avocational needs) and, in particular, disability at near sight (e.g., reading, occupational activities requiring near vision);",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "avocational",
+        "reading",
+        "television",
+        "driving",
+        "occupational"
+      ],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        18
+      ],
+      [
+        "AND",
+        25
+      ],
+      [
+        "OR",
+        21
+      ]
+    ],
+    "sub_items": []
+  },
+  "8135": {
+    "id": 8135,
+    "text": "the member's perception of the impact of the disability on lifestyle (e.g., loss of independence, loss of income); and",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "independence",
+        "lifestyle"
+      ],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        24
+      ]
+    ],
+    "sub_items": []
+  },
+  "3218": {
+    "id": 3218,
+    "text": "the member's complaints of glare disabling eyesight in daylight conditions is inconsistent with the visual acuity measured in a darkened room; however, it must be confirmed by the documented assessment of visual functions under conditions of bright ambient light.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [
+        "glare"
+      ],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "6146": {
+    "id": 6146,
+    "text": "The member's best correctable Snellen visual acuity is 20/40 Snellen or better in the affected eye,",
+    "standardized_entities": {
+      "Visual_Acuity": [
+        "20/40",
+        "snellen"
+      ],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        11
+      ]
+    ],
+    "sub_items": []
+  },
+  "9838": {
+    "id": 9838,
+    "text": "There is a significant loss of visual acuity in bright ambient light that\u00c2\u00a0is\u00c2\u00a0confirmed by\u00c2\u00a0the use of (but not limited to) procedures such as glare testing, brightness acuity testing (BAT), or contrast sensitivity testing, or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [
+        "glare"
+      ],
+      "Diagnostic_Tests": [
+        "glare testing",
+        "contrast sensitivity testing"
+      ],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        38
+      ],
+      [
+        "OR",
+        43
+      ]
+    ],
+    "sub_items": []
+  },
+  "126": {
+    "id": 126,
+    "text": "Complaints of monocular diplopia or polyopia, or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [
+        "diplopia",
+        "polyopia"
+      ],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        4
+      ],
+      [
+        "OR",
+        7
+      ]
+    ],
+    "sub_items": []
+  },
+  "4588": {
+    "id": 4588,
+    "text": "Visual disparity existing between the two eyes (anisometropia),\u00c2\u00a0and",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        12
+      ]
+    ],
+    "sub_items": []
+  },
+  "1197": {
+    "id": 1197,
+    "text": "The member's medical and mental health should permit surgery to be performed safely.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        4
+      ]
+    ],
+    "sub_items": []
+  },
+  "3582": {
+    "id": 3582,
+    "text": "Member has lens-induced disease (e.g., phacomorphic glaucoma, phacolytic glaucoma, phacoanaphylactic endophthalmitis, dislocated or subluxated lens), or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "glaucoma"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        17
+      ],
+      [
+        "OR",
+        22
+      ]
+    ],
+    "sub_items": []
+  },
+  "7855": {
+    "id": 7855,
+    "text": "There is a need to visualize the fundus (retina) in an eye that has the potential for sight in any of the following conditions: Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma; To prepare for vitrectomy; To prepare for surgical repair of retinal detachment; or When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "retinopathy",
+        "glaucoma"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [
+        "diabetes"
+      ],
+      "Surgical_Procedures": [
+        "vitrectomy"
+      ],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        76
+      ],
+      [
+        "OR",
+        63
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 9824,
+        "text": "Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [
+            "retinopathy",
+            "glaucoma"
+          ],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [
+            "diabetes"
+          ],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 9500,
+        "text": "To prepare for vitrectomy;",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [
+            "vitrectomy"
+          ],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 792,
+        "text": "To prepare for surgical repair of retinal detachment; or",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "OR",
+            9
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 565,
+        "text": "When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            12
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "9824": {
+    "id": 9824,
+    "text": "Diabetes with significant risk of reduced visual acuity (diabetic retinopathy) requiring photocoagulation management through clear media to monitor glaucoma;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "retinopathy",
+        "glaucoma"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [
+        "diabetes"
+      ],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "9500": {
+    "id": 9500,
+    "text": "To prepare for vitrectomy;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [
+        "vitrectomy"
+      ],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "792": {
+    "id": 792,
+    "text": "To prepare for surgical repair of retinal detachment; or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        9
+      ]
+    ],
+    "sub_items": []
+  },
+  "565": {
+    "id": 565,
+    "text": "When other special investigations demonstrate intra-ocular pathology where further attention is important and requires clear media.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        12
+      ]
+    ],
+    "sub_items": []
+  },
+  "7818": {
+    "id": 7818,
+    "text": "Capsular tension rings (e.g., StabilEyes) for stabilization of the lens capsule during IOL placement in conditions associated with weak or partially absent zonules (including primary zonular weakness (e.g., Marfan syndrome), and secondary zonular weakness (e.g., trauma or vitrectomy)); Other medically necessary indications may be cases of zonulysis, pseudo-exfoliation and Marchesani\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s syndrome. An unexpected loss of zonules during surgery may also support the medical necessity of a CTR. Note: The use of capsular tension rings is considered integral to the ocular surgery and is not separately reimbursed.",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [
+        "marfan syndrome"
+      ],
+      "Surgical_Procedures": [
+        "vitrectomy"
+      ],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        38
+      ],
+      [
+        "AND",
+        62
+      ],
+      [
+        "AND",
+        98
+      ],
+      [
+        "OR",
+        22
+      ],
+      [
+        "OR",
+        46
+      ]
+    ],
+    "sub_items": []
+  },
+  "2688": {
+    "id": 2688,
+    "text": "Nd:YAG laser capsulotomy when performed 6 months or more following cataract extraction in members with visually significant clouding (opacification) of the posterior portion of the membrane that surrounds the lens (the posterior capsule). Requests for Nd:YAG laser capsulotomy performed within 6 months of cataract extraction should be forwarded for medical review;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "clouding",
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        9
+      ]
+    ],
+    "sub_items": []
+  },
+  "8251": {
+    "id": 8251,
+    "text": "Combined glaucoma and cataract surgery for persons with a visually significant cataract with uncontrolled glaucoma despite maximal medical therapy and/or laser trabeculoplasty;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [
+        "cataract",
+        "glaucoma"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [
+        "trabeculoplasty"
+      ],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        2
+      ]
+    ],
+    "sub_items": []
+  },
+  "7920": {
+    "id": 7920,
+    "text": "For aphakia: Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA); Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO); Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY)); Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX)); Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb);",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": [
+        "monofocal"
+      ]
+    },
+    "logical_structure": [
+      [
+        "AND",
+        45
+      ],
+      [
+        "AND",
+        128
+      ],
+      [
+        "AND",
+        265
+      ],
+      [
+        "AND",
+        391
+      ]
+    ],
+    "sub_items": [
+      {
+        "id": 5351,
+        "text": "Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA);",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [],
+        "sub_items": []
+      },
+      {
+        "id": 2818,
+        "text": "Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO);",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": []
+        },
+        "logical_structure": [
+          [
+            "AND",
+            18
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 1826,
+        "text": "Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY));",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": [
+            "monofocal"
+          ]
+        },
+        "logical_structure": [
+          [
+            "AND",
+            79
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 7195,
+        "text": "Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX));",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": [
+            "monofocal"
+          ]
+        },
+        "logical_structure": [
+          [
+            "AND",
+            119
+          ]
+        ],
+        "sub_items": []
+      },
+      {
+        "id": 2283,
+        "text": "Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb);",
+        "standardized_entities": {
+          "Visual_Acuity": [],
+          "Functional_Impairment": [],
+          "Objective_Findings": [],
+          "Subjective_Symptoms": [],
+          "Diagnostic_Tests": [],
+          "Medical_Conditions": [],
+          "Surgical_Procedures": [],
+          "IOL_Types": [
+            "monofocal"
+          ]
+        },
+        "logical_structure": [
+          [
+            "AND",
+            111
+          ]
+        ],
+        "sub_items": []
+      }
+    ]
+  },
+  "5351": {
+    "id": 5351,
+    "text": "Standard posterior chamber IOL for hyperopia (e.g., Clariflex, Sensar AR40e, Advanced Medical Optics, Santa Ana, CA);",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  },
+  "2818": {
+    "id": 2818,
+    "text": "Standard anterior chamber IOLs (e.g., ALcon MTA2UO, MTA3UO, MTA4UO, MTA5UO, MTA6UO, and MTA7UO);",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "AND",
+        18
+      ]
+    ],
+    "sub_items": []
+  },
+  "1826": {
+    "id": 1826,
+    "text": "Standard fixed monofocal posterior chamber IOLs (e.g., Akreos posterior fixed monofocal IOL (Bausch & Lomb, Rochester, NY), Akreos AO Micro Incision Lens (Model MI60L), AcrySof SA60AT monofocal IOL (Alcon Surgical, Fort Worth, TX), AcrySof MA60AC, AcrySof MA60MA, AcrySof SN60AT, Alcon MZ30BD, CeeOn Edge (Pharmacia Corp., Peepack, NJ), Tecnis monofocal IOL (Model PCB00), and the Hydroview hydrogel foldable posterior IOL (Bausch & Lomb, Rochester, NY));",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": [
+        "monofocal"
+      ]
+    },
+    "logical_structure": [
+      [
+        "AND",
+        79
+      ]
+    ],
+    "sub_items": []
+  },
+  "7195": {
+    "id": 7195,
+    "text": "Aspheric monofocal posterior chamber IOLs (e.g., AcrySof IQ IOL (Alcon Surgical, Fort Worth, TX), Alcon CZ70BD, Alcon SA60WF, SN6CWS, Tecnis (Z9000, Z9001, Z9002, ZA9003, Abbott Medical Optics, Santa Ana, CA), SofPort AO IOL (Bausch & Lomb, Rochester, NY), Sofport LI61AO, Staar Model CC4204A, Akreos AO Aspheric IOL (Bausch & Lomb, Rochester, NY), Akreos SA 060, Hoya PY-60AD (Hoya Surgical Optics GmbH, Frankfurt, Germany), Abbott ZCB00, Tecnis AMO Aspheric IOL ZCB00 (Abbott Medical Optics, Santa Ana, CA), and Acrysof IQ SN60WS (Alcon Surgical, Fort Worth, TX));",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": [
+        "monofocal"
+      ]
+    },
+    "logical_structure": [
+      [
+        "AND",
+        119
+      ]
+    ],
+    "sub_items": []
+  },
+  "2283": {
+    "id": 2283,
+    "text": "Standard fixed monofocal posterior chamber ultraviolet absorbing IOLs for aphakia (e.g., AcrySof Natural blue-light filtering IOL including the AcrySof MN60MA (Alcon Surgical, Fort Worth, TX), AcrySof SN60WF, SofPort AO IOL with Violet Shield Technology (Bausch & Lomb, Rochester, NY), C-flex IOL model 570C (Rayner Surgical Inc., Los Angeles, CA), Clareon aspheric hydrophobic acrylic IOL, EC-3 PAL (Aaren Scientific, Ontario, CA), iSpheric Model YA-60BB IOL (Hoya Surgical Optics, Chino Hills, CA), Softec HD (Lenstec Inc., St. Petersburg, FL); and XACT Foldable Hydrophobic Acrylic Ultraviolet Light-Absorbing Posterior Chamber IOLs (Bausch & Lomb);",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": [
+        "monofocal"
+      ]
+    },
+    "logical_structure": [
+      [
+        "AND",
+        111
+      ]
+    ],
+    "sub_items": []
+  },
+  "7702": {
+    "id": 7702,
+    "text": "Glasses or visual aids provide satisfactory functional vision;",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        1
+      ]
+    ],
+    "sub_items": []
+  },
+  "8098": {
+    "id": 8098,
+    "text": "The member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s lifestyle is not compromised; or",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "lifestyle"
+      ],
+      "Objective_Findings": [],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [
+      [
+        "OR",
+        7
+      ]
+    ],
+    "sub_items": []
+  },
+  "2948": {
+    "id": 2948,
+    "text": "The member is medically unfit (e.g., conditions such as comatose patients, organic brain syndrome, end stage Alzheimer's disease, persons with no light perception, etc. in which cataract surgery will not improve the member\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s independence).",
+    "standardized_entities": {
+      "Visual_Acuity": [],
+      "Functional_Impairment": [
+        "independence"
+      ],
+      "Objective_Findings": [
+        "cataract"
+      ],
+      "Subjective_Symptoms": [],
+      "Diagnostic_Tests": [],
+      "Medical_Conditions": [],
+      "Surgical_Procedures": [],
+      "IOL_Types": []
+    },
+    "logical_structure": [],
+    "sub_items": []
+  }
+}

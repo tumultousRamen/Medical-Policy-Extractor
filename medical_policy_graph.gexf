@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-06-26">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="relationship" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="text" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="5594" label="5594">
+        <attvalues>
+          <attvalue for="0" value="Aetna considers the following procedures medically necessary as a diagnostic test prior to cataract surgery: Comprehensive eye examination; or Brief or intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." />
+        </attvalues>
+      </node>
+      <node id="Objective_Findings:cataract" label="Objective_Findings:cataract">
+        <attvalues>
+          <attvalue for="1" value="Objective_Findings" />
+        </attvalues>
+      </node>
+      <node id="Diagnostic_Tests:a-scan" label="Diagnostic_Tests:a-scan">
+        <attvalues>
+          <attvalue for="1" value="Diagnostic_Tests" />
+        </attvalues>
+      </node>
+      <node id="Diagnostic_Tests:b-scan" label="Diagnostic_Tests:b-scan">
+        <attvalues>
+          <attvalue for="1" value="Diagnostic_Tests" />
+        </attvalues>
+      </node>
+      <node id="Diagnostic_Tests:ultrasound" label="Diagnostic_Tests:ultrasound">
+        <attvalues>
+          <attvalue for="1" value="Diagnostic_Tests" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_Brief or intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_Brief or intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:AND_A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:AND_A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." label="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="5149" label="5149">
+        <attvalues>
+          <attvalue for="0" value="Comprehensive eye examination; or" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_5594" label="Logic:OR_5594">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="6284" label="6284">
+        <attvalues>
+          <attvalue for="0" value="Brief or intermediate examination; and" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_intermediate examination; and" label="Logic:OR_intermediate examination; and">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:AND_5594" label="Logic:AND_5594">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="4360" label="4360">
+        <attvalues>
+          <attvalue for="0" value="A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." label="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." label="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." label="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+      <node id="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." label="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract.">
+        <attvalues>
+          <attvalue for="1" value="Logic" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="5594" target="Objective_Findings:cataract" id="0">
+        <attvalues>
+          <attvalue for="2" value="has_objective_findings" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Diagnostic_Tests:a-scan" id="1">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Diagnostic_Tests:b-scan" id="2">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Diagnostic_Tests:ultrasound" id="3">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_Brief or intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="4">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_intermediate examination; and A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="5">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:AND_A-scan In addition to a comprehensive or brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="6">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="7">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="8">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="9">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract. Other pre-operative ophthalmologic tests may be considered medically necessary if there is another diagnosis in addition to cataracts." id="10">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="5149" id="11">
+        <attvalues>
+          <attvalue for="2" value="contains" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="6284" id="12">
+        <attvalues>
+          <attvalue for="2" value="contains" />
+        </attvalues>
+      </edge>
+      <edge source="5594" target="4360" id="13">
+        <attvalues>
+          <attvalue for="2" value="contains" />
+        </attvalues>
+      </edge>
+      <edge source="5149" target="Logic:OR_5594" id="14">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="6284" target="Logic:OR_intermediate examination; and" id="15">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="6284" target="Logic:AND_5594" id="16">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Objective_Findings:cataract" id="17">
+        <attvalues>
+          <attvalue for="2" value="has_objective_findings" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Diagnostic_Tests:a-scan" id="18">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Diagnostic_Tests:b-scan" id="19">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Diagnostic_Tests:ultrasound" id="20">
+        <attvalues>
+          <attvalue for="2" value="requires" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Logic:OR_brief/intermediate eye examination, A-mode ultrasound (A-scan) may be considered medically necessary prior to cataract surgery to determine the appropriate pseudophakic power of the IOL. Footnote1 * Footnote1 *Â B-scan ultrasound is considered medically necessary in place of A-scan ultrasound where direct visualization of the retina is difficult or impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." id="21">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Logic:OR_impossible including lid problems (e.g., severe edema, partial or total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." id="22">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Logic:OR_total tarsorrhaphy), keratoprosthesis, corneal opacities (e.g., scars, severe edema), hyphema, hypopyon, miosis, dense cataract, pupillary membranes, or vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." id="23">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+      <edge source="4360" target="Logic:OR_vitreous opacities (e.g., hemorrhage, inflammatory debris). Note : B-scan ultrasound is considered medically necessary for pre-operative work-up of individuals with Morgagnian cataract." id="24">
+        <attvalues>
+          <attvalue for="2" value="has_logic" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
