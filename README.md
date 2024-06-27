@@ -31,9 +31,3 @@
 - **Effectiveness**: How well does the algorithm extract and standardize the medical necessity criteria?
 - **Innovativeness**: How innovative are the solutions to challenges faced during the project?
 - **Scalability**: Can the solution be scaled to accommodate larger datasets or multiple insurance policies?
-
-### Submission:
-
-Candidates should submit their completed assignment via email to [alex@claritycare.ai](mailto:alex@claritycare.ai) & [hermine@claritycare.ai](mailto:hermine@claritycare.ai). 
-
-Please include all code, documentation, and the presentation file in your submission. You have **1 week** to submit by the time you get this assignment.
