@@ -1,6 +1,6 @@
 # Medical-Policy-Extractor
 
-### Assignment Objectives:
+### Objectives:
 
 1. **Data Collection**:
     - Access medical policies from various sources such as:
