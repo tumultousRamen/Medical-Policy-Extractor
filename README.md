@@ -20,14 +20,4 @@
     - Criteria may include accuracy, completeness of data extraction, consistency across different data sources, efficiency of the process, and scalability.
 4. **Documentation and Presentation**:
     - Document the methodology, challenges, and solutions encountered during the development process and be ready to talk about them in your code.
-  
-### Deliverables:
 
-- A well documented Jupyter Notebook or python file with the extraction algorithm and evaluation code. Make sure you are ready to answer questions about it.
-- Make sure you name the file in the following format firstname_lastname_position.ipynb (eg. hermine_tranie_ml_engineer_full_time.ipynb)
-
-### Evaluation Criteria:
-
-- **Effectiveness**: How well does the algorithm extract and standardize the medical necessity criteria?
-- **Innovativeness**: How innovative are the solutions to challenges faced during the project?
-- **Scalability**: Can the solution be scaled to accommodate larger datasets or multiple insurance policies?
