@@ -3,7 +3,6 @@
 ### Objectives:
 
 1. **Data Collection**:
-    - Access medical policies from various sources such as:
         - [Oscar](https://www.hioscar.com/clinical-guidelines/medical)
         - [Aetna](https://www.aetna.com/health-care-professionals/clinical-policy-bulletins/medical-clinical-policy-bulletins.html)
         - [Anthem](https://www.anthem.com/provider/policies/clinical-guidelines/updates/)
