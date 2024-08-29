@@ -13,6 +13,10 @@
     - It uses SciSpacy, Named Entity Recognition (NER) and fuzzy matching to standardize necessity criteria and coding.
 3. **Performance**:
     - We evaluate our algorithms performance on scalability and accuracy using precision recall and knowledge graphs
+4. **To Run**:
+    - clone this repostory
+    - Upload it on Google Colab (in case you run into issues using the SciSpacy model)
+    - Run the notebook!
 
   
   # Medical Policy Extraction and Standardization
