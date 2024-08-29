@@ -165,5 +165,5 @@ class Demo:
 if __name__ == '__main__':
     demo = Demo()
     demo.generate_raw_data()
-    demo.ontologycreator()
-    demo.standardizer()
+    demo.generate_ontology()
+    demo.generate_processed_data()
