@@ -1,0 +1,882 @@
+{
+  "source": "aetna_policy_data_0586.json",
+  "criteria": [
+    {
+      "id": "0c93f0a8-5145-4cd3-9a74-caa0b74e8170",
+      "parent_id": null,
+      "text": "Human Heart Transplantation Aetna considers heart transplantation medically necessary for any of the following conditions (not an all-inclusive list) when the member meets the transplanting institution's protocol eligibility criteria. In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including \u00c2\u00a0the following indications when the selection criteria listed below are met and none of the absolute contraindications is present: Cardiac arrhythmia Cardiac re-transplantation due to graft failure Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies Congenital heart disease End-stage ventricular failure Idiopathic dilated cardiomyopathy Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery Intractable coronary artery disease Myocarditis Post-partum cardiomyopathy Right ventricular dysplasia/cardiomyopathy Valvular heart disease. Selection Criteria for Human Heart Transplantation For members off protocol, all criteria listed below must be met: New York Heart Association (NYHA) classification of heart failure III or IV (see Note below)\u00c2\u00a0- does not apply to pediatric members ; and Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and Adequate pulmonary, liver and renal function; and Absence of active infections that are not effectively treated; and Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and Absence of active or recurrent pancreatitis; and Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen. Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.\u00c2\u00a0 They are comfortable at rest. \u00c2\u00a0Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.\u00c2\u00a0 Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.\u00c2\u00a0 If any physical activity is undertaken, discomfort is increased. Contraindications Heart transplant is considered not medically\u00c2\u00a0necessary for persons with any of the following contraindications: Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless\u00c2\u00a0person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or Presence of bleeding peptic ulcer; or Presence of hepatitis B antigen; or Presence of diverticulitis; or Presence of immediately life-threatening neuromuscular disorders; or Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis)).",
+      "is_medical_necessity": true,
+      "logical_relation": "ANY",
+      "entities": {
+        "Treatment": [
+          "rehabilitation",
+          "surgery",
+          "therapy",
+          "treatment"
+        ],
+        "Risk Factors": [
+          "diabetes",
+          "hypertension"
+        ]
+      },
+      "child_relation": "ANY",
+      "next_sibling_id": "0d879f7b-7376-4dc3-8bfa-0bf2ae3524d2",
+      "children": [
+        {
+          "id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+          "parent_id": "0c93f0a8-5145-4cd3-9a74-caa0b74e8170",
+          "text": "In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including \u00c2\u00a0the following indications when the selection criteria listed below are met and none of the absolute contraindications is present: Cardiac arrhythmia Cardiac re-transplantation due to graft failure Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies Congenital heart disease End-stage ventricular failure Idiopathic dilated cardiomyopathy Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery Intractable coronary artery disease Myocarditis Post-partum cardiomyopathy Right ventricular dysplasia/cardiomyopathy Valvular heart disease.",
+          "is_medical_necessity": true,
+          "logical_relation": "ANY",
+          "entities": {
+            "Treatment": [
+              "surgery"
+            ]
+          },
+          "child_relation": "ANY",
+          "next_sibling_id": "d2014043-3980-4b15-8183-81294fad4b43",
+          "children": [
+            {
+              "id": "cb7ce319-09bc-4e12-a29b-c24b8cdca5dd",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Cardiac arrhythmia",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "78179d28-0ff8-4851-b734-694aa5e61969",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "78179d28-0ff8-4851-b734-694aa5e61969",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Cardiac re-transplantation due to graft failure",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "368dd430-cc08-41ce-8e87-6c8b597343de",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "368dd430-cc08-41ce-8e87-6c8b597343de",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "2f2480c0-be03-4448-b622-759209a45124",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "2f2480c0-be03-4448-b622-759209a45124",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Congenital heart disease",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "14d7a9cd-fe52-4611-b6a8-2c79244d85a6",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "14d7a9cd-fe52-4611-b6a8-2c79244d85a6",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "End-stage ventricular failure",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "c20c3207-10e6-4db3-930d-4dabd66bc35c",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "c20c3207-10e6-4db3-930d-4dabd66bc35c",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Idiopathic dilated cardiomyopathy",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "0703c71a-ee4d-488d-92fe-6c2d81cb0c0e",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "0703c71a-ee4d-488d-92fe-6c2d81cb0c0e",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "surgery"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "f41e1ace-591e-4872-a93c-23c0556edb42",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "f41e1ace-591e-4872-a93c-23c0556edb42",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Intractable coronary artery disease",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "dfb1afb4-bdc4-4a78-bc1a-c7ab641060a2",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "dfb1afb4-bdc4-4a78-bc1a-c7ab641060a2",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Myocarditis",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "b758f8ec-2577-411a-b952-b58ac52bebe8",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "b758f8ec-2577-411a-b952-b58ac52bebe8",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Post-partum cardiomyopathy",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "d89e62b5-2865-4f69-9f47-356eb591ec9c",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "d89e62b5-2865-4f69-9f47-356eb591ec9c",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Right ventricular dysplasia/cardiomyopathy",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "61cf59e7-2edd-44cd-aeed-10a1991f78f1",
+              "next_sibling_relation": null
+            },
+            {
+              "id": "61cf59e7-2edd-44cd-aeed-10a1991f78f1",
+              "parent_id": "202cb8a6-70d2-4ea8-8d59-17099d22669b",
+              "text": "Valvular heart disease.",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": null
+            }
+          ],
+          "next_sibling_relation": null
+        },
+        {
+          "id": "d2014043-3980-4b15-8183-81294fad4b43",
+          "parent_id": "0c93f0a8-5145-4cd3-9a74-caa0b74e8170",
+          "text": "Selection Criteria for Human Heart Transplantation For members off protocol, all criteria listed below must be met: New York Heart Association (NYHA) classification of heart failure III or IV (see Note below)\u00c2\u00a0- does not apply to pediatric members ; and Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and Adequate pulmonary, liver and renal function; and Absence of active infections that are not effectively treated; and Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and Absence of active or recurrent pancreatitis; and Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen. Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.\u00c2\u00a0 They are comfortable at rest. \u00c2\u00a0Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.\u00c2\u00a0 Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.\u00c2\u00a0 If any physical activity is undertaken, discomfort is increased.",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "rehabilitation",
+              "therapy",
+              "treatment"
+            ],
+            "Risk Factors": [
+              "diabetes"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "08919295-d649-4669-9df4-d33016432d17",
+          "children": [
+            {
+              "id": "7b7c4844-fe0c-43b3-9734-b9d65c813e04",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "New York Heart Association (NYHA) classification of heart failure III or IV (see Note below)\u00c2\u00a0- does not apply to pediatric members ; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "5c760ce3-51fe-4e1f-83d7-dc069a89c6f3",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "5c760ce3-51fe-4e1f-83d7-dc069a89c6f3",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "rehabilitation"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "427de735-eeb0-4181-8949-7bf32854d032",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "427de735-eeb0-4181-8949-7bf32854d032",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "38b049da-8004-4d0d-ba88-c53f5f24e614",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "38b049da-8004-4d0d-ba88-c53f5f24e614",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "d9791fc7-19cc-4751-8c6f-7f3c841fa4a8",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "d9791fc7-19cc-4751-8c6f-7f3c841fa4a8",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Adequate pulmonary, liver and renal function; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "4720a47e-78a0-4ef3-a1eb-6c80f50057bc",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "4720a47e-78a0-4ef3-a1eb-6c80f50057bc",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Absence of active infections that are not effectively treated; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "therapy"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "bf8707ff-e4da-46c1-b38d-d34400e9deac",
+              "children": [
+                {
+                  "id": "0070fb58-c894-48ed-904e-0ef6903472c0",
+                  "parent_id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+                  "text": "CD4 count greater than 200 cells/mm 3 for greater than 6 months; and",
+                  "is_medical_necessity": false,
+                  "logical_relation": null,
+                  "entities": {},
+                  "child_relation": null,
+                  "next_sibling_id": "b753e780-a703-4277-bad9-b2e9553db9b6",
+                  "next_sibling_relation": "AND"
+                },
+                {
+                  "id": "b753e780-a703-4277-bad9-b2e9553db9b6",
+                  "parent_id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+                  "text": "HIV-1 RNA (viral load) undetectable; and",
+                  "is_medical_necessity": false,
+                  "logical_relation": null,
+                  "entities": {},
+                  "child_relation": null,
+                  "next_sibling_id": "d11eba86-38b8-4ce9-bafc-252e731ee553",
+                  "next_sibling_relation": "AND"
+                },
+                {
+                  "id": "d11eba86-38b8-4ce9-bafc-252e731ee553",
+                  "parent_id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+                  "text": "On stable anti-viral therapy greater than 3 months; and",
+                  "is_medical_necessity": false,
+                  "logical_relation": null,
+                  "entities": {
+                    "Treatment": [
+                      "therapy"
+                    ]
+                  },
+                  "child_relation": null,
+                  "next_sibling_id": "ad9f5b0b-f9b1-41fd-8631-b9a0907b5fe8",
+                  "next_sibling_relation": "AND"
+                },
+                {
+                  "id": "ad9f5b0b-f9b1-41fd-8631-b9a0907b5fe8",
+                  "parent_id": "e9176402-3c60-49a8-bb55-980d77041ed3",
+                  "text": "No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and",
+                  "is_medical_necessity": false,
+                  "logical_relation": null,
+                  "entities": {},
+                  "child_relation": null,
+                  "next_sibling_id": null
+                }
+              ],
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "bf8707ff-e4da-46c1-b38d-d34400e9deac",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Absence of active or recurrent pancreatitis; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "c80f4397-3efd-4112-b573-c22340515d56",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "c80f4397-3efd-4112-b573-c22340515d56",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Risk Factors": [
+                  "diabetes"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "47b8af0a-507d-45d3-8333-37d59389c876",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "47b8af0a-507d-45d3-8333-37d59389c876",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "treatment"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "735ff0c5-9c7b-4c06-916d-7b73323320b8",
+              "next_sibling_relation": "AND"
+            },
+            {
+              "id": "735ff0c5-9c7b-4c06-916d-7b73323320b8",
+              "parent_id": "d2014043-3980-4b15-8183-81294fad4b43",
+              "text": "No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen.",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "treatment"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": null
+            }
+          ],
+          "next_sibling_relation": null
+        },
+        {
+          "id": "08919295-d649-4669-9df4-d33016432d17",
+          "parent_id": "0c93f0a8-5145-4cd3-9a74-caa0b74e8170",
+          "text": "Contraindications Heart transplant is considered not medically\u00c2\u00a0necessary for persons with any of the following contraindications: Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless\u00c2\u00a0person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or Presence of bleeding peptic ulcer; or Presence of hepatitis B antigen; or Presence of diverticulitis; or Presence of immediately life-threatening neuromuscular disorders; or Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis)).",
+          "is_medical_necessity": false,
+          "logical_relation": "ANY",
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ],
+            "Risk Factors": [
+              "hypertension"
+            ]
+          },
+          "child_relation": "ANY",
+          "next_sibling_id": null,
+          "children": [
+            {
+              "id": "cf0ea69e-95da-48ac-addf-66ae2e0f2780",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless\u00c2\u00a0person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "3ea94428-87e4-45b2-beeb-0d7931ccb725",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "3ea94428-87e4-45b2-beeb-0d7931ccb725",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Risk Factors": [
+                  "hypertension"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": "a0dbf588-2d89-4524-8b78-b862516ed009",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "a0dbf588-2d89-4524-8b78-b862516ed009",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "9e64d870-67ff-4647-bf6d-2c18532fd42b",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "9e64d870-67ff-4647-bf6d-2c18532fd42b",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of bleeding peptic ulcer; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "df052376-3488-40ca-a5f5-5d215742d294",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "df052376-3488-40ca-a5f5-5d215742d294",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of hepatitis B antigen; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "2f69e3f0-025c-48f1-86ba-cea86bdb81f3",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "2f69e3f0-025c-48f1-86ba-cea86bdb81f3",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of diverticulitis; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "42870bc7-e5db-434f-8965-c9acda5958c0",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "42870bc7-e5db-434f-8965-c9acda5958c0",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of immediately life-threatening neuromuscular disorders; or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "8f09064b-dae0-4e99-aff0-432e40ff9133",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "8f09064b-dae0-4e99-aff0-432e40ff9133",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {},
+              "child_relation": null,
+              "next_sibling_id": "f7a6e447-8cd3-433c-a9af-4dcb43957752",
+              "next_sibling_relation": "OR"
+            },
+            {
+              "id": "f7a6e447-8cd3-433c-a9af-4dcb43957752",
+              "parent_id": "08919295-d649-4669-9df4-d33016432d17",
+              "text": "Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis)).",
+              "is_medical_necessity": false,
+              "logical_relation": null,
+              "entities": {
+                "Treatment": [
+                  "therapy"
+                ]
+              },
+              "child_relation": null,
+              "next_sibling_id": null
+            }
+          ]
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "0d879f7b-7376-4dc3-8bfa-0bf2ae3524d2",
+      "parent_id": null,
+      "text": "Total Artificial Heart Aetna considers the use of a total artificial heart (e.g., ABIOCOR Total Artificial Heart, SynCardia\u00c3\u00a2\u00c2\u201e\u00c2\u00a2\u00c2\u00a0temporary Total Artificial Heart (formerly known as CardioWest Total Artificial Heart)) as permanent treatment (destination therapy) (i.e., as an alternative to heart transplantation) experimental and investigational because its safety and effectiveness for this indication has not been established. Aetna considers a U.S. Food and Drug Administration-approved total artificial heart (e.g., CardioWest Total Artificial Heart, SynCardia Systems) medically necessary when used as a bridge to transplant for transplant-eligible members who are at imminent risk of death (NYHA Class IV) due to biventricular failure who are awaiting heart transplantation. See CPB 0654 - Ventricular Assist Devices .",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "89a0b91b-ff40-49f4-9fa1-d00fa273fc52",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "89a0b91b-ff40-49f4-9fa1-d00fa273fc52",
+      "parent_id": null,
+      "text": "AlloMap\u00c3\u00a2\u00c2\u201e\u00c2\u00a2 Molecular-Expression Blood Test Aetna considers the AlloMap gene expression profile\u00c2\u00a0medically necessary for\u00c2\u00a0monitoring rejection\u00c2\u00a0in\u00c2\u00a0heart transplant recipients\u00c2\u00a0more than\u00c2\u00a06 months\u00c2\u00a0post-heart transplant. Aetna considers the AlloMap gene expression profile experimental and investigational for all other indications because its clinical value has not been established.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "edf6e19d-3bae-4369-a83f-b053e5377a74",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "edf6e19d-3bae-4369-a83f-b053e5377a74",
+      "parent_id": null,
+      "text": "Aetna considers heart transplantation medically necessary for any of the following conditions (not an all-inclusive list) when the member meets the transplanting institution's protocol eligibility criteria.",
+      "is_medical_necessity": true,
+      "logical_relation": "ANY",
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "a2f48c18-8646-48e7-8eba-50a911f86767",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "a2f48c18-8646-48e7-8eba-50a911f86767",
+      "parent_id": null,
+      "text": "In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including \u00c2\u00a0the following indications when the selection criteria listed below are met and none of the absolute contraindications is present:",
+      "is_medical_necessity": true,
+      "logical_relation": "ANY",
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "3d099815-ba0d-488a-bc44-2329222a10f6",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "3d099815-ba0d-488a-bc44-2329222a10f6",
+      "parent_id": null,
+      "text": "For members off protocol, all criteria listed below must be met:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "9a21ef5f-01c5-414a-b9f8-892ade644acc",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "9a21ef5f-01c5-414a-b9f8-892ade644acc",
+      "parent_id": null,
+      "text": "Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.\u00c2\u00a0 They are comfortable at rest. \u00c2\u00a0Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.\u00c2\u00a0 Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.\u00c2\u00a0 If any physical activity is undertaken, discomfort is increased.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "62ed9c98-276d-4699-9eca-e4240d0cc3f3",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "62ed9c98-276d-4699-9eca-e4240d0cc3f3",
+      "parent_id": null,
+      "text": "Note : NYHA Class III and Class IV for heart failure are defined as follows:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "d87a9ffe-b6d4-42a6-85a7-8c8cad889c54",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "d87a9ffe-b6d4-42a6-85a7-8c8cad889c54",
+      "parent_id": null,
+      "text": "Heart transplant is considered not medically\u00c2\u00a0necessary for persons with any of the following contraindications:",
+      "is_medical_necessity": false,
+      "logical_relation": "ANY",
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "b082936e-c5e6-41d7-9a37-57a9debecd2d",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "b082936e-c5e6-41d7-9a37-57a9debecd2d",
+      "parent_id": null,
+      "text": "Aetna considers the use of a total artificial heart (e.g., ABIOCOR Total Artificial Heart, SynCardia\u00c3\u00a2\u00c2\u201e\u00c2\u00a2\u00c2\u00a0temporary Total Artificial Heart (formerly known as CardioWest Total Artificial Heart)) as permanent treatment (destination therapy) (i.e., as an alternative to heart transplantation) experimental and investigational because its safety and effectiveness for this indication has not been established.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "4c69964a-bf32-4ceb-8c54-800446ad7e03",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "4c69964a-bf32-4ceb-8c54-800446ad7e03",
+      "parent_id": null,
+      "text": "Aetna considers a U.S. Food and Drug Administration-approved total artificial heart (e.g., CardioWest Total Artificial Heart, SynCardia Systems) medically necessary when used as a bridge to transplant for transplant-eligible members who are at imminent risk of death (NYHA Class IV) due to biventricular failure who are awaiting heart transplantation. See CPB 0654 - Ventricular Assist Devices .",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "7cb056f1-9084-49dc-9712-2573da2f38be",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "7cb056f1-9084-49dc-9712-2573da2f38be",
+      "parent_id": null,
+      "text": "Aetna considers the AlloMap gene expression profile\u00c2\u00a0medically necessary for\u00c2\u00a0monitoring rejection\u00c2\u00a0in\u00c2\u00a0heart transplant recipients\u00c2\u00a0more than\u00c2\u00a06 months\u00c2\u00a0post-heart transplant.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "fad102aa-c814-4fcd-b8d5-fd7f8bea174c",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "fad102aa-c814-4fcd-b8d5-fd7f8bea174c",
+      "parent_id": null,
+      "text": "Aetna considers the AlloMap gene expression profile experimental and investigational for all other indications because its clinical value has not been established.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "33927",
+          "description": "Implantation of a total replacement heart system (artificial heart) with recipient cardiectomy"
+        },
+        {
+          "code": "33928",
+          "description": "Removal and replacement of total replacement heart system (artificial heart)"
+        },
+        {
+          "code": "33929",
+          "description": "Removal of a total replacement heart system (artificial heart) for heart transplantation (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "33940",
+          "description": "Donor cardiectomy, (including cold preservation)"
+        },
+        {
+          "code": "33945",
+          "description": "Heart transplant, with or without recipient cardiectomy"
+        },
+        {
+          "code": "81595",
+          "description": "Cardiology (heart transplant), mRNA, gene expression profiling by real-time quantitative PCR of 20 genes (11 content and 9 housekeeping), utilizing subfraction of peripheral blood, algorithm reported as a rejection risk score [Allomap]"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "0055U",
+          "description": "Cardiology (heart transplant), cell-free DNA, PCR assay of 96 DNA target sequences (94 single nucleotide polymorphism targets and two control targets), plasma"
+        },
+        {
+          "code": "0087U",
+          "description": "Cardiology (heart transplant), mRNA gene expression profiling by microarray of 1283 genes, transplant biopsy tissue, allograft rejection and injury algorithm reported as a probability score"
+        },
+        {
+          "code": "71275",
+          "description": "Computed tomographic angiography, chest (noncoronary), with contrast material(s), including noncontrast images, if performed, and image postprocessing"
+        },
+        {
+          "code": "84484",
+          "description": "Troponin, quantitative [cardiac troponins]"
+        }
+      ],
+      "Other": [
+        {
+          "code": "33975",
+          "description": "Insertion of ventricular assist device; extracorporeal, single ventricle"
+        },
+        {
+          "code": "33976",
+          "description": "extracorporeal, biventricular"
+        },
+        {
+          "code": "33977",
+          "description": "Removal of ventricular  assist device; extracorporeal, single ventricle"
+        },
+        {
+          "code": "33978",
+          "description": "extracorporeal, biventricular"
+        },
+        {
+          "code": "33979",
+          "description": "Insertion of ventricular assist device, implantable intracorporeal, single ventricle"
+        },
+        {
+          "code": "33990",
+          "description": "Insertion of ventricular assist device, percutaneous including radiological supervision and interpretation; arterial access only"
+        },
+        {
+          "code": "33991",
+          "description": "both arterial and venous access, with transseptal puncture"
+        },
+        {
+          "code": "33992",
+          "description": "Removal of percutaneous ventricular assist device at separate and distinct session from insertion"
+        },
+        {
+          "code": "33993",
+          "description": "Repositioning of percutaneous ventricular assist device with imaging guidance at separate and distinct session from insertion"
+        },
+        {
+          "code": "93015 - 93018",
+          "description": "Cardiovascular stress test using maximal or submaximal treadmill or bicycle exercise, continuous electrocardiographic monitoring, and/or pharmacological stress"
+        },
+        {
+          "code": "93451- 93454",
+          "description": "Cardiac catheterization"
+        },
+        {
+          "code": "93798",
+          "description": "Physician services for outpatient cardiac rehabilitation; with continuous ECG monitoring (per session)"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "L8698",
+          "description": "Miscellaneous component, supply or accessory for use with total artificial heart system"
+        }
+      ],
+      "Not covered for listed indications": [],
+      "Other": [
+        {
+          "code": "G0422",
+          "description": "Intensive cardiac rehabilitation; with or without continuous ECG monitoring with exercise, per session"
+        },
+        {
+          "code": "S9472",
+          "description": "Cardiac rehabilitation program, non-physician provider, per diem"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "I21.01 - I24.9",
+          "description": "Acute myocardial infarction and other acute forms of ischemic heart disease"
+        },
+        {
+          "code": "I25.10 - I25.799",
+          "description": "Chronic ischemic heart disease"
+        },
+        {
+          "code": "I25.810 - I25.9",
+          "description": "Other and unspecified forms of chronic ischemic heart disease"
+        },
+        {
+          "code": "I34.0 - I39",
+          "description": "Nonrheumatic mitral valve, aortic valve, tricuspid valve and pulmonary valve disorders"
+        },
+        {
+          "code": "I42.0, I42.2, I42.5,I42.8, I42.9",
+          "description": "Other cardiomyopathies"
+        },
+        {
+          "code": "I42.1",
+          "description": "Obstructive hypertrophic cardiomyopathy"
+        },
+        {
+          "code": "I43",
+          "description": "Cardiomyopathy in diseases classified elsewhere"
+        },
+        {
+          "code": "I47.0 - I49.9",
+          "description": "Cardiac dysrhythmias"
+        },
+        {
+          "code": "I50.1 - I50.9",
+          "description": "Heart failure"
+        },
+        {
+          "code": "I51.4",
+          "description": "Myocarditis, unspecified"
+        },
+        {
+          "code": "O90.81 - O90.9",
+          "description": "Other and unspecified complications of the puerperium, not elsewhere classified [postpartum cardiomyopathy]"
+        },
+        {
+          "code": "Q20.0 - Q24.9",
+          "description": "Bulbous cordis anomalies and anomalies of cardiac septal closure, endocardial cushion defects and other congenital anomalies of heart"
+        },
+        {
+          "code": "T86.20 - T86.298",
+          "description": "Complications of heart transplant"
+        },
+        {
+          "code": "Z94.1",
+          "description": "Heart transplant status"
+        }
+      ],
+      "Other": [
+        {
+          "code": "A00.0 - B99.9",
+          "description": "Infectious and parasitic diseases"
+        },
+        {
+          "code": "E85.0 - E85.9",
+          "description": "Amyloidosis"
+        },
+        {
+          "code": "G70.0 - G73.7",
+          "description": "Diseases of myoneural junction and muscle"
+        },
+        {
+          "code": "I27.0 - I27.9",
+          "description": "Other pulmonary heart diseases [severe]"
+        },
+        {
+          "code": "I69.00 - I69.998",
+          "description": "Sequelae of cerebrovascular disease [significant persistent deficit]"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]"
+        },
+        {
+          "code": "K27.0, K27.2, K27.4, K27.6",
+          "description": "Peptic ulcer with hemorrhage"
+        },
+        {
+          "code": "K57.00 - K57.93",
+          "description": "Diverticular disease of intestine"
+        },
+        {
+          "code": "K70.0 - K74.69, K76.89",
+          "description": "Diseases of liver  [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]"
+        },
+        {
+          "code": "M04.1 - M04.9",
+          "description": "Autoinflammatory syndromes"
+        },
+        {
+          "code": "N18.6",
+          "description": "End stage renal disease  [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]"
+        }
+      ]
+    },
+    "Other": {}
+  }
+}

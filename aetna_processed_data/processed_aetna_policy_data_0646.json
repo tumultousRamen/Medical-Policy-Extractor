@@ -1,0 +1,438 @@
+{
+  "source": "aetna_policy_data_0646.json",
+  "criteria": [
+    {
+      "id": "4770d9bf-cf32-4417-abb0-3ac33d550876",
+      "parent_id": null,
+      "text": "Aetna considers\u00c2\u00a0voice therapy medically necessary to restore the ability of the member to produce speech sounds from the larynx for any of the following indications:",
+      "is_medical_necessity": false,
+      "logical_relation": "ANY",
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "a8db6b0d-a5f0-470e-8226-7f62c93b99b0",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "a8db6b0d-a5f0-470e-8226-7f62c93b99b0",
+      "parent_id": null,
+      "text": "Essential voice tremor; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "e9d74b68-051f-4a25-89f5-bb23220d6a49",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "e9d74b68-051f-4a25-89f5-bb23220d6a49",
+      "parent_id": null,
+      "text": "Following surgery or traumatic injury to the vocal cords; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "surgery"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "aeb79e0f-502b-4b7b-9c08-fadd046d4542",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "aeb79e0f-502b-4b7b-9c08-fadd046d4542",
+      "parent_id": null,
+      "text": "Following treatment for laryngeal (glottic) carcinoma; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "a6641b17-e8bd-4d49-8605-f4cb6ff3b6eb",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "a6641b17-e8bd-4d49-8605-f4cb6ff3b6eb",
+      "parent_id": null,
+      "text": "Muscle tension dysphonia (functional dysphonia); or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "e85a90b2-b06a-47cc-bc6e-07a2118f9e30",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "e85a90b2-b06a-47cc-bc6e-07a2118f9e30",
+      "parent_id": null,
+      "text": "Paradoxical vocal cord motion; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "8d108caa-0d39-4032-a0df-be7473c195b9",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "8d108caa-0d39-4032-a0df-be7473c195b9",
+      "parent_id": null,
+      "text": "Spastic (spasmodic) dysphonia; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "9f1a1943-f0a6-457a-b91c-cd8c2d517ef8",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "9f1a1943-f0a6-457a-b91c-cd8c2d517ef8",
+      "parent_id": null,
+      "text": "Symptomatic benign vocal fold lesions (cysts, nodules and polyps); or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "4947ef9e-96b7-4c85-9d63-bdc8892ad855",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "4947ef9e-96b7-4c85-9d63-bdc8892ad855",
+      "parent_id": null,
+      "text": "Vocal cord paralysis.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "16fd4ade-7daf-4cf7-9d89-7097a6ae0fcf",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "16fd4ade-7daf-4cf7-9d89-7097a6ae0fcf",
+      "parent_id": null,
+      "text": "Aetna considers voice therapy not medically necessary for any of the following indications:",
+      "is_medical_necessity": false,
+      "logical_relation": "ANY",
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "d4ca6a68-b008-4cf8-aed2-8dd9fb198ab2",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "d4ca6a68-b008-4cf8-aed2-8dd9fb198ab2",
+      "parent_id": null,
+      "text": "Improvement of voice quality; or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "1d3d9b1c-cf4c-4f8a-a043-2dbc5ae0f6ea",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "1d3d9b1c-cf4c-4f8a-a043-2dbc5ae0f6ea",
+      "parent_id": null,
+      "text": "Occupational or recreational purposes (e.g., public speaking, singing, etc.); or",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "707755c6-f21b-47e6-b3f6-65864ae2b35f",
+      "next_sibling_relation": "OR"
+    },
+    {
+      "id": "707755c6-f21b-47e6-b3f6-65864ae2b35f",
+      "parent_id": null,
+      "text": "Self-limited conditions, such as acute laryngitis.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "bcde6cc2-27c8-41a7-8a86-f01c81d822bc",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "bcde6cc2-27c8-41a7-8a86-f01c81d822bc",
+      "parent_id": null,
+      "text": "Maintenance treatment, where the member's symptoms are not improving, is considered not medically necessary. If no clinical benefit is appreciated after 4 weeks of voice therapy, then the treatment plan should be re-evaluated. Further voice therapy is not considered medically necessary if the member does not demonstrate meaningful improvement in symptoms.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "848c5745-f704-4db3-ba4c-b2b3351aaffc",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "848c5745-f704-4db3-ba4c-b2b3351aaffc",
+      "parent_id": null,
+      "text": "Note: Megaphones or amplifiers (e.g., ChatterVox, Mega Mite Megaphone) may be of use in the absence of illness or injury and therefore do not meet Aetna's definition of covered durable medical equipment.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "6761f45d-f798-4bf4-a027-9a3b61cc1929",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "6761f45d-f798-4bf4-a027-9a3b61cc1929",
+      "parent_id": null,
+      "text": "Note: An electronic artificial larynx (artificial voice box) that is used by laryngectomized individuals and persons with a permanently inoperative larynx is covered as a prosthetic.\u00c2\u00a0 See \"Note\" regarding electronic speech aids accompanying\u00c2\u00a0CPB 0437 - Speech Generating Devices. See also\u00c2\u00a0\u00c2\u00a0CPB 0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "rehabilitation"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "81f6ddf9-40a7-425c-919f-55334581c9fb",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "81f6ddf9-40a7-425c-919f-55334581c9fb",
+      "parent_id": null,
+      "text": "Note: Voice therapy for male-to-female transgender individuals to feminize the voice or for\u00c2\u00a0female-to-male transgender\u00c2\u00a0individuals to masculinize the voice\u00c2\u00a0is considered not medically necessary and cosmetic.\u00c2\u00a0See also\u00c2\u00a0CPB 0615 - Gender Affirming Surgery.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "surgery",
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "92507",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual [voice therapy] [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]"
+        },
+        {
+          "code": "92508",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, two or more individuals [voice therapy] [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]"
+        }
+      ],
+      "Other": [
+        {
+          "code": "31505 - 31592",
+          "description": "Laryngoscopy and laryngoplasty procedures (therapeutic)"
+        },
+        {
+          "code": "31611",
+          "description": "Construction of tracheoesophageal fistula and subsequent insertion of an alaryngeal speech prosthesis (e.g., voice button, Blom-Singer prosthesis)"
+        },
+        {
+          "code": "92521",
+          "description": "Evaluation of speech fluency (eg, stuttering, cluttering)"
+        },
+        {
+          "code": "92522",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria) [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]"
+        },
+        {
+          "code": "92523",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language) [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]"
+        },
+        {
+          "code": "92524",
+          "description": "Behavioral and qualitative analysis of voice and resonance [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]"
+        },
+        {
+          "code": "92597",
+          "description": "Evaluation for use and/or fitting of voice prosthetic device to supplement oral speech"
+        },
+        {
+          "code": "96401 - 96417",
+          "description": "Injection and intravenous infusion chemotherapy and other highly complex drug or highly complex biologic agent administration"
+        },
+        {
+          "code": "96420 - 96425",
+          "description": "Intra-arterial chemotherapy and other highly complex drug or highly complex biologic agent administration"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "G0153",
+          "description": "Services performed by a qualified speech-language pathologist in the home health or hospice setting, each 15 minutes"
+        },
+        {
+          "code": "G0161",
+          "description": "Services performed by a qualified speech-language pathologist, in the home health setting, in the establishment or delivery of a safe and effective speech-language pathology maintenance program, each 15 minutes"
+        },
+        {
+          "code": "S9128",
+          "description": "Speech therapy, in the home, per diem"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "L8510",
+          "description": "Voice amplifier"
+        }
+      ],
+      "Other": [
+        {
+          "code": "L8500",
+          "description": "Artificial larynx, any type"
+        },
+        {
+          "code": "L8505",
+          "description": "Artificial larynx replacement battery / accessory, any type"
+        },
+        {
+          "code": "L8507",
+          "description": "Tracheo-esophageal voice prosthesis, patient inserted, any type, each"
+        },
+        {
+          "code": "L8509",
+          "description": "Tracheo-esophageal voice prosthesis, inserted by a licensed health care provider, any type"
+        },
+        {
+          "code": "V5362",
+          "description": "Speech screening"
+        },
+        {
+          "code": "V5363",
+          "description": "Language screening"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "D14.1",
+          "description": "Benign neoplasm of larynx [benign vocal fold lesions]"
+        },
+        {
+          "code": "F44.4",
+          "description": "Conversion disorder with motor symptom or deficit [functional dysphonia]"
+        },
+        {
+          "code": "G25.2",
+          "description": "Other specified forms of tremor [voice]"
+        },
+        {
+          "code": "J38.00 - J38.02",
+          "description": "Paralysis of vocal cords and larnyx"
+        },
+        {
+          "code": "J38.1",
+          "description": "Polyp of vocal cord and larynx"
+        },
+        {
+          "code": "J38.2",
+          "description": "Nodules of vocal cords"
+        },
+        {
+          "code": "R49.0",
+          "description": "Dysphonia [functional dysphonia]"
+        },
+        {
+          "code": "S19.83X+",
+          "description": "Other specified injuries of vocal cord"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "A15.5",
+          "description": "Tuberculous laryngitis"
+        },
+        {
+          "code": "A36.2",
+          "description": "Laryngeal diphtheria"
+        },
+        {
+          "code": "A52.73",
+          "description": "Symptomatic late syphilis of other respiratory organs"
+        },
+        {
+          "code": "A69.1",
+          "description": "Other Vincent's infections [Vincent's angina]"
+        },
+        {
+          "code": "F64.1",
+          "description": "Gender identity disorder in adolescences and adulthood"
+        },
+        {
+          "code": "I69.020 - I69.028I69.120 - I69.128I69.220 - I69.228I69.320 - I69.328I69.820 - I69.828I69.920 - I69.928",
+          "description": "Sequelae of cerebrovascular disease, speech and language deficits"
+        },
+        {
+          "code": "J02.0",
+          "description": "Streptococcal pharyngitis"
+        },
+        {
+          "code": "J03.00",
+          "description": "Acute streptococcal tonsillitis"
+        },
+        {
+          "code": "J03.01",
+          "description": "Acute recurrent streptococcal tonsillitis"
+        },
+        {
+          "code": "J04.0",
+          "description": "Acute laryngitis"
+        },
+        {
+          "code": "J04.2",
+          "description": "Acute laryngotracheitis"
+        },
+        {
+          "code": "J05.0",
+          "description": "Acute obstructive laryngitis [croup]"
+        },
+        {
+          "code": "J06.0",
+          "description": "Acute laryngopharyngitis"
+        },
+        {
+          "code": "J10.1",
+          "description": "Influenza due to other identified influenza virus with other respiratory manifestations"
+        },
+        {
+          "code": "J11.1",
+          "description": "Influenza due to unidentified influenza virus with other respiratory manifestations"
+        },
+        {
+          "code": "R47.02",
+          "description": "Dysphasia"
+        },
+        {
+          "code": "R47.1",
+          "description": "Dysarthria and anarthria"
+        },
+        {
+          "code": "R47.81 - R47.89",
+          "description": "Other speech disturbances"
+        },
+        {
+          "code": "Z51.89",
+          "description": "Encounter for other specified aftercare [occupational therapy]"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

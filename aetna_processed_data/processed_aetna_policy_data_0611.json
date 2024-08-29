@@ -1,0 +1,448 @@
+{
+  "source": "aetna_policy_data_0611.json",
+  "criteria": [
+    {
+      "id": "02ea8309-3a52-4d27-8304-f2caaf1f754e",
+      "parent_id": null,
+      "text": "Aetna considers the following diagnostic tests, treatments and procedures medically necessary for fecal incontinence:",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "a45a39f0-b3ce-40b0-9e84-5e63e9f0fda9",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "a45a39f0-b3ce-40b0-9e84-5e63e9f0fda9",
+      "parent_id": null,
+      "text": "Diagnostic tests Anorectal manometry (see CPB 0616 - Gastrointestinal Manometry ) Anorectal ultrasonography Rectal sensory testing;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+      "children": [
+        {
+          "id": "8eeaf6a2-1855-451a-aaf2-c46b8d0e269e",
+          "parent_id": "a45a39f0-b3ce-40b0-9e84-5e63e9f0fda9",
+          "text": "Anorectal manometry (see CPB 0616 - Gastrointestinal Manometry )",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "5d328a2b-dd55-45af-b49b-fd05c2295fb5",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "5d328a2b-dd55-45af-b49b-fd05c2295fb5",
+          "parent_id": "a45a39f0-b3ce-40b0-9e84-5e63e9f0fda9",
+          "text": "Anorectal ultrasonography",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "c4d6df09-69ef-4ebe-b6ff-b38490b2a79a",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "c4d6df09-69ef-4ebe-b6ff-b38490b2a79a",
+          "parent_id": "a45a39f0-b3ce-40b0-9e84-5e63e9f0fda9",
+          "text": "Rectal sensory testing;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+      "parent_id": null,
+      "text": "Conservative treatments Biofeedback (see CPB 0132 - Biofeedback ) Bowel training Defecation programs Diet modification Pharmacotherapy;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "6bfaf1a7-3c69-464c-961a-364fb57cc640",
+      "children": [
+        {
+          "id": "e146ae94-e7eb-4765-993c-cf99a034c0e3",
+          "parent_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+          "text": "Biofeedback (see CPB 0132 - Biofeedback )",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "ba0fd9de-ba19-4ef4-9d4f-e24abf9b6abb",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "ba0fd9de-ba19-4ef4-9d4f-e24abf9b6abb",
+          "parent_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+          "text": "Bowel training",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "1b92ede4-a998-484c-9c99-262e1ca5e87f",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "1b92ede4-a998-484c-9c99-262e1ca5e87f",
+          "parent_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+          "text": "Defecation programs",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "b8467632-fe39-49da-bae6-7d8ae234d04b",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "b8467632-fe39-49da-bae6-7d8ae234d04b",
+          "parent_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+          "text": "Diet modification",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "799b8485-7355-4af6-9b07-3a1b176ed97c",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "799b8485-7355-4af6-9b07-3a1b176ed97c",
+          "parent_id": "42f23b27-d7ce-4798-9aa6-92cf2a3b6a0c",
+          "text": "Pharmacotherapy;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "6bfaf1a7-3c69-464c-961a-364fb57cc640",
+      "parent_id": null,
+      "text": "An anal sphincter repair for members with severe Footnote1 * fecal incontinence who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises);",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "repair"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "76df8221-9ed3-4668-9903-e411c8808ded",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "76df8221-9ed3-4668-9903-e411c8808ded",
+      "parent_id": null,
+      "text": "Colostomy for members with severe Footnote1 * fecal incontinence who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises) or surgical sphincter repair (e.g., post-anal repair, sphincteroplasty, or total pelvic floor repair);",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "repair"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "c75a8223-d05b-45c5-8741-21d1f763124d",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "c75a8223-d05b-45c5-8741-21d1f763124d",
+      "parent_id": null,
+      "text": "The Acticon Neosphincter artificial bowel sphincter for members 18 years of age or older with severe Footnote1 * fecal incontinence (i.e.,\u00c2\u00a0when there is involuntary loss of solid stool or liquid stool on a weekly or more frequent basis) who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises) or surgical sphincter repair (e.g., post-anal repair, sphincteroplasty, or total pelvic floor repair);",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "repair"
+        ],
+        "Risk Factors": [
+          "age"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "3ad53bc7-4926-467c-a744-959c2cd4bfc2",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "3ad53bc7-4926-467c-a744-959c2cd4bfc2",
+      "parent_id": null,
+      "text": "Sacral nerve stimulation (sacral neuromodulation) for the treatment of members with chronic fecal incontinence, who have had an inadequate response to conservative treatments (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises), and who have a weak but structurally intact anal sphincter: Initially, a temporary percutaneous peripheral nerve electrode is considered medically necessary; Implantation of a permanent implantable pulse generator is considered medically necessary for members who have a 50\u00c2\u00a0% or greater improvement in incontinence symptoms from the temporary percutaneous peripheral nerve stimulation over a period of at least 48 hours. Note: Sacral nerve stimulation can be administered via InterStim.",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "04a43666-b163-48b7-91b6-f0e4e1bee3a2",
+      "children": [
+        {
+          "id": "d62846bd-26f0-4426-99b9-2ea010d0e42a",
+          "parent_id": "3ad53bc7-4926-467c-a744-959c2cd4bfc2",
+          "text": "Initially, a temporary percutaneous peripheral nerve electrode is considered medically necessary;",
+          "is_medical_necessity": true,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "50a2a502-680e-4a46-861c-1b8ab1349091",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "50a2a502-680e-4a46-861c-1b8ab1349091",
+          "parent_id": "3ad53bc7-4926-467c-a744-959c2cd4bfc2",
+          "text": "Implantation of a permanent implantable pulse generator is considered medically necessary for members who have a 50\u00c2\u00a0% or greater improvement in incontinence symptoms from the temporary percutaneous peripheral nerve stimulation over a period of at least 48 hours. Note: Sacral nerve stimulation can be administered via InterStim.",
+          "is_medical_necessity": true,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "04a43666-b163-48b7-91b6-f0e4e1bee3a2",
+      "parent_id": null,
+      "text": "Diagnostic tests",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "cae7cb5e-ac17-460e-8fbf-27140034db5d",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "cae7cb5e-ac17-460e-8fbf-27140034db5d",
+      "parent_id": null,
+      "text": "Conservative treatments",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "f94b4531-ac26-45ff-98e4-44cee84d4af3",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "f94b4531-ac26-45ff-98e4-44cee84d4af3",
+      "parent_id": null,
+      "text": "Aetna considers sacral nerve stimulation experimental, investigational, or unproven when these criteria are not met.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "0df12787-7211-41b8-9532-62c5345a6576",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "0df12787-7211-41b8-9532-62c5345a6576",
+      "parent_id": null,
+      "text": "Footnote1 * For purposes of this policy, fecal incontinence is considered severe when it results in the involuntary loss of solid stool or liquid stool on a weekly or more frequent basis.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "64561",
+          "description": "Percutaneous implantation of neurostimulator electrode array; sacral nerve (transforaminal placement) including image guidance, if performed"
+        },
+        {
+          "code": "64581",
+          "description": "Incision for implantation of neurostimulator electrodes; sacral nerve (transforaminal placement)"
+        },
+        {
+          "code": "64590",
+          "description": "Insertion or replacement of peripheral or gastric neurostimulator pulse generator or receiver, direct or inductive coupling"
+        },
+        {
+          "code": "95972",
+          "description": "Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, electrode selectability, output modulation, cycling, impedance and patient compliance measurements); complex spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, neuromuscular) (except cranial nerve) neurostimulator pulse generator/transmitter, with intraoperative or subsequent programming"
+        }
+      ],
+      "Not covered for listed indications": [],
+      "Other": [
+        {
+          "code": "46750 - 46751",
+          "description": "Sphincteroplasty, anal, for incontinence or prolapse; adult or child"
+        },
+        {
+          "code": "46760 - 46761",
+          "description": "Sphincteroplasty, anal, for incontinence, adult; muscle transplant; levator muscle imbrication (Park posterior anal repair); or implantation artificial sphincter"
+        },
+        {
+          "code": "90912",
+          "description": "Biofeedback training, perineal muscles, anorectal or urethral sphincter, including EMG and/or manometry, when performed; initial 15 minutes of one-on-one physician or other qualified health care professional contact with the patient"
+        },
+        {
+          "code": "+90913",
+          "description": "each additional 15 minutes of one-on-one physician or other qualified health care professional contact with the patient (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "97110",
+          "description": "Therapeutic procedure, one or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility"
+        },
+        {
+          "code": "97530",
+          "description": "Therapeutic activities, direct (one-on-one) patient contact (use of dynamic activities to improve functional performance), each 15 minutes"
+        },
+        {
+          "code": "97802 - 97804",
+          "description": "Medical nutrition therapy"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met": [],
+      "Not covered for listed indications": [],
+      "Other": [
+        {
+          "code": "E0740",
+          "description": "Incontinence treatment system, pelvic floor stimulator, monitor, sensor and/ or trainer"
+        },
+        {
+          "code": "E0746",
+          "description": "Electromyography (EMG), biofeedback device"
+        },
+        {
+          "code": "G0283",
+          "description": "Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care"
+        },
+        {
+          "code": "J0745",
+          "description": "Injection, codeine phosphate, per 30 mg"
+        },
+        {
+          "code": "S9470",
+          "description": "Nutritional counseling, dietitian visit"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "R15.0 - R15.9",
+          "description": "Fecal incontinence"
+        }
+      ]
+    },
+    "Other": {
+      "Other": [
+        {
+          "code": "0587T",
+          "description": "Percutaneous implantation or replacement of integrated single device neurostimulation system including electrode array and receiver or pulse generator, including analysis, programming, and imaging guidance when performed, posterior tibial nerve"
+        },
+        {
+          "code": "0588T",
+          "description": "Revision or removal of integrated single device neurostimulation system including electrode array and receiver or pulse generator, including analysis, programming, and imaging guidance when performed, posterior tibial nerve"
+        },
+        {
+          "code": "0589T",
+          "description": "Electronic analysis with simple programming of implanted integrated neurostimulation system (eg, electrode array and receiver), including contact group(s), amplitude, pulse width, frequency (Hz), on/off cycling, burst, dose lockout, patient-selectable parameters, responsive neurostimulation, detection algorithms, closed-loop parameters, and passive parameters, when performed by physician or other qualified health care professional, posterior tibial nerve, 1-3 parameters"
+        },
+        {
+          "code": "0590T",
+          "description": "Electronic analysis with complex programming of implanted integrated neurostimulation system (eg, electrode array and receiver), including contact group(s), amplitude, pulse width, frequency (Hz), on/off cycling, burst, dose lockout, patient-selectable parameters, responsive neurostimulation, detection algorithms, closed-loop parameters, and passive parameters, when performed by physician or other qualified health care professional, posterior tibial nerve, 4 or more parameters"
+        },
+        {
+          "code": "11950 - 11954",
+          "description": "Subcutaneous injection of filling material (e.g., collagen)"
+        },
+        {
+          "code": "38205",
+          "description": "Blood-derived hematopoietic progenitor cell harvesting for transplantation, per collection; allogeneic"
+        },
+        {
+          "code": "38206",
+          "description": "Blood-derived hematopoietic progenitor cell harvesting for transplantation, per collection; autologous"
+        },
+        {
+          "code": "38240",
+          "description": "Hematopoietic progenitor cell (HPC); allogeneic transplantation per donor"
+        },
+        {
+          "code": "38241",
+          "description": "Hematopoietic progenitor cell (HPC); autologous transplantation"
+        },
+        {
+          "code": "64566",
+          "description": "Posterior tibial neurostimulation, percutaneous needle electrode, single treatment, includes programming"
+        },
+        {
+          "code": "C1820",
+          "description": "Generator, neurostimulator (implantable), with rechargeable battery and charging system"
+        },
+        {
+          "code": "C1883",
+          "description": "Adaptor/extension, pacing lead or neurostimulator lead (implantable)"
+        },
+        {
+          "code": "L8680",
+          "description": "Implantable neurostimulator electrode, each"
+        },
+        {
+          "code": "L8681",
+          "description": "Patient programmer (external) for use with implantable programmable implantable neurostimulator pulse generator"
+        },
+        {
+          "code": "L8682",
+          "description": "Implantable neurostimulator radiofrequency receiver"
+        },
+        {
+          "code": "L8683",
+          "description": "Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver"
+        },
+        {
+          "code": "L8684",
+          "description": "Radiofrequency transmitter (external) for use with implantable sacral root neurostimulator receiver for bowel and bladder management, replacement"
+        },
+        {
+          "code": "L8685",
+          "description": "Implantable neurostimulator pulse generator, single array, rechargeable, includes extension"
+        },
+        {
+          "code": "L8686",
+          "description": "Implantable neurostimulator pulse generator, single array, non-rechargeable, includes extension"
+        },
+        {
+          "code": "L8687",
+          "description": "Implantable neurostimulator pulse generator, dual array, rechargeable, includes extension"
+        },
+        {
+          "code": "L8688",
+          "description": "Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes extension"
+        },
+        {
+          "code": "L8689",
+          "description": "External recharging system for battery (internal) for use with implantable neurostimulator"
+        },
+        {
+          "code": "L8695",
+          "description": "External recharging system for battery (external) for use with implantable neurostimulator"
+        },
+        {
+          "code": "A4563",
+          "description": "Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each"
+        },
+        {
+          "code": "L8605",
+          "description": "Injectable bulking agent, dextranomer/hyaluronic acid copolymer implant, anal canal, 1 ml, includes shipping and necessary supplies"
+        }
+      ]
+    }
+  }
+}

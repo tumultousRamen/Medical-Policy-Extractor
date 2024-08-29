@@ -1,0 +1,131 @@
+{
+  "source": "aetna_policy_data_0380.json",
+  "criteria": [
+    {
+      "id": "1120bdf9-da27-4158-9d5c-0981edeea47e",
+      "parent_id": null,
+      "text": "Aetna considers\u00c2\u00a0annual low-dose computed tomography (LDCT) scanning, also known as spiral CT or helical CT scanning, medically necessary for current or former smokers ages 50 to 80 years with a 20 pack-year or more smoking history and, if a former smoker, has quit within the past 15 years.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Risk Factors": [
+          "smoking"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "478fdd8d-4722-4e30-83c0-330996e3b7d1",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "478fdd8d-4722-4e30-83c0-330996e3b7d1",
+      "parent_id": null,
+      "text": "Aetna considers annual LDCT medically necessary for surveillance (starting 2 years after definitive treatment) of individuals with non-small cell lung cancer who have undergone definitive treatment.",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Other": [
+        {
+          "code": "71271",
+          "description": "Computed tomography, thorax, low dose for lung cancer screening, without contrast material(s)"
+        },
+        {
+          "code": "71250",
+          "description": "Computed tomography, thorax; without contrast material"
+        },
+        {
+          "code": "71045 - 71048",
+          "description": "Radiologic examination, chest"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "+ 0174T",
+          "description": "Computer aided detection (CAD) (computer algorithm analysis of digital image data for lesion detection) with further physician review for interpretation and report, with or without digitization of film radiographic images, chest radiograph(s), performed concurrent with primary interpretation (Use 0174T in conjunction with 71010, 71020, 71021, 71022, 71030)"
+        },
+        {
+          "code": "0175T",
+          "description": "Computer aided detection (CAD) (computer algorithm analysis of digital image data for lesion detection) with further physician review for interpretation and report, with or without digitization of film radiographic images, chest radiograph(s), performed remote from primary interpretation (Do not report 0175T in conjunction with 71010, 71020, 71021, 71022, 71030)"
+        },
+        {
+          "code": "71250",
+          "description": "Computed tomography, thorax; without contrast material"
+        },
+        {
+          "code": "78811 - 78813",
+          "description": "Positron emission tomography (PET) imaging"
+        },
+        {
+          "code": "78814 - 78816",
+          "description": "Positron emission tomography (PET) imaging with concurrently acquired computed tomography (CT) for attenuation correction and anatomical localization imaging"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "G0296",
+          "description": "Counseling visit to discuss need for lung cancer screening using low dose CT scan (LDCT) (service is for eligibility determination and shared decision making)"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "F17.210 - F17.219",
+          "description": "Nicotine dependence, cigarettes"
+        },
+        {
+          "code": "F17.290 - F17.299",
+          "description": "Nicotine dependence, other tobacco product [pipes, cigars]"
+        },
+        {
+          "code": "Z12.2",
+          "description": "Encounter for screening for malignant neoplasm of respiratory organs"
+        },
+        {
+          "code": "Z72.0",
+          "description": "Tobacco use [former smokers ages 50-80 years]"
+        },
+        {
+          "code": "Z87.891",
+          "description": "Personal history of nicotine dependence  [former smokers ages 50-80 years]"
+        },
+        {
+          "code": "C34.00 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c C34.92",
+          "description": "Malignant neoplasm of bronchus and lung [non-small cell lung cancer]"
+        },
+        {
+          "code": "Z85.118",
+          "description": "Personal history of other malignant neoplasm of bronchus and lung"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "C34.10 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c C34.92",
+          "description": "Malignant neoplasm of bronchus and lung"
+        },
+        {
+          "code": "F17.200 - F17.209,  F17.220 - F17.229",
+          "description": "Nicotine dependence, unspecified and chewing tobacco"
+        },
+        {
+          "code": "Z77.090",
+          "description": "Contact with and (suspected) exposure to asbestos [asbestos screening]"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

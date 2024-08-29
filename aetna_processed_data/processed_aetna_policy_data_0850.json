@@ -1,0 +1,166 @@
+{
+  "source": "aetna_policy_data_0850.json",
+  "criteria": [
+    {
+      "id": "a3ad072b-4c26-42c1-9228-e6ea9a646044",
+      "parent_id": null,
+      "text": "Aetna considers\u00c2\u00a0the following interventions medically necessary:",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "49796770-e078-4c42-bb26-cc7d46ecc2c4",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "49796770-e078-4c42-bb26-cc7d46ecc2c4",
+      "parent_id": null,
+      "text": "Neuroplasty (neurolysis or nerve decompression) for\u00c2\u00a0brachial plexus neuromas and other brachial plexus lesions;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "97e37329-dedc-4605-8d52-18307c166fd7",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "97e37329-dedc-4605-8d52-18307c166fd7",
+      "parent_id": null,
+      "text": "Dorsal root entry zone (DREZ) coagulation for brachial plexus avulsion;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "5bebc206-de12-436c-9d9e-1f1cb7ac58e4",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "5bebc206-de12-436c-9d9e-1f1cb7ac58e4",
+      "parent_id": null,
+      "text": "Nerve grafting, nerve transfers and\u00c2\u00a0soft tissue reconstruction surgeries (e.g.,\u00c2\u00a0triangle tilt surgery and the Mod-Quad procedure)\u00c2\u00a0for obstetric brachial plexus injury (BPI) (Erb's palsy) if functional recovery does not ensue in\u00c2\u00a03\u00c2\u00a0or more\u00c2\u00a0months. Note : There is a lack of reliable evidence that one type of reconstructive soft tissue technique is more effective than others for\u00c2\u00a0obstetric BPIs.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "surgery"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "64713",
+          "description": "Neuroplasty, major peripheral nerve, arm or leg, open; brachial plexus"
+        },
+        {
+          "code": "64892 - 64893",
+          "description": "Nerve graft (includes obtaining graft), single strand, arm or leg"
+        },
+        {
+          "code": "64897 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c 64898",
+          "description": "Nerve graft (includes obtaining graft), multiple strands (cable), arm or leg"
+        },
+        {
+          "code": "64901 - 64902",
+          "description": "Nerve graft"
+        },
+        {
+          "code": "64905, 64907",
+          "description": "Nerve pedicle transfer"
+        },
+        {
+          "code": "63170",
+          "description": "Laminectomy with myelotomy (eg, Bischof or DREZ type), cervical, thoracic, or thoracolumbar"
+        },
+        {
+          "code": "64640",
+          "description": "Destruction by neurolytic agent; other peripheral nerve or branch"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "64912",
+          "description": "Nerve repair; with nerve allograft, each nerve, first strand (cable)"
+        },
+        {
+          "code": "64913",
+          "description": "Nerve repair; with nerve allograft, each additional strand (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "+20985",
+          "description": "Computer-assisted surgical navigational procedure for musculoskeletal procedures, image-less (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "29240",
+          "description": "Strapping; shoulder (eg., Velpeau) [therapeutic taping]"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "D21.0",
+          "description": "Benign neoplasm of connective and other soft tissue of head, face and neck"
+        },
+        {
+          "code": "D21.10 - D21.12",
+          "description": "Benign neoplasm of connective and other soft tissue of upper limb, including shoulder"
+        },
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury"
+        },
+        {
+          "code": "S14.3XXA \u00c3\u00a2\u00c2\u20ac\u00c2\u201c S14.3XXS",
+          "description": "Injury of brachial plexus"
+        },
+        {
+          "code": "S14.3XXA \u00c3\u00a2\u00c2\u20ac\u00c2\u201c S14.3XXS",
+          "description": "Injury of brachial plexus [brachial plexus avulsion]"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury"
+        },
+        {
+          "code": "S14.3XXA- S14.3XXS",
+          "description": "Injury of brachial plexus"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders"
+        },
+        {
+          "code": "S14.3XXA \u00c3\u00a2\u00c2\u20ac\u00c2\u201c S14.3XXS",
+          "description": "Injury of brachial plexus [brachial plexus avulsion]"
+        },
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders"
+        },
+        {
+          "code": "M21.821 - M21.829",
+          "description": "Other specified acquired deformities of upper arm [winged scapula]"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

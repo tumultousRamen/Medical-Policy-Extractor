@@ -1,0 +1,283 @@
+{
+  "source": "aetna_policy_data_0604.json",
+  "criteria": [
+    {
+      "id": "880532bd-f219-4919-ab53-93018bec6286",
+      "parent_id": null,
+      "text": "Aetna considers\u00c2\u00a0infrared coagulation medically necessary for\u00c2\u00a0the following:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "b698f622-6ea9-42ca-a720-44e43399b680",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "b698f622-6ea9-42ca-a720-44e43399b680",
+      "parent_id": null,
+      "text": "Anal dysplasia;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "c85ffb7b-8927-4521-b22d-7f42fa3567c5",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "c85ffb7b-8927-4521-b22d-7f42fa3567c5",
+      "parent_id": null,
+      "text": "For members with grade I or grade II internal hemorrhoids that are painful or persistently bleeding. (See Appendix for grading of internal hemorrhoids). Note: Infrared light treatment is considered medically necessary as a heat modality in physical therapy.",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "46930",
+          "description": "Destruction of internal hemorrhoid(s), by thermal energy (eg, infrared coagulation, cautery, radiofrequency)"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "97026",
+          "description": "Application of a modality to one or more areas; infrared"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Not covered for listed indications": [
+        {
+          "code": "A4639",
+          "description": "Replacement pad for infrared heating pad system, each"
+        },
+        {
+          "code": "E0221",
+          "description": "Infrared heating pad system"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "K62.82",
+          "description": "Dysplasia of anus"
+        },
+        {
+          "code": "K64.0 - K64.1",
+          "description": "First degree and second degree hemorrhoids"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "B35.1",
+          "description": "Tinea unguium [onychomycosis]"
+        },
+        {
+          "code": "C00.0 - D09.9",
+          "description": "Malignant neoplasms and carcinoma in situ"
+        },
+        {
+          "code": "E08.00 - E13.9",
+          "description": "Diabetes mellitus"
+        },
+        {
+          "code": "F01.50 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c F01.C4",
+          "description": "Vascular dementia"
+        },
+        {
+          "code": "F02.80 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c F02.81",
+          "description": "Dementia in other diseases classified elsewhere"
+        },
+        {
+          "code": "F03.90 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c F03.91",
+          "description": "Unspecified dementia"
+        },
+        {
+          "code": "F33.0 - F33.9",
+          "description": "Major depressive disorder, recurrent [not covered for prevention of seasonal affective disorder]"
+        },
+        {
+          "code": "G11.1",
+          "description": "Early-onset cerebellar ataxia"
+        },
+        {
+          "code": "G20 - G21.9",
+          "description": "Parkinson's disease"
+        },
+        {
+          "code": "G43.001 - G43.901",
+          "description": "Migraines"
+        },
+        {
+          "code": "G51.0",
+          "description": "Bell's palsy"
+        },
+        {
+          "code": "G60.0 - G62.9",
+          "description": "Non-diabetic peripheral neuropathy"
+        },
+        {
+          "code": "G91.0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c G91.9",
+          "description": "Hydrocephalus"
+        },
+        {
+          "code": "G92",
+          "description": "Toxic encephalopathy"
+        },
+        {
+          "code": "G93.1 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c G93.9",
+          "description": "Other disorders of brain"
+        },
+        {
+          "code": "H35.30 - H35.466",
+          "description": "Degeneration of macula and posterior pole and peripheral retinal"
+        },
+        {
+          "code": "I00 - I52",
+          "description": "Acute rheumatic fever, chronic rheumatic heart diseases, hypertensive disease, ischemic heart disease, pulmonary heart disease and disease of pulmonary circulation and other forms of heart diseases [cardiovascular diseases]"
+        },
+        {
+          "code": "I63.00 - I63.9",
+          "description": "Cerebral infarction"
+        },
+        {
+          "code": "I73.00 - I73.01",
+          "description": "Raynaud's syndrome"
+        },
+        {
+          "code": "I89.0",
+          "description": "Lymphedema, not elsewhere classified"
+        },
+        {
+          "code": "I97.2",
+          "description": "Postmastectomy lymphedema syndrome"
+        },
+        {
+          "code": "J45.20 - J45.22",
+          "description": "Mild intermittent asthma"
+        },
+        {
+          "code": "J45.30 - J45.32",
+          "description": "Mild persistent asthma"
+        },
+        {
+          "code": "J45.40 - J45.42",
+          "description": "Moderate persistent asthma"
+        },
+        {
+          "code": "J45.50 - J45.52",
+          "description": "Severe persistent asthma"
+        },
+        {
+          "code": "J45.901 - J45.909",
+          "description": "Unspecified asthma"
+        },
+        {
+          "code": "J45.990 - J45.998",
+          "description": "Other asthma"
+        },
+        {
+          "code": "L70.0 - L70.9",
+          "description": "Acne"
+        },
+        {
+          "code": "L89.000 - L89.95",
+          "description": "Pressure ulcer"
+        },
+        {
+          "code": "M15.0 - M19.93",
+          "description": "Osteoarthritis"
+        },
+        {
+          "code": "M26.601 - M26.609",
+          "description": "Temporomandibular joint disorders"
+        },
+        {
+          "code": "M54.2",
+          "description": "Cervicalgia"
+        },
+        {
+          "code": "M54.50 - M54.59",
+          "description": "Low back pain"
+        },
+        {
+          "code": "M54.6",
+          "description": "Pain in thoracic spine"
+        },
+        {
+          "code": "M54.9",
+          "description": "Dorsalgia, unspecified"
+        },
+        {
+          "code": "M67.00 - M67.99",
+          "description": "Other disorder of synovium and tendon"
+        },
+        {
+          "code": "M80.00 -  M81.8",
+          "description": "Osteoporosis"
+        },
+        {
+          "code": "M85.80 - M85.9",
+          "description": "Other specified disorders of bone density and structure [osteopenia]"
+        },
+        {
+          "code": "N18.1 - N18.9",
+          "description": "Chronic kidney disease (CKD)"
+        },
+        {
+          "code": "Q82.0",
+          "description": "Hereditary lymphedema"
+        },
+        {
+          "code": "R40.0 - R40.4",
+          "description": "Somnolence, stupor and coma [disorders of consciousness]"
+        },
+        {
+          "code": "R68.2",
+          "description": "Dry mouth, unspecified"
+        },
+        {
+          "code": "S02.0xx+ - S02.19x+, S02.91x+ (must be billed with intracranial injury codes)",
+          "description": "Fracture of vault and base of skull"
+        },
+        {
+          "code": "S06.0X0A - S06.A1XS, S06.0XAA - S06.9XAS (must be billed with fracture of skull codes)",
+          "description": "Intracranial injury"
+        },
+        {
+          "code": "S12.000+ - S12.9xx+, S22.000+ - S22.089+, S32.000+ - S32.2xx+ (must be billed with spinal cord injury codes)",
+          "description": "Fracture of vertebral column"
+        },
+        {
+          "code": "S14.0xx+ - S14.9, S24.0xx+ - S24.9, S34.01x+ - S34.9xx+ (must be billed with fracture of vertebral column codes)",
+          "description": "Spinal cord injury"
+        },
+        {
+          "code": "T81.30X+ - T81.33X+",
+          "description": "Disruption of wound, not elsewhere classified"
+        },
+        {
+          "code": "T81.89X+",
+          "description": "Other complications of procedures, not elsewhere classified [non-healing surgical wound]"
+        },
+        {
+          "code": "Numerous options",
+          "description": "Open Wounds [chronic non-healing wounds] [Codes not listed due to expanded specificity]"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

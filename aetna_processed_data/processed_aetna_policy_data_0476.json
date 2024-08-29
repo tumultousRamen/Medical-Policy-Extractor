@@ -1,0 +1,65 @@
+{
+  "source": "aetna_policy_data_0476.json",
+  "criteria": [
+    {
+      "id": "0cdb018d-e0da-472d-9f2d-929be5881c0b",
+      "parent_id": null,
+      "text": "Aetna considers rapid diagnostic tests for viral influenza (e.g., Directigen Flu A, Directigen Flu A+B, Flu OIA, Quickvue Influenza Test, and Z Stat Flu) medically necessary.",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "87804",
+          "description": "Infectious agent antigen detection by immunoassay with direct optical observation; influenza"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "B34.9",
+          "description": "Viral infection, unspecified"
+        },
+        {
+          "code": "J10.00 - J11.89",
+          "description": "Influenza due to other influenza virus"
+        },
+        {
+          "code": "M79.10 - M79.18",
+          "description": "Myalgia"
+        },
+        {
+          "code": "R05",
+          "description": "Cough"
+        },
+        {
+          "code": "R50.9",
+          "description": "Fever, unspecified"
+        },
+        {
+          "code": "R06.02",
+          "description": "Shortness of breath"
+        },
+        {
+          "code": "R51",
+          "description": "Headache"
+        },
+        {
+          "code": "R53.81",
+          "description": "Other malaise"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "source": "aetna_policy_data_0608.json",
+  "criteria": [
+    {
+      "id": "ce30d4e6-a9c8-4fb8-bf94-463bad524bee",
+      "parent_id": null,
+      "text": "Aetna considers late night salivary cortisol medically necessary for diagnosing Cushing's syndrome.",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "82530",
+          "description": "Cortisol; free [other than late night salivary cortisol for diagnosing Cushing's syndrome]"
+        },
+        {
+          "code": "82533",
+          "description": "total [other than late night salivary cortisol for diagnosing Cushing's syndrome]"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "0011U",
+          "description": "Prescription drug monitoring, evaluation of drugs present by LC-MS/MS, using oral fluid, reported as a comparison to an estimated steady-state range, per date of service including all drug compounds and metabolites"
+        },
+        {
+          "code": "0296U",
+          "description": "Oncology (oral and/or oropharyngeal cancer), gene expression profiling by RNA sequencing of at least 20 molecular features (eg, human and/or microbial mRNA), saliva, algorithm reported as positive or negative for signature associated with malignancy"
+        },
+        {
+          "code": "82530",
+          "description": "Cortisol; free"
+        },
+        {
+          "code": "82533",
+          "description": "total"
+        },
+        {
+          "code": "82570",
+          "description": "Creatinine; other source"
+        },
+        {
+          "code": "82626",
+          "description": "Dehydroepiandrosterone (DHEA)"
+        },
+        {
+          "code": "82627",
+          "description": "Dehydroepiandrosterone-sulfate (DHEA-S)"
+        },
+        {
+          "code": "82670",
+          "description": "Estradiol"
+        },
+        {
+          "code": "82671",
+          "description": "Estrogens; fractionated"
+        },
+        {
+          "code": "82672",
+          "description": "total"
+        },
+        {
+          "code": "82677",
+          "description": "Estriol"
+        },
+        {
+          "code": "82679",
+          "description": "Estrone"
+        },
+        {
+          "code": "83516",
+          "description": "Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; qualitative or semiquantitative, multiple step method [salivary testing for anti-tissue transglutaminase for the diagnosis of celiac disease]"
+        },
+        {
+          "code": "83520",
+          "description": "quantitative, not otherwise specified [not covered for measurement of salivary level of interleukin-8 as biomarkers for oral pre-cancer and oral squamous cell carcinoma] [not covered for salivary antibody testing (IgA, IgG, IgM) for the diagnosis of Sicca syndrome]"
+        },
+        {
+          "code": "83529",
+          "description": "Interleukin-6 (IL-6) [Salivary cytokinase]"
+        },
+        {
+          "code": "83615",
+          "description": "Lactate dehydrogenase (LD), (LDH) [ Salivary lactate dehydrogenase]"
+        },
+        {
+          "code": "83937",
+          "description": "Osteocalcin (bone g1a protein)"
+        },
+        {
+          "code": "84144",
+          "description": "Progesterone"
+        },
+        {
+          "code": "84402",
+          "description": "Testosterone; free"
+        },
+        {
+          "code": "84403",
+          "description": "total"
+        },
+        {
+          "code": "84436",
+          "description": "Thyroxine; total"
+        },
+        {
+          "code": "84437",
+          "description": "requiring elution (eg, neonatal)"
+        },
+        {
+          "code": "84439",
+          "description": "free"
+        },
+        {
+          "code": "84443",
+          "description": "Thyroid stimulating hormone (TSH)"
+        },
+        {
+          "code": "84479",
+          "description": "Thyroid hormone (T3 or T4) uptake or thyroid hormone binding ratio (THBR)"
+        },
+        {
+          "code": "84480",
+          "description": "Triidothyronine T3; total (TT-3)"
+        },
+        {
+          "code": "84481",
+          "description": "free"
+        },
+        {
+          "code": "86316",
+          "description": "Immunoassay for tumor antigen, other antigen, quantitative (eg, CA 50, 72-4, 549), each [not covered for measurement of salivary level of CYFRA 21-1 as biomarkers for oral pre-cancer and oral squamous cell carcinoma]"
+        },
+        {
+          "code": "88341",
+          "description": "Immunohistochemistry or immunocytochemistry, per specimen; each additional single antibody stain procedure (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "88342",
+          "description": "Immunohistochemistry or immunocytochemistry, per specimen; initial single antibody stain procedure"
+        },
+        {
+          "code": "88344",
+          "description": "Immunohistochemistry or immunocytochemistry, per specimen; each multiplex antibody stain procedure"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Not covered for listed indications": [
+        {
+          "code": "S3650",
+          "description": "Saliva test, hormone level; during menopause"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "E24.0 - E24.9",
+          "description": "Cushing's syndrome"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "C00.0 - C10.9",
+          "description": "Malignant neoplasm of lip and oral cavity [oral squamous cell carcinoma]"
+        },
+        {
+          "code": "C44.02",
+          "description": "Squamous cell carcinoma of skin of lip"
+        },
+        {
+          "code": "C76.0",
+          "description": "Malignant neoplasm of head, face and neck"
+        },
+        {
+          "code": "E27.0 - E27.9",
+          "description": "Other disorders of adrenal gland"
+        },
+        {
+          "code": "E28.310 - E28.319",
+          "description": "Premature menopause"
+        },
+        {
+          "code": "E89.40 - E89.41",
+          "description": "Postprocedural ovarian failure"
+        },
+        {
+          "code": "E89.6",
+          "description": "Postprocedural adrenocortical (-medullary) hypofunction"
+        },
+        {
+          "code": "F30.10 - F30.9",
+          "description": "Manic episode"
+        },
+        {
+          "code": "F31.0 - F31.9",
+          "description": "Bipolar disorder"
+        },
+        {
+          "code": "F32.0 - F32.9",
+          "description": "Major depressive disorder, single episode"
+        },
+        {
+          "code": "F33.3",
+          "description": "Major depressive disorder, recurrent, severe with psychotic symptoms"
+        },
+        {
+          "code": "F34.1",
+          "description": "Dysthymic disorder"
+        },
+        {
+          "code": "F50.00 - F50.02",
+          "description": "Anorexia nervosa"
+        },
+        {
+          "code": "F50.2 - F50.9",
+          "description": "Other eating disorders [bulimia nervosa, Pica, unspecified]"
+        },
+        {
+          "code": "J12.81",
+          "description": "Pneumonia due to SARS-associated coronavirus"
+        },
+        {
+          "code": "J12.82",
+          "description": "Pneumonia due to coronavirus disease 2019"
+        },
+        {
+          "code": "K05.00 - K05.6",
+          "description": "Gingivitis and periodontal diseases"
+        },
+        {
+          "code": "K13.21",
+          "description": "Leukoplakia of oral mucosa, including tongue"
+        },
+        {
+          "code": "K13.29",
+          "description": "Other disturbances of oral epithelium, including tongue"
+        },
+        {
+          "code": "K21.9",
+          "description": "Gastro-esophageal reflux disease without esophagitis"
+        },
+        {
+          "code": "K72.00 - K72.91",
+          "description": "Hepatic failure, not elsewhere classified [minimal hepatic encephalopathy]"
+        },
+        {
+          "code": "K90.0",
+          "description": "Celiac disease"
+        },
+        {
+          "code": "L43.0 - L43.9",
+          "description": "Lichen planus"
+        },
+        {
+          "code": "M35.00 - M35.09",
+          "description": "Sicca syndrome [Sj\u00c3\u00b6gren]"
+        },
+        {
+          "code": "M80.00x+ - M81.8",
+          "description": "Osteoporosis"
+        },
+        {
+          "code": "N19",
+          "description": "Unspecified kidney failure"
+        },
+        {
+          "code": "N92.4",
+          "description": "Excessive bleeding in the premenopausal period"
+        },
+        {
+          "code": "N95.0 - N95.9",
+          "description": "Menopausal and other perimenopausal disorders"
+        },
+        {
+          "code": "O09.00 - O31.8X99",
+          "description": "Pregnancy [prediction of infant birth weight]"
+        },
+        {
+          "code": "P07.00 - P0739",
+          "description": "Immaturity of newborn"
+        },
+        {
+          "code": "R00.0",
+          "description": "Tachycardia, unspecified [postural tachycardia syndrome]"
+        },
+        {
+          "code": "S06.0X0A - S06.A1XS, S06.0XAA - S06.9XAS",
+          "description": "Intracranial injury"
+        },
+        {
+          "code": "U07.1",
+          "description": "COVID-19"
+        },
+        {
+          "code": "Z01.20",
+          "description": "Encounter for dental examination and cleaning without abnormal findings"
+        },
+        {
+          "code": "Z01.21",
+          "description": "Encounter for dental examination and cleaning with abnormal findings"
+        },
+        {
+          "code": "Z12.0 - Z12.9",
+          "description": "Encounter for screening for malignant neoplasms"
+        },
+        {
+          "code": "Z13.810 - Z13.818",
+          "description": "Encounter for screening for digestive system disorders [diagnosis of gastro-esophageal reflux disease]"
+        },
+        {
+          "code": "Z13.820",
+          "description": "Encounter for screening for osteoporosis"
+        },
+        {
+          "code": "Z13.84",
+          "description": "Encounter for screening for dental disorders [periodontal disease]"
+        },
+        {
+          "code": "Z13.850 - Z13.858",
+          "description": "Encounter for screening for nervous system disorders [diagnosis of depression]"
+        },
+        {
+          "code": "Z78.0",
+          "description": "Asymptomatic menopausal state"
+        },
+        {
+          "code": "Z79.890",
+          "description": "Hormone replacement therapy (postmenopausal)"
+        }
+      ]
+    },
+    "Other": {}
+  }
+}

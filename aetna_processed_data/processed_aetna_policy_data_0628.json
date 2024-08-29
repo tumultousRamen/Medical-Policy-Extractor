@@ -1,0 +1,278 @@
+{
+  "source": "aetna_policy_data_0628.json",
+  "criteria": [
+    {
+      "id": "d6cee9e4-dd4d-48d0-bd2e-9af2940fbd2a",
+      "parent_id": null,
+      "text": "Aetna considers\u00c2\u00a0ultrasound of the spine and para-spinal tissues medically necessary for the following indications:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+      "parent_id": null,
+      "text": "In newborns and infants for the following indications: Detection of sequelae of injury (e.g., hematoma after spinal tap or birth injury; post-traumatic leakage of cerebrospinal fluid; and sequelae of prior instrumentation, infection, or hemorrhage); Evaluation of suspected defects such as cord tethering, diastematomyelia, hydromyelia, and syringomyelia; Guidance for lumbar puncture; Lumbosacral stigmata known to be associated with spinal dysraphism; Post-operative assessment for cord retethering; Spectrum of caudal regression syndrome (e.g., anal atresia or stenosis; sacral agenesis); Visualization of fluid with characteristics of blood products within the spinal canal in neonates and infants with intra-cranial hemorrhage;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Diagnosis": [
+          "evaluation",
+          "assessment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "3c7fea18-7c0e-4443-9462-536f258b87d8",
+      "children": [
+        {
+          "id": "f2d3d3a1-e645-4ad4-a4dd-34d3c23d0356",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Detection of sequelae of injury (e.g., hematoma after spinal tap or birth injury; post-traumatic leakage of cerebrospinal fluid; and sequelae of prior instrumentation, infection, or hemorrhage);",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "a5bf3612-676f-44bf-b8a9-34e93b99c393",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "a5bf3612-676f-44bf-b8a9-34e93b99c393",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Evaluation of suspected defects such as cord tethering, diastematomyelia, hydromyelia, and syringomyelia;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "875dc799-c6cb-4e78-9ddc-c6a6569173d9",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "875dc799-c6cb-4e78-9ddc-c6a6569173d9",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Guidance for lumbar puncture;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "db7ba40b-d0ac-4de3-801e-f55512ffef69",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "db7ba40b-d0ac-4de3-801e-f55512ffef69",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Lumbosacral stigmata known to be associated with spinal dysraphism;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "fa0ffa60-51b9-44ab-a2c3-c15feac8f769",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "fa0ffa60-51b9-44ab-a2c3-c15feac8f769",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Post-operative assessment for cord retethering;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "assessment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "db0c42d1-7c12-47ee-9bb8-6f1ae77e7942",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "db0c42d1-7c12-47ee-9bb8-6f1ae77e7942",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Spectrum of caudal regression syndrome (e.g., anal atresia or stenosis; sacral agenesis);",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "e90023e0-00e3-48cf-801a-0f084a9a878f",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "e90023e0-00e3-48cf-801a-0f084a9a878f",
+          "parent_id": "2d610780-3cfb-47b2-a2fa-ea3703e167a1",
+          "text": "Visualization of fluid with characteristics of blood products within the spinal canal in neonates and infants with intra-cranial hemorrhage;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "3c7fea18-7c0e-4443-9462-536f258b87d8",
+      "parent_id": null,
+      "text": "When performed intra-operatively.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "b27fde3a-a9e9-4d4f-841a-3756736dfa9a",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "b27fde3a-a9e9-4d4f-841a-3756736dfa9a",
+      "parent_id": null,
+      "text": "In newborns and infants for the following indications:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "12f3ca87-5e7a-457b-ac98-7d4b8890d51f",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "12f3ca87-5e7a-457b-ac98-7d4b8890d51f",
+      "parent_id": null,
+      "text": "When performed intra-operatively.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "76800",
+          "description": "Ultrasound, spinal canal and contents"
+        }
+      ],
+      "Other": [
+        {
+          "code": "62320 - 62323",
+          "description": "Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid"
+        },
+        {
+          "code": "62324 - 62327",
+          "description": "Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, interlaminar epidural or subarachnoid"
+        },
+        {
+          "code": "64400 - 64530",
+          "description": "Introduction/injection of anesthetic agent (nerve block), diagnostic or therapeutic"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Not covered for listed indications": []
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "G96.0",
+          "description": "Cerebrospinal fluid leak [post-trauma]"
+        },
+        {
+          "code": "G97.51",
+          "description": "Postprocedural hemorrhage of a nervous system organ or structure following a nervous system procedure [following lumbar puncture]"
+        },
+        {
+          "code": "G97.61",
+          "description": "Postprocedural hematoma of a nervous system organ or structure following a nervous system procedure"
+        },
+        {
+          "code": "G97.63",
+          "description": "Postprocedural seroma of a nervous system organ or structure following a nervous system procedure"
+        },
+        {
+          "code": "P10.0 - P10.3, P10.8 - P10.9",
+          "description": "Subdural and cerebral hemorrhage [due to birth trauma]"
+        },
+        {
+          "code": "P11.5",
+          "description": "Birth injury to spine and spinal cord"
+        },
+        {
+          "code": "P52.0 - P52.22",
+          "description": "Intracranial nontraumatic hemorrhage of newborn [grades 1 through 4]"
+        },
+        {
+          "code": "P52.3",
+          "description": "Unspecified intraventricular (nontraumatic) hemorrhage of newborn"
+        },
+        {
+          "code": "P52.5",
+          "description": "Subarachnoid (nontraumatic) hemorrhage of newborn"
+        },
+        {
+          "code": "Q05.0 - Q05.9",
+          "description": "Spina bifida"
+        },
+        {
+          "code": "Q06.0 - Q06.9",
+          "description": "Other congenital malformations of spinal cord"
+        },
+        {
+          "code": "Q07.01 - Q07.03",
+          "description": "Arnold-Chiari syndrome with spina bifida"
+        },
+        {
+          "code": "Q42.2",
+          "description": "Congenital absence, atresia and stenosis of anus with fistula"
+        },
+        {
+          "code": "Q42.3",
+          "description": "Congenital absence, atresia and stenosis of anus without fistula"
+        },
+        {
+          "code": "Q76.49",
+          "description": "Other congenital malformations of spine, not associated with scoliosis [sacrum]"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "G06.1",
+          "description": "Intraspinal abscess and granuloma"
+        },
+        {
+          "code": "G54.0 - G59",
+          "description": "Nerve, nerve root and plexus disorders"
+        },
+        {
+          "code": "G60.0 - G65.2",
+          "description": "Polyneuropathies and other disorders of the peripheral nervous system"
+        },
+        {
+          "code": "G70.00 - G73.7",
+          "description": "Diseases of myoneural junction and muscle"
+        },
+        {
+          "code": "M41.00 - M41.9",
+          "description": "Scoliosis"
+        },
+        {
+          "code": "M50.00 - M51.9, M51.A0 -M51.A5",
+          "description": "Cervical, thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders"
+        },
+        {
+          "code": "M53.0 - M53.9",
+          "description": "Other and unspecified dorsopathies, not elsewhere classified"
+        },
+        {
+          "code": "M54.00 - M54.9",
+          "description": "Dorsalgia"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

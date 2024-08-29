@@ -1,0 +1,784 @@
+{
+  "source": "aetna_policy_data_0484.json",
+  "criteria": [
+    {
+      "id": "22180f44-4933-4a82-8e0b-5d075b1c9bd3",
+      "parent_id": null,
+      "text": "Aetna considers the following glaucoma treatments as medically necessary:",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Condition": [
+          "glaucoma"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+      "parent_id": null,
+      "text": "Laser trabeculoplasty or Food and Drug Administration (FDA)-approved aqueous drainage/shunt implants\u00c2\u00a0for the treatment of members with refractory primary open-angle glaucoma when first-line drugs (e.g., latanoprost or timolol), and second-line drugs (e.g., brimonidine or dorzolamide) have failed to control intra-ocular pressure (IOP). Currently available implants include: Ahmed glaucoma implant Baerveldt seton Ex-PRESS mini glaucoma shunt Glaucoma pressure regulator Krupin-Denver valve implant Molteno implant Schocket shunt;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "implant",
+          "treatment"
+        ],
+        "Condition": [
+          "glaucoma"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "c407bf65-a5f5-44bc-88e9-e88b94048a39",
+      "children": [
+        {
+          "id": "829c5ae6-ccd9-4605-a582-a8eff6c88aac",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Ahmed glaucoma implant",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "implant"
+            ],
+            "Condition": [
+              "glaucoma"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "ee29d882-1459-4a74-a7a8-da73e94e8872",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "ee29d882-1459-4a74-a7a8-da73e94e8872",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Baerveldt seton",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "32bb701a-0376-497a-95de-6317f77170a3",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "32bb701a-0376-497a-95de-6317f77170a3",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Ex-PRESS mini glaucoma shunt",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Condition": [
+              "glaucoma"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "1b4a881e-d892-4d5f-81cb-6166a507a9ac",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "1b4a881e-d892-4d5f-81cb-6166a507a9ac",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Glaucoma pressure regulator",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Condition": [
+              "glaucoma"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "6cc216a4-a6de-4d28-9343-e07a0f81b0a5",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "6cc216a4-a6de-4d28-9343-e07a0f81b0a5",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Krupin-Denver valve implant",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "implant"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "003c2b64-39e6-4e3f-8bd6-5089c780eb8b",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "003c2b64-39e6-4e3f-8bd6-5089c780eb8b",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Molteno implant",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "implant"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "d9c2c74a-455c-469b-bdbc-885714601960",
+          "next_sibling_relation": null
+        },
+        {
+          "id": "d9c2c74a-455c-469b-bdbc-885714601960",
+          "parent_id": "10c7abff-b5c9-4901-855d-bae2cab86fa7",
+          "text": "Schocket shunt;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "c407bf65-a5f5-44bc-88e9-e88b94048a39",
+      "parent_id": null,
+      "text": "One or two iStent Trabecular Micro-Bypass Stents per eye for the treatment of adults with mild or moderate open-angle glaucoma and a cataract when the individual is currently being treated with an ocular hypotensive medication and the procedure is being performed in conjunction with cataract surgery;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "medication",
+          "surgery",
+          "treatment"
+        ],
+        "Anatomy": [
+          "cataract",
+          "eye"
+        ],
+        "Condition": [
+          "glaucoma",
+          "cataract"
+        ],
+        "Procedure": [
+          "cataract surgery"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "c75220e1-cb6f-4210-8ef8-5af2e1b58e98",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "c75220e1-cb6f-4210-8ef8-5af2e1b58e98",
+      "parent_id": null,
+      "text": "Hydrus Microstent for the treatment of adults with mild or moderate open-angle glaucoma and a cataract when the individual is currently being treated with an ocular hypotensive medication and the procedure is being performed in conjunction with cataract surgery;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "medication",
+          "surgery",
+          "treatment"
+        ],
+        "Anatomy": [
+          "cataract"
+        ],
+        "Condition": [
+          "glaucoma",
+          "cataract"
+        ],
+        "Procedure": [
+          "cataract surgery"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "b5a5fd25-9045-4b91-a4e1-572321b4f000",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "b5a5fd25-9045-4b91-a4e1-572321b4f000",
+      "parent_id": null,
+      "text": "XEN Glaucoma Treatment System for the management of refractory glaucoma, including cases where previous surgical treatment has failed, cases of primary open angle glaucoma, and pseudoexfoliative or pigmentary glaucoma with open angles that are unresponsive to maximum tolerated medical therapy;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ],
+        "Condition": [
+          "glaucoma"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "5d327b3d-0317-4376-af0d-c326e0266a76",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "5d327b3d-0317-4376-af0d-c326e0266a76",
+      "parent_id": null,
+      "text": "Adjunctive use of anti-fibrotic agents (e.g., mitomycin C) for use with the Ex-PRESS mini glaucoma shunt. However, adjunctive use of anti-fibrotic agents (e.g., mitomycin C) or systemic corticosteroids with other shunt implants is considered experimental and investigational because there are no advantages to the adjunctive use of these agents with currently available shunts;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Condition": [
+          "glaucoma"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "0ac5f215-c8cc-4ca4-b782-ca966226b279",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "0ac5f215-c8cc-4ca4-b782-ca966226b279",
+      "parent_id": null,
+      "text": "Combined glaucoma and cataract surgery for persons with a visually signifiant cataract with uncontrolled glaucoma despite maximal medical therapy and/or laser trabeculoplasty.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "surgery",
+          "therapy"
+        ],
+        "Anatomy": [
+          "cataract"
+        ],
+        "Condition": [
+          "glaucoma",
+          "cataract"
+        ],
+        "Procedure": [
+          "cataract surgery"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "2bbb74bc-9a6a-4527-adee-75eb393b83b5",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "2bbb74bc-9a6a-4527-adee-75eb393b83b5",
+      "parent_id": null,
+      "text": "Laser trabeculoplasty or Food and Drug Administration (FDA)-approved aqueous drainage/shunt implants\u00c2\u00a0for the treatment of members with refractory primary open-angle glaucoma when first-line drugs (e.g., latanoprost or timolol), and second-line drugs (e.g., brimonidine or dorzolamide) have failed to control intra-ocular pressure (IOP). Currently available implants include:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ],
+        "Condition": [
+          "glaucoma"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "0449T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; initial device"
+        },
+        {
+          "code": "0450T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; each additional device (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "65855",
+          "description": "Trabeculoplasty by laser surgery"
+        },
+        {
+          "code": "66180",
+          "description": "Aqueous shunt to extraocular equatorial plate reservoir, external approach; with graft"
+        },
+        {
+          "code": "66183",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, external approach"
+        },
+        {
+          "code": "66185",
+          "description": "Revision of aqueous shunt to extraocular equatorial plate reservoir; with graft"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular"
+        },
+        {
+          "code": "0449T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; initial device"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "0253T",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, internal approach, into the suprachoroidal space"
+        },
+        {
+          "code": "0444T",
+          "description": "Initial placement of a drug-eluting ocular insert under one or more eyelids, including fitting, training, and insertion, unilateral or bilateral"
+        },
+        {
+          "code": "0445T",
+          "description": "Subsequent placement of a drug-eluting ocular insert under one or more eyelids, including re-training, and removal of existing insert, unilateral or bilateral"
+        },
+        {
+          "code": "0474T",
+          "description": "Insertion of anterior segment aqueous drainage device, with creation of intraocular reservoir, internal approach, into the supraciliary space"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more"
+        },
+        {
+          "code": "0253T",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, internal approach, into the suprachoroidal space [iStent G3 Supra]"
+        },
+        {
+          "code": "0474T",
+          "description": "Insertion of anterior segment aqueous drainage device, with creation of intraocular reservoir, internal approach, into the supraciliary space [Cypass]"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more"
+        },
+        {
+          "code": "77401 - 77412",
+          "description": "Radiation treatment delivery"
+        },
+        {
+          "code": "0660T",
+          "description": "Implantation of anterior segment intraocular nonbiodegradable drug-eluting system, internal approach"
+        },
+        {
+          "code": "0661T",
+          "description": "Removal and reimplantation of anterior segment intraocular nonbiodegradable drug-eluting implant"
+        },
+        {
+          "code": "68841",
+          "description": "Insertion of drug-eluting implant, including punctal dilation when performed, into lacrimal canaliculus, each"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more"
+        }
+      ],
+      "Other": [
+        {
+          "code": "66150",
+          "description": "Fistulization of sclera for glaucoma; trephination with iridectomy"
+        },
+        {
+          "code": "66155",
+          "description": "thermocauterization with iridectomy"
+        },
+        {
+          "code": "66160",
+          "description": "sclerectomy with punch or scissors, with iridectomy"
+        },
+        {
+          "code": "66710",
+          "description": "Ciliary body destruction; cyclophotocoagulation, transscleral"
+        },
+        {
+          "code": "66720",
+          "description": "cryotherapy"
+        },
+        {
+          "code": "66761",
+          "description": "Iridotomy/iridectomy by laser surgery (e.g., for glaucoma) (one or more sessions)"
+        },
+        {
+          "code": "66820 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c 66821",
+          "description": "Discission of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid); stab incision technique (Ziegler or Wheeler knife) or   laser surgery (eg, YAG laser) (1 or more stages)"
+        },
+        {
+          "code": "66830",
+          "description": "Removal of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid) with corneo-scleral section, with or without iridectomy (iridocapsulotomy, iridocapsulectomy)"
+        },
+        {
+          "code": "66840",
+          "description": "Removal of lens material; aspiration technique, 1 or more stages"
+        },
+        {
+          "code": "66850",
+          "description": "Removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (eg, phacoemulsification), with aspiration"
+        },
+        {
+          "code": "66852",
+          "description": "Removal of lens material; pars plana approach, with or without vitrectomy"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "J7315",
+          "description": "Mitomycin, opthalmic, 0.2 mg"
+        },
+        {
+          "code": "J9190",
+          "description": "Injection, fluorouracil, 500 mg"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt [covered if FDA approved] [DeepLight Gold Micro-Shunt and Eyepass Glaucoma Implant are not covered]"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "C9257",
+          "description": "Injection, bevacizumab, 0.25mg [Avastin] [intraocular dose]"
+        },
+        {
+          "code": "J0178",
+          "description": "Injection, aflibercept, 1 mg"
+        },
+        {
+          "code": "J0702",
+          "description": "Injection, betamethasone acetate and betamethasone sodium phosphate, per 3 mg"
+        },
+        {
+          "code": "J1020",
+          "description": "Injection, methylprednisolone acetate, 20 mg"
+        },
+        {
+          "code": "J1030",
+          "description": "Injection, methylprednisolone acetate, 40 mg"
+        },
+        {
+          "code": "J1040",
+          "description": "Injection, methylprednisolone acetate, 80 mg"
+        },
+        {
+          "code": "J1094",
+          "description": "Injection, dexamethasone acetate, 1 mg"
+        },
+        {
+          "code": "J1100",
+          "description": "Injection, dexamethasone sodium phosphate, 1mg"
+        },
+        {
+          "code": "J1700",
+          "description": "Injection, hydrocortisone acetate, up to 25 mg (i. e., Hydrocortone acetate)"
+        },
+        {
+          "code": "J1710",
+          "description": "Injection, hydrocortisone sodium phosphate, up to 50 mg (i.e., Hydrocortone phosphate)"
+        },
+        {
+          "code": "J1720",
+          "description": "Injection, hydrocortisone sodium succinate, up to 100 mg (i.e., Solu-Cortef)"
+        },
+        {
+          "code": "J2503",
+          "description": "Injection, pegaptanib sodium, 0.3 mg"
+        },
+        {
+          "code": "J2650",
+          "description": "Injection, prednisolone acetate, up to 1 ml (i.e., Key-Pred 25, Key-Pred 50, Predcor-25, Predcor-50, Predoject 50, Predalone-50, Predicort-50)"
+        },
+        {
+          "code": "J2778",
+          "description": "Injection, ranibizumab, 0.1 mg"
+        },
+        {
+          "code": "J2920",
+          "description": "Injection, methylprednisolone sodium succinate, up to 40 mg (i.e., Solu-Medrol)"
+        },
+        {
+          "code": "J2930",
+          "description": "Injection, methylprednisolone sodium succinate, up to 125 mg (i.e., Solu-Medrol)"
+        },
+        {
+          "code": "J3301",
+          "description": "Injection, triamcinolone acetonide, not otherwise specified, per 10 mg (i.e., Kenalog)"
+        },
+        {
+          "code": "J3302",
+          "description": "Injection, triamcinolone diacetate, per 5 mg (i.e., Aristocort)"
+        },
+        {
+          "code": "J3303",
+          "description": "Injection, triamcinolone hexacetonide, per 5 mg (i.e., Aristospan)"
+        },
+        {
+          "code": "J7509",
+          "description": "Methylprednisolone, oral, per 4 mg"
+        },
+        {
+          "code": "J7510",
+          "description": "Prednisolone, oral, per 5 mg"
+        },
+        {
+          "code": "J7512",
+          "description": "Prednisone, immediate release or delayed release, oral, 1 mg"
+        },
+        {
+          "code": "J8540",
+          "description": "Dexamethasone, oral, 0.25 mg"
+        },
+        {
+          "code": "J9035",
+          "description": "Injection, bevacizumab, 10 mg [Avastin] [chemotherapy dose]"
+        },
+        {
+          "code": "J9280",
+          "description": "Injection, mitomycin, 5 mg"
+        },
+        {
+          "code": "Q5107",
+          "description": "Injection, bevacizumab-awwb, biosimilar, (mvasi), 10 mg"
+        },
+        {
+          "code": "G6001 - G6014",
+          "description": "Radiation treatment delivery"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt"
+        }
+      ],
+      "Other": [
+        {
+          "code": "J0171",
+          "description": "Injection, adrenaline, epinephrine, 0.1 mg"
+        },
+        {
+          "code": "J1120",
+          "description": "Injection, acetazolamide sodium, up to 500 mg"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "H40.1110 - H40.1194",
+          "description": "Primary open-angle glaucoma"
+        },
+        {
+          "code": "H25.011 - H26.9",
+          "description": "Cataract  [must be billed with H40.011+]"
+        },
+        {
+          "code": "H40.1111",
+          "description": "Primary open-angle glaucoma, right eye, mild stage"
+        },
+        {
+          "code": "H40.1112",
+          "description": "Primary open-angle glaucoma, right eye, moderate stage"
+        },
+        {
+          "code": "H40.1121",
+          "description": "Primary open-angle glaucoma, left eye, mild stage"
+        },
+        {
+          "code": "H40.1122",
+          "description": "Primary open-angle glaucoma, left eye, moderate stage"
+        },
+        {
+          "code": "H40.1131",
+          "description": "Primary open-angle glaucoma, bilateral, mild stage"
+        },
+        {
+          "code": "H40.1132",
+          "description": "Primary open-angle glaucoma, bilateral, moderate stage"
+        },
+        {
+          "code": "Q12.0 - Q12.9",
+          "description": "Congenital cataract and lens malformations"
+        },
+        {
+          "code": "H25.011 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H26.9",
+          "description": "Cataract [must be billed with H40.011+]"
+        },
+        {
+          "code": "H40.1111",
+          "description": "Primary open-angle glaucoma, right eye, mild stage"
+        },
+        {
+          "code": "H40.1112",
+          "description": "Primary open-angle glaucoma, right eye, moderate stage"
+        },
+        {
+          "code": "H40.1121",
+          "description": "Primary open-angle glaucoma, left eye, mild stage"
+        },
+        {
+          "code": "H40.1122",
+          "description": "Primary open-angle glaucoma, left eye, moderate stage"
+        },
+        {
+          "code": "H40.1131",
+          "description": "Primary open-angle glaucoma, bilateral, mild stage"
+        },
+        {
+          "code": "H40.1132",
+          "description": "Primary open-angle glaucoma, bilateral, moderate stage"
+        },
+        {
+          "code": "H40.151",
+          "description": "Residual stage of open-angle glaucoma, right eye"
+        },
+        {
+          "code": "H40.152",
+          "description": "Residual stage of open-angle glaucoma, left eye"
+        },
+        {
+          "code": "H40.153",
+          "description": "Residual stage of open-angle glaucoma, bilateral"
+        },
+        {
+          "code": "Q12.0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c Q12.9",
+          "description": "Congenital cataract and lens malformations"
+        },
+        {
+          "code": "H40.1110 - H40.1194",
+          "description": "Glaucoma"
+        },
+        {
+          "code": "H40.1311 - H40.1394",
+          "description": "Pigmentary glaucoma"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "C69.60 - C69.62",
+          "description": "Malignant neoplasm of orbit [retrobulbar tumor]"
+        },
+        {
+          "code": "E05.00 - E05.01",
+          "description": "Thyrotoxicosis with diffuse goiter  [thyroid eye disease]"
+        },
+        {
+          "code": "H40.20x0 - H40.2494",
+          "description": "Primary angle-closure glaucoma"
+        },
+        {
+          "code": "H40.50x0 -  H40.53x4",
+          "description": "Glaucoma secondary to other eye disorders"
+        },
+        {
+          "code": "H40.89",
+          "description": "Other specified glaucoma [neovascular glaucoma]"
+        },
+        {
+          "code": "Q85.81 - Q85.89",
+          "description": "Other phakomatoses, not elsewhere classified [Sturge-Weber Syndrome]"
+        },
+        {
+          "code": "Q13.00 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c Q13.89",
+          "description": "Congenital malformations of anterior segment of eye [birth defects of the anterior chamber angle of the eye]"
+        },
+        {
+          "code": "H40.20x0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.249",
+          "description": "Primary angle-closure glaucoma"
+        },
+        {
+          "code": "H40.50x0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.534",
+          "description": "Glaucoma secondary to other eye disorders [secondary angle-closure glaucoma] [neovascular glaucoma]"
+        },
+        {
+          "code": "H40.831 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.839",
+          "description": "Aqueous misdirection"
+        },
+        {
+          "code": "H40.30x0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.33x4",
+          "description": "Glaucoma secondary to eye trauma"
+        },
+        {
+          "code": "H40.40x0 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.43x4",
+          "description": "Glaucoma secondary to eye inflammation [uveitic glaucoma]"
+        },
+        {
+          "code": "H40.001 - H42",
+          "description": "Glaucoma"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma"
+        },
+        {
+          "code": "H40.001 - H40.9",
+          "description": "Glaucoma"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma"
+        },
+        {
+          "code": "H40.001 \u00c3\u00a2\u00c2\u20ac\u00c2\u201c H40.9",
+          "description": "Glaucoma"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma [primary]"
+        },
+        {
+          "code": "H40.001 - H42",
+          "description": "Glaucoma"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma"
+        },
+        {
+          "code": "H40.10x0 - H40.159",
+          "description": "Open-angle glaucoma"
+        }
+      ]
+    },
+    "Other": {
+      "Other": [
+        {
+          "code": "0621T",
+          "description": "Trabeculostomy ab interno by laser"
+        },
+        {
+          "code": "0622T",
+          "description": "Trabeculostomy ab interno by laser; with use of ophthalmic endoscope"
+        }
+      ]
+    }
+  }
+}

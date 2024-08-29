@@ -1,0 +1,643 @@
+{
+  "source": "aetna_policy_data_0243.json",
+  "criteria": [
+    {
+      "id": "43948d98-0bf7-4084-ad76-42bd34181981",
+      "parent_id": null,
+      "text": "Aetna considers the following indications for speech therapy as medically necessary (unless otherwise specified):",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+      "parent_id": null,
+      "text": "Treatment of communication disabilities and/or swallowing disorders (dysphagia) from disease when all of the following criteria are met: The member\u00e2\u20ac\u2122s physician has determined that the member\u00e2\u20ac\u2122s condition can improve significantly with speech therapy; and The speech therapy is expected to result in a significant improvement in the individual\u00e2\u20ac\u2122s condition within a reasonable and generally predictable period of time; and Speech therapy services must be performed by a duly licensed and certified, if applicable, provider. All services provided must be within the applicable scope of practice for the provider in their licensed jurisdiction where the services are provided; and The speech therapy services provided must be of the complexity and nature to require that they are performed by a licensed speech-language pathologist or provided under their direct supervision by a licensed ancillary person as permitted under state laws; and Speech therapy services must be provided in accordance with an ongoing, written plan of care that is reviewed with and approved by the treating physician in accordance with applicable state laws and regulations. The plan of care should be of sufficient detail and include appropriate objective and subjective data to demonstrate the medical necessity of the proposed treatment (see Appendix for documentation requirements);",
+      "is_medical_necessity": false,
+      "logical_relation": "ALL",
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": "ALL",
+      "next_sibling_id": "062da738-1b70-438f-a550-40a409f8ec35",
+      "children": [
+        {
+          "id": "1a32354b-071e-4097-8f08-71c66792b182",
+          "parent_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+          "text": "The member\u00e2\u20ac\u2122s physician has determined that the member\u00e2\u20ac\u2122s condition can improve significantly with speech therapy; and",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "b5f32691-f4c2-46a8-b77c-e11796279f7c",
+          "next_sibling_relation": "AND"
+        },
+        {
+          "id": "b5f32691-f4c2-46a8-b77c-e11796279f7c",
+          "parent_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+          "text": "The speech therapy is expected to result in a significant improvement in the individual\u00e2\u20ac\u2122s condition within a reasonable and generally predictable period of time; and",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "197e51b3-f46e-4551-86d0-9b940e8d5e85",
+          "next_sibling_relation": "AND"
+        },
+        {
+          "id": "197e51b3-f46e-4551-86d0-9b940e8d5e85",
+          "parent_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+          "text": "Speech therapy services must be performed by a duly licensed and certified, if applicable, provider. All services provided must be within the applicable scope of practice for the provider in their licensed jurisdiction where the services are provided; and",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "b9a463ee-f627-4f92-9f89-1577fe759f69",
+          "next_sibling_relation": "AND"
+        },
+        {
+          "id": "b9a463ee-f627-4f92-9f89-1577fe759f69",
+          "parent_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+          "text": "The speech therapy services provided must be of the complexity and nature to require that they are performed by a licensed speech-language pathologist or provided under their direct supervision by a licensed ancillary person as permitted under state laws; and",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "2db8d6dd-cd4d-40e5-a62b-5ec1e0a0200e",
+          "next_sibling_relation": "AND"
+        },
+        {
+          "id": "2db8d6dd-cd4d-40e5-a62b-5ec1e0a0200e",
+          "parent_id": "3ec6a3af-1780-4bb7-856c-526e6078d012",
+          "text": "Speech therapy services must be provided in accordance with an ongoing, written plan of care that is reviewed with and approved by the treating physician in accordance with applicable state laws and regulations. The plan of care should be of sufficient detail and include appropriate objective and subjective data to demonstrate the medical necessity of the proposed treatment (see Appendix for documentation requirements);",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy",
+              "treatment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "062da738-1b70-438f-a550-40a409f8ec35",
+      "parent_id": null,
+      "text": "Speech therapy is considered not medically necessary in the following circumstances: Duplicate therapy when members receive both occupational, physical and speech therapy; the therapies should provide different treatments and not duplicate the same treatment. When multiple therapies are used, each must have separate written treatment plans and must provide significantly different treatments and not be seen as generally duplicating each other; or Maintenance programs such as drills, techniques, and exercises that are intended to preserve the member's present level of function or prevent regression of function. Maintenance begins when the therapeutic goals of a treatment plan have been achieved and when no further functional progress is apparent or expected to occur. Specifically, these include continued activities for individuals who have achieved generally accepted levels of function and are at a plateau or have reached \"normal\" levels. A plateau is a period of four weeks or dependent on the specific condition and/or individual situation, a lesser period of time that is seen as generally accepted; or Treatments that do not require the skills of a qualified provider of speech therapy services, such as treatments that maintain function by using routine, repetitious, and reinforced procedures that are neither diagnostic nor therapeutic (e.g., practicing word drills for developmental articulation errors) or procedures that may be carried out effectively by the member, family, or caregivers at home on their own;",
+      "is_medical_necessity": false,
+      "logical_relation": "ALL",
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": "ALL",
+      "next_sibling_id": "bd54011c-8555-431a-a0e9-b81713f18714",
+      "children": [
+        {
+          "id": "2a1498ee-0bb0-4d0c-85e3-1cb7092a08f7",
+          "parent_id": "062da738-1b70-438f-a550-40a409f8ec35",
+          "text": "Duplicate therapy when members receive both occupational, physical and speech therapy; the therapies should provide different treatments and not duplicate the same treatment. When multiple therapies are used, each must have separate written treatment plans and must provide significantly different treatments and not be seen as generally duplicating each other; or",
+          "is_medical_necessity": false,
+          "logical_relation": "ALL",
+          "entities": {
+            "Treatment": [
+              "therapy",
+              "treatment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "76357104-c057-4f59-919e-85303ff0f088",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "76357104-c057-4f59-919e-85303ff0f088",
+          "parent_id": "062da738-1b70-438f-a550-40a409f8ec35",
+          "text": "Maintenance programs such as drills, techniques, and exercises that are intended to preserve the member's present level of function or prevent regression of function. Maintenance begins when the therapeutic goals of a treatment plan have been achieved and when no further functional progress is apparent or expected to occur. Specifically, these include continued activities for individuals who have achieved generally accepted levels of function and are at a plateau or have reached \"normal\" levels. A plateau is a period of four weeks or dependent on the specific condition and/or individual situation, a lesser period of time that is seen as generally accepted; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "treatment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "65c43cbc-9071-4c24-87c1-a90f7ee92337",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "65c43cbc-9071-4c24-87c1-a90f7ee92337",
+          "parent_id": "062da738-1b70-438f-a550-40a409f8ec35",
+          "text": "Treatments that do not require the skills of a qualified provider of speech therapy services, such as treatments that maintain function by using routine, repetitious, and reinforced procedures that are neither diagnostic nor therapeutic (e.g., practicing word drills for developmental articulation errors) or procedures that may be carried out effectively by the member, family, or caregivers at home on their own;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Treatment": [
+              "therapy"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "bd54011c-8555-431a-a0e9-b81713f18714",
+      "parent_id": null,
+      "text": "Speech therapy is considered not medically necessary for dysfunctions that are self-correcting, such as language therapy for young children with natural dysfluency or developmental articulation errors that are self-correcting;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "3fc75f70-9b8e-4efa-a574-136d00d16457",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "3fc75f70-9b8e-4efa-a574-136d00d16457",
+      "parent_id": null,
+      "text": "Speech therapy for idiopathic delays in speech development when both of the following criteria are met: The member is 18 months of age or older; and The member has been evaluated by a qualified speech-language therapist who has determined that a treatable communication problem exists. Speech therapy for idiopathic delays in speech development is considered experimental, investigational, or unproven for infants and children younger than 18 months of age because idiopathic delays in speech development can not be reliably diagnosed or treated in the prelingual developmental stage.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ],
+        "Risk Factors": [
+          "age"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "6b3e8fbc-cf09-46a3-9028-9d23d6539dde",
+      "children": [
+        {
+          "id": "c0a9563d-a97e-4793-adff-752c408c62b1",
+          "parent_id": "3fc75f70-9b8e-4efa-a574-136d00d16457",
+          "text": "The member is 18 months of age or older; and",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Risk Factors": [
+              "age"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "9d8a997d-de29-4cfc-8ad3-a1f2d4094dd2",
+          "next_sibling_relation": "AND"
+        },
+        {
+          "id": "9d8a997d-de29-4cfc-8ad3-a1f2d4094dd2",
+          "parent_id": "3fc75f70-9b8e-4efa-a574-136d00d16457",
+          "text": "The member has been evaluated by a qualified speech-language therapist who has determined that a treatable communication problem exists.",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "6b3e8fbc-cf09-46a3-9028-9d23d6539dde",
+      "parent_id": null,
+      "text": "Home-based speech therapy in selected cases based upon the member's needs (i.e., the member must be homebound). This is usually used in the transition of the member from hospital to home and is an extension of case management services. Note: In Aetna HMO and QPOS plans, such short-term speech therapy accumulates towards the 60-day limit or other applicable rehabilitation benefit limits. Please check benefit plan descriptions for details.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "rehabilitation",
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "5afd6ab9-2176-476c-897d-f38527774d0e",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "5afd6ab9-2176-476c-897d-f38527774d0e",
+      "parent_id": null,
+      "text": "Treatment of communication disabilities and/or swallowing disorders (dysphagia) from disease when all of the following criteria are met:",
+      "is_medical_necessity": false,
+      "logical_relation": "ALL",
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "47225b26-2c89-4e38-9f75-986be69d55e4",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "47225b26-2c89-4e38-9f75-986be69d55e4",
+      "parent_id": null,
+      "text": "Speech therapy is considered not medically necessary in the following circumstances:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "d45a90f0-82c6-4808-a3a0-5a8f71342966",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "d45a90f0-82c6-4808-a3a0-5a8f71342966",
+      "parent_id": null,
+      "text": "Speech therapy for idiopathic delays in speech development is considered experimental, investigational, or unproven for infants and children younger than 18 months of age because idiopathic delays in speech development can not be reliably diagnosed or treated in the prelingual developmental stage.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy"
+        ],
+        "Risk Factors": [
+          "age"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "b614bc34-df69-4c72-961c-f7a29a2fd189",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "b614bc34-df69-4c72-961c-f7a29a2fd189",
+      "parent_id": null,
+      "text": "Home-based speech therapy in selected cases based upon the member's needs (i.e., the member must be homebound). This is usually used in the transition of the member from hospital to home and is an extension of case management services. Note: In Aetna HMO and QPOS plans, such short-term speech therapy accumulates towards the 60-day limit or other applicable rehabilitation benefit limits. Please check benefit plan descriptions for details.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "rehabilitation",
+          "therapy"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "92507",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual"
+        },
+        {
+          "code": "92508",
+          "description": "group, two or more individuals"
+        }
+      ],
+      "Other": [
+        {
+          "code": "92521",
+          "description": "Evaluation of speech fluency (eg, stuttering, cluttering)"
+        },
+        {
+          "code": "92522",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria"
+        },
+        {
+          "code": "92523",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language)"
+        },
+        {
+          "code": "92524",
+          "description": "Behavioral and qualitative analysis of voice and resonance"
+        },
+        {
+          "code": "92526",
+          "description": "Treatment of swallowing dysfunction and/or oral function for feeding"
+        },
+        {
+          "code": "97014",
+          "description": "Application of a modality to 1 or more areas; electrical stimulation (unattended) [transcutaneous electrical nerve stimulation]"
+        },
+        {
+          "code": "97032",
+          "description": "Application of a modality to 1 or more areas; electrical stimulation (manual), each 15 minutes [transcutaneous electrical nerve stimulation]"
+        },
+        {
+          "code": "97535",
+          "description": "Self-care/home management training (e.g., activities of daily living (ADL) and compensatory training, meal preparation, safety procedures, and instructions in use of assistive technology devices/adaptive equipment) direct one-on-one contact by provider, each 15 minutes"
+        },
+        {
+          "code": "92630",
+          "description": "Auditory rehabilitation; pre-lingual hearing loss"
+        },
+        {
+          "code": "92633",
+          "description": "post-lingual hearing loss"
+        }
+      ],
+      "Not covered for listed indications": []
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "G0153",
+          "description": "Services performed by a qualified speech and language pathologist in the home health or hospice setting, each 15 minutes"
+        },
+        {
+          "code": "G0161",
+          "description": "Services performed by a qualified speech-language pathologist, in the home health setting, in the establishment or delivery of a safe and effective therapy maintenance program, each 15 minutes"
+        },
+        {
+          "code": "S9128",
+          "description": "Speech therapy, in the home, per diem"
+        }
+      ],
+      "Other": [
+        {
+          "code": "E0720",
+          "description": "Transcutaneous electrical nerve stimulation (tens) device, two lead, localized stimulation"
+        },
+        {
+          "code": "E0730",
+          "description": "Transcutaneous electrical nerve stimulation (tens) device, four or more leads, for multiple nerve stimulation"
+        },
+        {
+          "code": "E0770",
+          "description": "Functional electrical stimulator, transcutaneous stimulation of nerve and/or muscle groups, any type, complete system, not otherwise specified"
+        },
+        {
+          "code": "G0129",
+          "description": "Occupational therapy services requiring the skills of a qualified occupational therapist, furnished as a component of a partial hospitalization treatment program, per session (45 minutes or more)"
+        },
+        {
+          "code": "G0152",
+          "description": "Services performed by a qualified occupational therapist in the home health or hospice setting, each 15 minutes"
+        },
+        {
+          "code": "S9152",
+          "description": "Speech therapy, re-evaluation"
+        },
+        {
+          "code": "S9129",
+          "description": "Occupational therapy, in the home, per diem"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "C00.0 - C00.9",
+          "description": "Malignant neoplasm of lip"
+        },
+        {
+          "code": "C01 - C02.9",
+          "description": "Malignant neoplasm of tongue"
+        },
+        {
+          "code": "C03.0 - C03.9",
+          "description": "Malignant neoplasm of gum"
+        },
+        {
+          "code": "C04.0 - C04.9",
+          "description": "Malignant neoplasm of floor of mouth"
+        },
+        {
+          "code": "C05.0 - C05.9",
+          "description": "Malignant neoplasm of palate"
+        },
+        {
+          "code": "C06.0 - C06.9",
+          "description": "Malignant neoplasm of other and unspecified parts of the mouth"
+        },
+        {
+          "code": "C08.0 - C08.9",
+          "description": "Malignant neoplasm of salivary glands"
+        },
+        {
+          "code": "C10.0 - C10.9",
+          "description": "Malignant neoplasm of oropharynx"
+        },
+        {
+          "code": "C11.0 - C11.9",
+          "description": "Malignant neoplasm of nasopharynx"
+        },
+        {
+          "code": "C13.0 - C13.9",
+          "description": "Malignant neoplasm of hypopharynx"
+        },
+        {
+          "code": "C14.0 - C14.8",
+          "description": "Malignant neoplasm of other and ill-defined sites within the lip, oral cavity, and pharynx"
+        },
+        {
+          "code": "C32.0 - C32.9",
+          "description": "Malignant neoplasm of larynx"
+        },
+        {
+          "code": "C71.0 - C71.9",
+          "description": "Malignant neoplasm of brain"
+        },
+        {
+          "code": "D02.0",
+          "description": "Carcinoma in situ of larynx"
+        },
+        {
+          "code": "D14.1",
+          "description": "Benign neoplasm of larynx"
+        },
+        {
+          "code": "E74.02",
+          "description": "Pompe Disease"
+        },
+        {
+          "code": "F44.4",
+          "description": "Conversion disorder with motor symptom or deficit [functional dysphonia]"
+        },
+        {
+          "code": "G45.0 - G45.9",
+          "description": "Transient cerebral ischemic attacks and related syndromes"
+        },
+        {
+          "code": "G46.0 - G46.8",
+          "description": "Vascular syndrome of brain in cerebrovascular diseases"
+        },
+        {
+          "code": "G25.2",
+          "description": "Other specified forms of tremor [voice]"
+        },
+        {
+          "code": "I60.00 - I69.898",
+          "description": "Cerebrovascular disease"
+        },
+        {
+          "code": "I69.920 - I69.928",
+          "description": "Speech and language deficits following unspecified cerebrovascular disease"
+        },
+        {
+          "code": "I69.951 - I69.959",
+          "description": "Late effects of cerebrovascular disease, hemiplegia/hemiparesis"
+        },
+        {
+          "code": "I69.990",
+          "description": "Apraxia following unspecified cerebrovascular disease"
+        },
+        {
+          "code": "I69.991",
+          "description": "Dysphagia following unspecified cerebrovascular disease"
+        },
+        {
+          "code": "J38.00 - J38.02",
+          "description": "Paralysis of vocal cords and larynx"
+        },
+        {
+          "code": "J38.2",
+          "description": "Nodules of vocal cords"
+        },
+        {
+          "code": "Q31.0 - Q31.9",
+          "description": "Congenital malformations of larynx"
+        },
+        {
+          "code": "Q31.8, Q32.1, Q32.4",
+          "description": "Other congenital malformations of larynx, trachea, and bronchus"
+        },
+        {
+          "code": "Q32.0",
+          "description": "Congenital tracheomalacia"
+        },
+        {
+          "code": "Q32.2",
+          "description": "Congenital bronchomalacia"
+        },
+        {
+          "code": "Q32.3",
+          "description": "Congenital stenosis of bronchus"
+        },
+        {
+          "code": "Q35.1- Q37.9",
+          "description": "Cleft palate and cleft lip"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia"
+        },
+        {
+          "code": "R49.0",
+          "description": "Dysphonia [post extubation]"
+        },
+        {
+          "code": "S01.501A - S01.552S",
+          "description": "Open wound of lip and oral cavity"
+        },
+        {
+          "code": "S02.0xx+ - S02.19x+",
+          "description": "Fracture of skull"
+        },
+        {
+          "code": "S02.0xxS - S02.92xS",
+          "description": "Fracture of skull and face bones, sequela"
+        },
+        {
+          "code": "S04.011S - S04.899S",
+          "description": "Injury to cranial nerve, sequela"
+        },
+        {
+          "code": "S06.0X0+ - S06.9X9+",
+          "description": "Intracranial Injury"
+        },
+        {
+          "code": "S11.011+ - S11.029+",
+          "description": "Open wound of larynx and trachea"
+        },
+        {
+          "code": "Z85.21",
+          "description": "Personal history of malignant neoplasm of larynx"
+        },
+        {
+          "code": "Z85.810",
+          "description": "Personal history of malignant neoplasm of tongue"
+        },
+        {
+          "code": "Z85.818 - Z85.819",
+          "description": "Personal history of malignant neoplasm of other and unspecified oral cavity and pharynx"
+        },
+        {
+          "code": "Z96.20",
+          "description": "Presence of otological and audiological implant, unspecified"
+        },
+        {
+          "code": "Z96.21",
+          "description": "Presence of cochlear implant status"
+        },
+        {
+          "code": "Z96.3",
+          "description": "Presence of artificial larynx"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "F80.0 - F80.9",
+          "description": "Specific developmental disorders of speech and language"
+        },
+        {
+          "code": "H93.25",
+          "description": "Central auditory processing disorder"
+        },
+        {
+          "code": "R05",
+          "description": "Cough"
+        },
+        {
+          "code": "F98.5",
+          "description": "Adult onset fluency disorder [stuttering]"
+        },
+        {
+          "code": "J38.5",
+          "description": "Laryngeal spasm"
+        },
+        {
+          "code": "J38.7",
+          "description": "Other diseases of larynx"
+        },
+        {
+          "code": "R47.81 - R47.9",
+          "description": "Other speech disturbance"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}

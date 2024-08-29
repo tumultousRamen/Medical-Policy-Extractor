@@ -1,0 +1,347 @@
+{
+  "source": "aetna_policy_data_0625.json",
+  "criteria": [
+    {
+      "id": "54f9baed-15d4-48ce-9ccd-881c67f73b70",
+      "parent_id": null,
+      "text": "Aetna considers the following interventions medically necessary for treatment of dysphagia when criteria are met:",
+      "is_medical_necessity": true,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "91230cb3-e604-4aa9-87c4-d0ea1754ed30",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "91230cb3-e604-4aa9-87c4-d0ea1754ed30",
+      "parent_id": null,
+      "text": "Speech therapy for treatment of dysphagia, regardless of the presence of a communication disability, for members who meet the criteria set forth below: Member exhibits weight loss or malnutrition because he/she has dysphagia and is unable to obtain adequate nutrition orally; or Member has a history of, or is at high-risk for, recurrent aspirations or choking; or Member is unable to swallow and has a nasogastric or gastrotomy tube for nutrition;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "440d55c4-8839-4878-8c7f-81854741aa62",
+      "children": [
+        {
+          "id": "eb61b4c3-dc14-4871-8a9c-781a0fa2f881",
+          "parent_id": "91230cb3-e604-4aa9-87c4-d0ea1754ed30",
+          "text": "Member exhibits weight loss or malnutrition because he/she has dysphagia and is unable to obtain adequate nutrition orally; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "e017dde5-4d7b-4849-b7a0-c8e3ae21af8d",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "e017dde5-4d7b-4849-b7a0-c8e3ae21af8d",
+          "parent_id": "91230cb3-e604-4aa9-87c4-d0ea1754ed30",
+          "text": "Member has a history of, or is at high-risk for, recurrent aspirations or choking; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "a1654500-6022-49f6-8193-ba5470289e74",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "a1654500-6022-49f6-8193-ba5470289e74",
+          "parent_id": "91230cb3-e604-4aa9-87c4-d0ea1754ed30",
+          "text": "Member is unable to swallow and has a nasogastric or gastrotomy tube for nutrition;",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "440d55c4-8839-4878-8c7f-81854741aa62",
+      "parent_id": null,
+      "text": "Esophageal dilation for the treatment of symptomatic obstruction of the esophagus;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "8de82e99-7fab-41b2-895f-fef60cb91092",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "8de82e99-7fab-41b2-895f-fef60cb91092",
+      "parent_id": null,
+      "text": "Non-biodegradable, non-drug eluting stent placement for refractory (i.e., cannot be dilated to an adequate diameter) malignant esophageal strictures ;",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": "cfe4efa5-1bc8-4d87-b217-1d6822550c7d",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "cfe4efa5-1bc8-4d87-b217-1d6822550c7d",
+      "parent_id": null,
+      "text": "Per-oral endoscopic myotomy (POEM) for the treatment of type III (spastic) achalasia.",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": "f3454e72-0743-4a4c-92f8-d38c5a20a88e",
+      "next_sibling_relation": null
+    },
+    {
+      "id": "f3454e72-0743-4a4c-92f8-d38c5a20a88e",
+      "parent_id": null,
+      "text": "Speech therapy for treatment of dysphagia, regardless of the presence of a communication disability, for members who meet the criteria set forth below:",
+      "is_medical_necessity": false,
+      "logical_relation": null,
+      "entities": {
+        "Treatment": [
+          "therapy",
+          "treatment"
+        ]
+      },
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "43497",
+          "description": "Lower esophageal myotomy, transoral (ie, peroral endoscopic myotomy [POEM])"
+        },
+        {
+          "code": "92507",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual [not covered for intensive dysphagia rehabilitation program]"
+        },
+        {
+          "code": "92508",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, 2 or more individuals [not covered for intensive dysphagia rehabilitation program]"
+        },
+        {
+          "code": "92526",
+          "description": "Treatment of swallowing dysfunction and/or oral function for feeding"
+        },
+        {
+          "code": "92610",
+          "description": "Evaluation of oral and pharyngeal swallowing function"
+        },
+        {
+          "code": "92611",
+          "description": "Motion fluoroscopic evaluation of swallowing function by cine or video recording"
+        },
+        {
+          "code": "92612",
+          "description": "Flexible fiberoptic endoscopic evaluation of swallowing by cine or video recording"
+        },
+        {
+          "code": "92613",
+          "description": "physician interpretation and report only"
+        },
+        {
+          "code": "43196",
+          "description": "Esophagoscopy, rigid, transoral; with insertion of guide wire followed by dilation over guide wire"
+        },
+        {
+          "code": "43213",
+          "description": "Esophagoscopy, flexible, transoral; with dilation of esophagus, by balloon or dilator, retrograde (includes fluoroscopic guidance, when performed)"
+        },
+        {
+          "code": "43214",
+          "description": "with dilation of esophagus with balloon (30 mm diameter or larger) (includes fluoroscopic guidance, when performed)"
+        },
+        {
+          "code": "43220",
+          "description": "Esophagoscopy, rigid or flexible; with balloon dilation (less than 30 mm diameter)"
+        },
+        {
+          "code": "43226",
+          "description": "with insertion of guide wire followed by dilation over guide wire"
+        },
+        {
+          "code": "43229",
+          "description": "Esophagoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"
+        },
+        {
+          "code": "43233",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with dilation of esophagus with balloon (30 mm diameter or larger) (includes fluoroscopic guidance, when performed)"
+        },
+        {
+          "code": "43249",
+          "description": "Upper gastrointestinal endoscopy including esophagus, stomach, and either the duodenum and/or jejunum as appropriate; with balloon dilation of esophagus (less than 30 mm diameter)"
+        },
+        {
+          "code": "43253",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with transendoscopic ultrasound-guided transmural injection of diagnostic or therapeutic substance(s) (eg, anesthetic, neurolytic agent) or fiducial marker(s) (includes endoscopic ultrasound examination of the esophagus, stomach, and either the duodenum or a surgically altered stomach where the jejunum is examined distal to the anastomosis)"
+        },
+        {
+          "code": "43270",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)"
+        },
+        {
+          "code": "43450",
+          "description": "Dilation of esophagus, by unguided sound or bougie, single or multiple passes"
+        },
+        {
+          "code": "43453",
+          "description": "Dilation of esophagus, over guide wire"
+        },
+        {
+          "code": "43212",
+          "description": "Esophagoscopy, flexible, transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"
+        },
+        {
+          "code": "43266",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)"
+        }
+      ],
+      "Not covered for listed indications": []
+    },
+    "HCPCS": {
+      "Covered if criteria met": [
+        {
+          "code": "G0153",
+          "description": "Services performed by a qualified speech-language pathologist in the home health or hospice setting, each 15 minutes"
+        },
+        {
+          "code": "S9128",
+          "description": "Speech therapy, in the home, per diem"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "E0720",
+          "description": "Transcutaneous electrical nerve stimulation (TENS) device, two lead, localized stimulation"
+        },
+        {
+          "code": "E0730",
+          "description": "Transcutaneous electrical nerve stimulation (TENS) device, four or more leads, for multiple nerve stimulation"
+        },
+        {
+          "code": "E0745",
+          "description": "Neuromuscular stimulator, electronic shock unit"
+        },
+        {
+          "code": "G0283",
+          "description": "Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care"
+        },
+        {
+          "code": "C1874",
+          "description": "Stent, coated/covered, with delivery system [drug-eluted stent]"
+        },
+        {
+          "code": "C1875",
+          "description": "Stent, coated/covered, without delivery system [drug-eluted stent]"
+        }
+      ],
+      "Other": [
+        {
+          "code": "C1876",
+          "description": "Stent, noncoated/noncovered, with delivery system"
+        },
+        {
+          "code": "C1877",
+          "description": "Stent, noncoated/noncovered, without delivery system"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "I69.091I69.191I69.291I69.391I69.891I69.991",
+          "description": "Cerebrovascular disease, dysphagia, sequelae"
+        },
+        {
+          "code": "K22.0",
+          "description": "Achalasia of cardia [Type III achalasia]"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia"
+        },
+        {
+          "code": "K22.2",
+          "description": "Esophageal obstruction"
+        },
+        {
+          "code": "Q39.0 - Q39.4Q39.8",
+          "description": "Congenital malformations of esophagus"
+        },
+        {
+          "code": "C15.3 - C15.9",
+          "description": "Malignant neoplasm of esophagus"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "I69.091I69.191I69.291I69.391I69.891I69.991",
+          "description": "Cerebrovascular disease, dysphagia, sequelae"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia"
+        },
+        {
+          "code": "I69.091, I69.191, I69.291, I69.391, I69.891, I69.991",
+          "description": "Sequelae of cerebrovascular disease, dysphagia"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia"
+        }
+      ]
+    },
+    "Other": {
+      "Other": [
+        {
+          "code": "43229",
+          "description": "Esophagoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed) [not covered for ERBE electrocautery]"
+        },
+        {
+          "code": "90867",
+          "description": "Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; initial, including cortical mapping, motor threshold determination, delivery and management"
+        },
+        {
+          "code": "90868",
+          "description": "subsequent delivery and management, per session"
+        },
+        {
+          "code": "90869",
+          "description": "subsequent motor threshold re-determination with delivery and management"
+        },
+        {
+          "code": "97014",
+          "description": "Application of a modality to one or more areas; electrical stimulation (unattended)"
+        },
+        {
+          "code": "97032",
+          "description": "Application of a modality to one or more areas; electrical stimulation (manual), each 15 minutes"
+        },
+        {
+          "code": "97810 - 97814",
+          "description": "Acupuncture"
+        }
+      ]
+    }
+  }
+}

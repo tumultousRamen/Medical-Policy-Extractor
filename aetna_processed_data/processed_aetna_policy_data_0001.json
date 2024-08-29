@@ -1,0 +1,351 @@
+{
+  "source": "aetna_policy_data_0001.json",
+  "criteria": [
+    {
+      "id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+      "parent_id": null,
+      "text": "Aetna considers transrectal ultrasound (TRUS) medically necessary for any of the specific conditions involving the prostate, rectum and surrounding tissues listed below: For prostate biopsy in men, see CPB 0698 - Prostate Saturation Biopsy ; or Assessment of anal sphincter dysfunction; or Clinical staging of a member with prostate cancer; or Clinical staging of a member with rectal carcinoma; or Determining volume of the prostate prior to brachytherapy; or Evaluation of anal and/or rectal fistula; or Evaluation of anal and/or rectal peri-rectal abscesses; or Evaluation of hematospermia (hemospermia), to distinguish idiopathic from secondary causes; or Evaluation of malignant or benign peri-rectal tumors; or Evaluation of members who have had definitive treatment for carcinoma of the rectum where recurrent disease is noted; or Infertility and azoospermia where an ejaculatory duct cyst is suspected\u00c2\u00a0( Note : Some benefit plans exclude coverage of infertility services. Please check benefit plan descriptions for details); or Metastatic lesions of unknown source, with a high PSA level (PSA greater than 10 ng/ml), which could have their origin in the prostate.",
+      "is_medical_necessity": true,
+      "logical_relation": "ANY",
+      "entities": {
+        "Diagnosis": [
+          "evaluation",
+          "assessment",
+          "staging"
+        ],
+        "Treatment": [
+          "treatment"
+        ]
+      },
+      "child_relation": "ANY",
+      "next_sibling_id": "aa62bcf7-50f8-4fb4-81c4-04079dac9d20",
+      "children": [
+        {
+          "id": "8bb6fbf5-4f72-4f3e-9d49-887629f4e575",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "For prostate biopsy in men, see CPB 0698 - Prostate Saturation Biopsy ; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "9308214e-d2fe-4383-83d3-b97469beda15",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "9308214e-d2fe-4383-83d3-b97469beda15",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Assessment of anal sphincter dysfunction; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "assessment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "a6fa8e4c-8256-45ae-b8e1-cf48bac294fb",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "a6fa8e4c-8256-45ae-b8e1-cf48bac294fb",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Clinical staging of a member with prostate cancer; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "staging"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "5255cfa2-4a02-4f24-a89e-2cb02521386f",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "5255cfa2-4a02-4f24-a89e-2cb02521386f",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Clinical staging of a member with rectal carcinoma; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "staging"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "e8b28a50-9426-4462-ba18-48cc80ea7b28",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "e8b28a50-9426-4462-ba18-48cc80ea7b28",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Determining volume of the prostate prior to brachytherapy; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "d5fe2634-c166-4ffd-af39-81db7039276b",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "d5fe2634-c166-4ffd-af39-81db7039276b",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Evaluation of anal and/or rectal fistula; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "387396f1-debf-47d7-b9ce-4fd622cec8bb",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "387396f1-debf-47d7-b9ce-4fd622cec8bb",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Evaluation of anal and/or rectal peri-rectal abscesses; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "79c90b47-b2e3-4515-963f-fb9cca371fba",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "79c90b47-b2e3-4515-963f-fb9cca371fba",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Evaluation of hematospermia (hemospermia), to distinguish idiopathic from secondary causes; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "e26cc85d-5b54-4507-98f3-739b8d3f2f06",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "e26cc85d-5b54-4507-98f3-739b8d3f2f06",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Evaluation of malignant or benign peri-rectal tumors; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "9d8a568f-5fb6-494e-96ce-c5cc80e35445",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "9d8a568f-5fb6-494e-96ce-c5cc80e35445",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Evaluation of members who have had definitive treatment for carcinoma of the rectum where recurrent disease is noted; or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {
+            "Diagnosis": [
+              "evaluation"
+            ],
+            "Treatment": [
+              "treatment"
+            ]
+          },
+          "child_relation": null,
+          "next_sibling_id": "fa8e6f78-a1d0-41ed-a97d-e1dfc84019e6",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "fa8e6f78-a1d0-41ed-a97d-e1dfc84019e6",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Infertility and azoospermia where an ejaculatory duct cyst is suspected\u00c2\u00a0( Note : Some benefit plans exclude coverage of infertility services. Please check benefit plan descriptions for details); or",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": "2e6250e2-b2d7-4832-86d4-04f70d4fc26d",
+          "next_sibling_relation": "OR"
+        },
+        {
+          "id": "2e6250e2-b2d7-4832-86d4-04f70d4fc26d",
+          "parent_id": "2e1f0734-98cc-4333-ae6f-c0b7bba2275b",
+          "text": "Metastatic lesions of unknown source, with a high PSA level (PSA greater than 10 ng/ml), which could have their origin in the prostate.",
+          "is_medical_necessity": false,
+          "logical_relation": null,
+          "entities": {},
+          "child_relation": null,
+          "next_sibling_id": null
+        }
+      ],
+      "next_sibling_relation": null
+    },
+    {
+      "id": "aa62bcf7-50f8-4fb4-81c4-04079dac9d20",
+      "parent_id": null,
+      "text": "Aetna considers transrectal ultrasound (TRUS) medically necessary for any of the specific conditions involving the prostate, rectum and surrounding tissues listed below:",
+      "is_medical_necessity": true,
+      "logical_relation": "ANY",
+      "entities": {},
+      "child_relation": null,
+      "next_sibling_id": null
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met": [
+        {
+          "code": "45341",
+          "description": "Sigmoidoscopy, flexible: with endoscopic ultrasound examination"
+        },
+        {
+          "code": "76872",
+          "description": "Ultrasound, transrectal [TRUS combined with USG elastosonography plus contrast-enhanced USG not covered for staging of rectal cancer]"
+        },
+        {
+          "code": "76873",
+          "description": "prostate volume study for brachytherapy treatment planning (separate procedure)"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "76376",
+          "description": "3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an independent workstation"
+        },
+        {
+          "code": "76856",
+          "description": "Ultrasound, pelvic (nonobstetric), real time with image documentation; complete"
+        },
+        {
+          "code": "76978",
+          "description": "Ultrasound, targeted dynamic microbubble sonographic contrast characterization (non-cardiac)"
+        },
+        {
+          "code": "76979",
+          "description": "each additional lesion with separate injection (List separately in addition to code for primary procedure)"
+        },
+        {
+          "code": "76981 - 76983",
+          "description": "Ultrasound, elastography"
+        },
+        {
+          "code": "78812",
+          "description": "Positron emission tomography (PET) imaging; skull base to mid-thigh"
+        }
+      ],
+      "Other": [
+        {
+          "code": "45342",
+          "description": "Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)"
+        },
+        {
+          "code": "76870",
+          "description": "Ultrasound, scrotum and contents"
+        },
+        {
+          "code": "77761 - 77778, 77789",
+          "description": "Brachytherapy"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met": [
+        {
+          "code": "C19 - C21.8",
+          "description": "Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal"
+        },
+        {
+          "code": "C61",
+          "description": "Malignant neoplasm of prostate"
+        },
+        {
+          "code": "C76.3",
+          "description": "Malignant neoplasm of pelvis"
+        },
+        {
+          "code": "C78.5",
+          "description": "Secondary malignant neoplasm of large intestine and rectum"
+        },
+        {
+          "code": "C79.82",
+          "description": "Secondary malignant neoplasm of genital organs"
+        },
+        {
+          "code": "D01.1 - D01.3",
+          "description": "Carcinoma in situ of rectosigmoid junction, rectum, anus and anal canal"
+        },
+        {
+          "code": "D07.5",
+          "description": "Carcinoma in situ of prostate"
+        },
+        {
+          "code": "D12.7 - D12.9",
+          "description": "Benign neoplasm of rectosigmoid junction, rectum, anus and anal canal"
+        },
+        {
+          "code": "D29.1",
+          "description": "Benign neoplasm of prostate"
+        },
+        {
+          "code": "D37.5",
+          "description": "Neoplasm of uncertain behavior of rectum"
+        },
+        {
+          "code": "D40.0",
+          "description": "Neoplasm of uncertain behavior of prostate"
+        },
+        {
+          "code": "K60.3 - K60.5",
+          "description": "Fistula of anal and rectal regions"
+        },
+        {
+          "code": "K61.0 - K61.4",
+          "description": "Abscess of anal and rectal regions"
+        },
+        {
+          "code": "K62.89",
+          "description": "Other specified diseases of anus and rectum (to be used for anal sphincter dysfunction)"
+        },
+        {
+          "code": "N46.01 - N46.9",
+          "description": "Male infertility"
+        },
+        {
+          "code": "R36.1",
+          "description": "Hematospermia"
+        },
+        {
+          "code": "R97.20",
+          "description": "Elevated prostate specific antigen [PSA]"
+        }
+      ],
+      "Not covered for listed indications": [
+        {
+          "code": "Z03.89",
+          "description": "Encounter for observation for other suspected diseases and conditions ruled out"
+        },
+        {
+          "code": "Z12.12",
+          "description": "Encounter for screening for malignant neoplasm of rectum"
+        },
+        {
+          "code": "Z12.5",
+          "description": "Encounter for screening for malignant neoplasm of prostate"
+        }
+      ]
+    },
+    "Other": {
+      "Other": []
+    }
+  }
+}
