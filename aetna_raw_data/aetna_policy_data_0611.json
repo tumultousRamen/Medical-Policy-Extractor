@@ -1,0 +1,310 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers the following diagnostic tests, treatments and procedures medically necessary for fecal incontinence:"
+    },
+    {
+      "text": "Diagnostic tests Anorectal manometry (see CPB 0616 - Gastrointestinal Manometry ) Anorectal ultrasonography Rectal sensory testing;",
+      "sub_items": [
+        {
+          "text": "Anorectal manometry (see CPB 0616 - Gastrointestinal Manometry )"
+        },
+        {
+          "text": "Anorectal ultrasonography"
+        },
+        {
+          "text": "Rectal sensory testing;"
+        }
+      ]
+    },
+    {
+      "text": "Conservative treatments Biofeedback (see CPB 0132 - Biofeedback ) Bowel training Defecation programs Diet modification Pharmacotherapy;",
+      "sub_items": [
+        {
+          "text": "Biofeedback (see CPB 0132 - Biofeedback )"
+        },
+        {
+          "text": "Bowel training"
+        },
+        {
+          "text": "Defecation programs"
+        },
+        {
+          "text": "Diet modification"
+        },
+        {
+          "text": "Pharmacotherapy;"
+        }
+      ]
+    },
+    {
+      "text": "An anal sphincter repair for members with severe Footnote1 * fecal incontinence who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises);"
+    },
+    {
+      "text": "Colostomy for members with severe Footnote1 * fecal incontinence who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises) or surgical sphincter repair (e.g., post-anal repair, sphincteroplasty, or total pelvic floor repair);"
+    },
+    {
+      "text": "The Acticon Neosphincter artificial bowel sphincter for members 18 years of age or older with severe Footnote1 * fecal incontinence (i.e., when there is involuntary loss of solid stool or liquid stool on a weekly or more frequent basis) who have failed, or are not candidates for, medical interventions (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises) or surgical sphincter repair (e.g., post-anal repair, sphincteroplasty, or total pelvic floor repair);"
+    },
+    {
+      "text": "Sacral nerve stimulation (sacral neuromodulation) for the treatment of members with chronic fecal incontinence, who have had an inadequate response to conservative treatments (e.g., biofeedback, dietary management, pharmacotherapy, strengthening exercises), and who have a weak but structurally intact anal sphincter: Initially, a temporary percutaneous peripheral nerve electrode is considered medically necessary; Implantation of a permanent implantable pulse generator is considered medically necessary for members who have a 50 % or greater improvement in incontinence symptoms from the temporary percutaneous peripheral nerve stimulation over a period of at least 48 hours. Note: Sacral nerve stimulation can be administered via InterStim.",
+      "sub_items": [
+        {
+          "text": "Initially, a temporary percutaneous peripheral nerve electrode is considered medically necessary;"
+        },
+        {
+          "text": "Implantation of a permanent implantable pulse generator is considered medically necessary for members who have a 50 % or greater improvement in incontinence symptoms from the temporary percutaneous peripheral nerve stimulation over a period of at least 48 hours. Note: Sacral nerve stimulation can be administered via InterStim."
+        }
+      ]
+    },
+    {
+      "text": "Diagnostic tests"
+    },
+    {
+      "text": "Conservative treatments"
+    },
+    {
+      "text": "Aetna considers sacral nerve stimulation experimental, investigational, or unproven when these criteria are not met."
+    },
+    {
+      "text": "Footnote1 * For purposes of this policy, fecal incontinence is considered severe when it results in the involuntary loss of solid stool or liquid stool on a weekly or more frequent basis."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "64561",
+          "description": "Percutaneous implantation of neurostimulator electrode array; sacral nerve (transforaminal placement) including image guidance, if performed",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64581",
+          "description": "Incision for implantation of neurostimulator electrodes; sacral nerve (transforaminal placement)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64590",
+          "description": "Insertion or replacement of peripheral or gastric neurostimulator pulse generator or receiver, direct or inductive coupling",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "95972",
+          "description": "Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, electrode selectability, output modulation, cycling, impedance and patient compliance measurements); complex spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, neuromuscular) (except cranial nerve) neurostimulator pulse generator/transmitter, with intraoperative or subsequent programming",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "46750 - 46751",
+          "description": "Sphincteroplasty, anal, for incontinence or prolapse; adult or child",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "46760 - 46761",
+          "description": "Sphincteroplasty, anal, for incontinence, adult; muscle transplant; levator muscle imbrication (Park posterior anal repair); or implantation artificial sphincter",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "90912",
+          "description": "Biofeedback training, perineal muscles, anorectal or urethral sphincter, including EMG and/or manometry, when performed; initial 15 minutes of one-on-one physician or other qualified health care professional contact with the patient",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "+90913",
+          "description": "each additional 15 minutes of one-on-one physician or other qualified health care professional contact with the patient (List separately in addition to code for primary procedure)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97110",
+          "description": "Therapeutic procedure, one or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97530",
+          "description": "Therapeutic activities, direct (one-on-one) patient contact (use of dynamic activities to improve functional performance), each 15 minutes",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97802 - 97804",
+          "description": "Medical nutrition therapy",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met: HCPCS codes covered if selection criteria are met:": [],
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [],
+      "Other: Other HCPCS codes related to the CPB:": [
+        {
+          "code": "E0740",
+          "description": "Incontinence treatment system, pelvic floor stimulator, monitor, sensor and/ or trainer",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "E0746",
+          "description": "Electromyography (EMG), biofeedback device",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "G0283",
+          "description": "Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "J0745",
+          "description": "Injection, codeine phosphate, per 30 mg",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "S9470",
+          "description": "Nutritional counseling, dietitian visit",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "R15.0 - R15.9",
+          "description": "Fecal incontinence",
+          "coverage_status": "Covered if criteria met"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Mesenchymal stem cell injection, Pudendal nerve terminal motor latency testing, Graciloplasty- no specific code:": [
+        {
+          "code": "0587T",
+          "description": "Percutaneous implantation or replacement of integrated single device neurostimulation system including electrode array and receiver or pulse generator, including analysis, programming, and imaging guidance when performed, posterior tibial nerve",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "0588T",
+          "description": "Revision or removal of integrated single device neurostimulation system including electrode array and receiver or pulse generator, including analysis, programming, and imaging guidance when performed, posterior tibial nerve",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "0589T",
+          "description": "Electronic analysis with simple programming of implanted integrated neurostimulation system (eg, electrode array and receiver), including contact group(s), amplitude, pulse width, frequency (Hz), on/off cycling, burst, dose lockout, patient-selectable parameters, responsive neurostimulation, detection algorithms, closed-loop parameters, and passive parameters, when performed by physician or other qualified health care professional, posterior tibial nerve, 1-3 parameters",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "0590T",
+          "description": "Electronic analysis with complex programming of implanted integrated neurostimulation system (eg, electrode array and receiver), including contact group(s), amplitude, pulse width, frequency (Hz), on/off cycling, burst, dose lockout, patient-selectable parameters, responsive neurostimulation, detection algorithms, closed-loop parameters, and passive parameters, when performed by physician or other qualified health care professional, posterior tibial nerve, 4 or more parameters",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "11950 - 11954",
+          "description": "Subcutaneous injection of filling material (e.g., collagen)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "38205",
+          "description": "Blood-derived hematopoietic progenitor cell harvesting for transplantation, per collection; allogeneic",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "38206",
+          "description": "Blood-derived hematopoietic progenitor cell harvesting for transplantation, per collection; autologous",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "38240",
+          "description": "Hematopoietic progenitor cell (HPC); allogeneic transplantation per donor",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "38241",
+          "description": "Hematopoietic progenitor cell (HPC); autologous transplantation",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "64566",
+          "description": "Posterior tibial neurostimulation, percutaneous needle electrode, single treatment, includes programming",
+          "coverage_status": "Other"
+        }
+      ],
+      "Other: Acticon neosphincter- no specific code:": [
+        {
+          "code": "C1820",
+          "description": "Generator, neurostimulator (implantable), with rechargeable battery and charging system",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "C1883",
+          "description": "Adaptor/extension, pacing lead or neurostimulator lead (implantable)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8680",
+          "description": "Implantable neurostimulator electrode, each",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8681",
+          "description": "Patient programmer (external) for use with implantable programmable implantable neurostimulator pulse generator",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8682",
+          "description": "Implantable neurostimulator radiofrequency receiver",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8683",
+          "description": "Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8684",
+          "description": "Radiofrequency transmitter (external) for use with implantable sacral root neurostimulator receiver for bowel and bladder management, replacement",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8685",
+          "description": "Implantable neurostimulator pulse generator, single array, rechargeable, includes extension",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8686",
+          "description": "Implantable neurostimulator pulse generator, single array, non-rechargeable, includes extension",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8687",
+          "description": "Implantable neurostimulator pulse generator, dual array, rechargeable, includes extension",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8688",
+          "description": "Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes extension",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8689",
+          "description": "External recharging system for battery (internal) for use with implantable neurostimulator",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8695",
+          "description": "External recharging system for battery (external) for use with implantable neurostimulator",
+          "coverage_status": "Other"
+        }
+      ],
+      "Other: Anal sling, pubo-rectal sling, Fenix Continence Restoration System, biocompatible material,  Renew anal insert, Topical oxymetazoline- no specific code:": [
+        {
+          "code": "A4563",
+          "description": "Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8605",
+          "description": "Injectable bulking agent, dextranomer/hyaluronic acid copolymer implant, anal canal, 1 ml, includes shipping and necessary supplies",
+          "coverage_status": "Other"
+        }
+      ]
+    }
+  }
+}

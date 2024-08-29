@@ -1,0 +1,198 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers ultrasound of the spine and para-spinal tissues medically necessary for the following indications:"
+    },
+    {
+      "text": "In newborns and infants for the following indications: Detection of sequelae of injury (e.g., hematoma after spinal tap or birth injury; post-traumatic leakage of cerebrospinal fluid; and sequelae of prior instrumentation, infection, or hemorrhage); Evaluation of suspected defects such as cord tethering, diastematomyelia, hydromyelia, and syringomyelia; Guidance for lumbar puncture; Lumbosacral stigmata known to be associated with spinal dysraphism; Post-operative assessment for cord retethering; Spectrum of caudal regression syndrome (e.g., anal atresia or stenosis; sacral agenesis); Visualization of fluid with characteristics of blood products within the spinal canal in neonates and infants with intra-cranial hemorrhage;",
+      "sub_items": [
+        {
+          "text": "Detection of sequelae of injury (e.g., hematoma after spinal tap or birth injury; post-traumatic leakage of cerebrospinal fluid; and sequelae of prior instrumentation, infection, or hemorrhage);"
+        },
+        {
+          "text": "Evaluation of suspected defects such as cord tethering, diastematomyelia, hydromyelia, and syringomyelia;"
+        },
+        {
+          "text": "Guidance for lumbar puncture;"
+        },
+        {
+          "text": "Lumbosacral stigmata known to be associated with spinal dysraphism;"
+        },
+        {
+          "text": "Post-operative assessment for cord retethering;"
+        },
+        {
+          "text": "Spectrum of caudal regression syndrome (e.g., anal atresia or stenosis; sacral agenesis);"
+        },
+        {
+          "text": "Visualization of fluid with characteristics of blood products within the spinal canal in neonates and infants with intra-cranial hemorrhage;"
+        }
+      ]
+    },
+    {
+      "text": "When performed intra-operatively."
+    },
+    {
+      "text": "In newborns and infants for the following indications:"
+    },
+    {
+      "text": "When performed intra-operatively."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "76800",
+          "description": "Ultrasound, spinal canal and contents",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "62320 - 62323",
+          "description": "Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "62324 - 62327",
+          "description": "Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, interlaminar epidural or subarachnoid",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "64400 - 64530",
+          "description": "Introduction/injection of anesthetic agent (nerve block), diagnostic or therapeutic",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": []
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "G96.0",
+          "description": "Cerebrospinal fluid leak [post-trauma]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G97.51",
+          "description": "Postprocedural hemorrhage of a nervous system organ or structure following a nervous system procedure [following lumbar puncture]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G97.61",
+          "description": "Postprocedural hematoma of a nervous system organ or structure following a nervous system procedure",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G97.63",
+          "description": "Postprocedural seroma of a nervous system organ or structure following a nervous system procedure",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P10.0 - P10.3, P10.8 - P10.9",
+          "description": "Subdural and cerebral hemorrhage [due to birth trauma]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P11.5",
+          "description": "Birth injury to spine and spinal cord",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P52.0 - P52.22",
+          "description": "Intracranial nontraumatic hemorrhage of newborn [grades 1 through 4]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P52.3",
+          "description": "Unspecified intraventricular (nontraumatic) hemorrhage of newborn",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P52.5",
+          "description": "Subarachnoid (nontraumatic) hemorrhage of newborn",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q05.0 - Q05.9",
+          "description": "Spina bifida",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q06.0 - Q06.9",
+          "description": "Other congenital malformations of spinal cord",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q07.01 - Q07.03",
+          "description": "Arnold-Chiari syndrome with spina bifida",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q42.2",
+          "description": "Congenital absence, atresia and stenosis of anus with fistula",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q42.3",
+          "description": "Congenital absence, atresia and stenosis of anus without fistula",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q76.49",
+          "description": "Other congenital malformations of spine, not associated with scoliosis [sacrum]",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB:": [
+        {
+          "code": "G06.1",
+          "description": "Intraspinal abscess and granuloma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G54.0 - G59",
+          "description": "Nerve, nerve root and plexus disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G60.0 - G65.2",
+          "description": "Polyneuropathies and other disorders of the peripheral nervous system",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G70.00 - G73.7",
+          "description": "Diseases of myoneural junction and muscle",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M41.00 - M41.9",
+          "description": "Scoliosis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M50.00 - M51.9, M51.A0 -M51.A5",
+          "description": "Cervical, thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M53.0 - M53.9",
+          "description": "Other and unspecified dorsopathies, not elsewhere classified",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M54.00 - M54.9",
+          "description": "Dorsalgia",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Information in the [brackets] below has been added for clarification purposes.  &nbspCodes requiring a 7th character are represented by \"+\":": [],
+      "Other: SonixGPS:": []
+    }
+  }
+}

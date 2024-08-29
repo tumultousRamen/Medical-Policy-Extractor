@@ -1,0 +1,66 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers rapid diagnostic tests for viral influenza (e.g., Directigen Flu A, Directigen Flu A+B, Flu OIA, Quickvue Influenza Test, and Z Stat Flu) medically necessary."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "87804",
+          "description": "Infectious agent antigen detection by immunoassay with direct optical observation; influenza",
+          "coverage_status": "Covered if criteria met"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "B34.9",
+          "description": "Viral infection, unspecified",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "J10.00 - J11.89",
+          "description": "Influenza due to other influenza virus",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "M79.10 - M79.18",
+          "description": "Myalgia",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R05",
+          "description": "Cough",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R50.9",
+          "description": "Fever, unspecified",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R06.02",
+          "description": "Shortness of breath",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R51",
+          "description": "Headache",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R53.81",
+          "description": "Other malaise",
+          "coverage_status": "Covered if criteria met"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Information in the [brackets] below has been added for clarification purposes.  &nbspCodes requiring a 7th character are represented by \"+\":": []
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers the following interventions medically necessary for treatment of dysphagia when criteria are met:"
+    },
+    {
+      "text": "Speech therapy for treatment of dysphagia, regardless of the presence of a communication disability, for members who meet the criteria set forth below: Member exhibits weight loss or malnutrition because he/she has dysphagia and is unable to obtain adequate nutrition orally; or Member has a history of, or is at high-risk for, recurrent aspirations or choking; or Member is unable to swallow and has a nasogastric or gastrotomy tube for nutrition;",
+      "sub_items": [
+        {
+          "text": "Member exhibits weight loss or malnutrition because he/she has dysphagia and is unable to obtain adequate nutrition orally; or"
+        },
+        {
+          "text": "Member has a history of, or is at high-risk for, recurrent aspirations or choking; or"
+        },
+        {
+          "text": "Member is unable to swallow and has a nasogastric or gastrotomy tube for nutrition;"
+        }
+      ]
+    },
+    {
+      "text": "Esophageal dilation for the treatment of symptomatic obstruction of the esophagus;"
+    },
+    {
+      "text": "Non-biodegradable, non-drug eluting stent placement for refractory (i.e., cannot be dilated to an adequate diameter) malignant esophageal strictures ;"
+    },
+    {
+      "text": "Per-oral endoscopic myotomy (POEM) for the treatment of type III (spastic) achalasia."
+    },
+    {
+      "text": "Speech therapy for treatment of dysphagia, regardless of the presence of a communication disability, for members who meet the criteria set forth below:"
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "43497",
+          "description": "Lower esophageal myotomy, transoral (ie, peroral endoscopic myotomy [POEM])",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92507",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual [not covered for intensive dysphagia rehabilitation program]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92508",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, 2 or more individuals [not covered for intensive dysphagia rehabilitation program]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92526",
+          "description": "Treatment of swallowing dysfunction and/or oral function for feeding",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92610",
+          "description": "Evaluation of oral and pharyngeal swallowing function",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92611",
+          "description": "Motion fluoroscopic evaluation of swallowing function by cine or video recording",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92612",
+          "description": "Flexible fiberoptic endoscopic evaluation of swallowing by cine or video recording",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92613",
+          "description": "physician interpretation and report only",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43196",
+          "description": "Esophagoscopy, rigid, transoral; with insertion of guide wire followed by dilation over guide wire",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43213",
+          "description": "Esophagoscopy, flexible, transoral; with dilation of esophagus, by balloon or dilator, retrograde (includes fluoroscopic guidance, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43214",
+          "description": "with dilation of esophagus with balloon (30 mm diameter or larger) (includes fluoroscopic guidance, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43220",
+          "description": "Esophagoscopy, rigid or flexible; with balloon dilation (less than 30 mm diameter)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43226",
+          "description": "with insertion of guide wire followed by dilation over guide wire",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43229",
+          "description": "Esophagoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43233",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with dilation of esophagus with balloon (30 mm diameter or larger) (includes fluoroscopic guidance, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43249",
+          "description": "Upper gastrointestinal endoscopy including esophagus, stomach, and either the duodenum and/or jejunum as appropriate; with balloon dilation of esophagus (less than 30 mm diameter)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43253",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with transendoscopic ultrasound-guided transmural injection of diagnostic or therapeutic substance(s) (eg, anesthetic, neurolytic agent) or fiducial marker(s) (includes endoscopic ultrasound examination of the esophagus, stomach, and either the duodenum or a surgically altered stomach where the jejunum is examined distal to the anastomosis)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43270",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43450",
+          "description": "Dilation of esophagus, by unguided sound or bougie, single or multiple passes",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43453",
+          "description": "Dilation of esophagus, over guide wire",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43212",
+          "description": "Esophagoscopy, flexible, transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "43266",
+          "description": "Esophagogastroduodenoscopy, flexible, transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": []
+    },
+    "HCPCS": {
+      "Covered if criteria met: HCPCS codes covered if selection criteria are met:": [
+        {
+          "code": "G0153",
+          "description": "Services performed by a qualified speech-language pathologist in the home health or hospice setting, each 15 minutes",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S9128",
+          "description": "Speech therapy, in the home, per diem",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [
+        {
+          "code": "E0720",
+          "description": "Transcutaneous electrical nerve stimulation (TENS) device, two lead, localized stimulation",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "E0730",
+          "description": "Transcutaneous electrical nerve stimulation (TENS) device, four or more leads, for multiple nerve stimulation",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "E0745",
+          "description": "Neuromuscular stimulator, electronic shock unit",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G0283",
+          "description": "Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "C1874",
+          "description": "Stent, coated/covered, with delivery system [drug-eluted stent]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "C1875",
+          "description": "Stent, coated/covered, without delivery system [drug-eluted stent]",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other HCPCS codes related to the CPB:": [
+        {
+          "code": "C1876",
+          "description": "Stent, noncoated/noncovered, with delivery system",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "C1877",
+          "description": "Stent, noncoated/noncovered, without delivery system",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "I69.091I69.191I69.291I69.391I69.891I69.991",
+          "description": "Cerebrovascular disease, dysphagia, sequelae",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K22.0",
+          "description": "Achalasia of cardia [Type III achalasia]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K22.2",
+          "description": "Esophageal obstruction",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q39.0 - Q39.4Q39.8",
+          "description": "Congenital malformations of esophagus",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C15.3 - C15.9",
+          "description": "Malignant neoplasm of esophagus",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB:": [
+        {
+          "code": "I69.091I69.191I69.291I69.391I69.891I69.991",
+          "description": "Cerebrovascular disease, dysphagia, sequelae",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I69.091, I69.191, I69.291, I69.391, I69.891, I69.991",
+          "description": "Sequelae of cerebrovascular disease, dysphagia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R13.10 - R13.19",
+          "description": "Dysphagia",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Therapy for the management of dysphagia other than esophageal dilation or stent placement:": [],
+      "Other: Repetitive peripheral magnetic stimulation, Swallow STRONG multi-disciplinary oropharyngeal strengthening program, pharyngeal electrical stimulation and transcranial direct current stimulation, mirror therapy- no specific code:": [
+        {
+          "code": "43229",
+          "description": "Esophagoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed) [not covered for ERBE electrocautery]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "90867",
+          "description": "Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; initial, including cortical mapping, motor threshold determination, delivery and management",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "90868",
+          "description": "subsequent delivery and management, per session",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "90869",
+          "description": "subsequent motor threshold re-determination with delivery and management",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97014",
+          "description": "Application of a modality to one or more areas; electrical stimulation (unattended)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97032",
+          "description": "Application of a modality to one or more areas; electrical stimulation (manual), each 15 minutes",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "97810 - 97814",
+          "description": "Acupuncture",
+          "coverage_status": "Other"
+        }
+      ],
+      "Other: Esophageal dilation:": [],
+      "Other: Stent Placement:": []
+    }
+  }
+}

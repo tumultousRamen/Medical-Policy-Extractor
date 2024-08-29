@@ -1,0 +1,228 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers transrectal ultrasound (TRUS) medically necessary for any of the specific conditions involving the prostate, rectum and surrounding tissues listed below: For prostate biopsy in men, see CPB 0698 - Prostate Saturation Biopsy ; or Assessment of anal sphincter dysfunction; or Clinical staging of a member with prostate cancer; or Clinical staging of a member with rectal carcinoma; or Determining volume of the prostate prior to brachytherapy; or Evaluation of anal and/or rectal fistula; or Evaluation of anal and/or rectal peri-rectal abscesses; or Evaluation of hematospermia (hemospermia), to distinguish idiopathic from secondary causes; or Evaluation of malignant or benign peri-rectal tumors; or Evaluation of members who have had definitive treatment for carcinoma of the rectum where recurrent disease is noted; or Infertility and azoospermia where an ejaculatory duct cyst is suspected ( Note : Some benefit plans exclude coverage of infertility services. Please check benefit plan descriptions for details); or Metastatic lesions of unknown source, with a high PSA level (PSA greater than 10 ng/ml), which could have their origin in the prostate.",
+      "sub_items": [
+        {
+          "text": "For prostate biopsy in men, see CPB 0698 - Prostate Saturation Biopsy ; or"
+        },
+        {
+          "text": "Assessment of anal sphincter dysfunction; or"
+        },
+        {
+          "text": "Clinical staging of a member with prostate cancer; or"
+        },
+        {
+          "text": "Clinical staging of a member with rectal carcinoma; or"
+        },
+        {
+          "text": "Determining volume of the prostate prior to brachytherapy; or"
+        },
+        {
+          "text": "Evaluation of anal and/or rectal fistula; or"
+        },
+        {
+          "text": "Evaluation of anal and/or rectal peri-rectal abscesses; or"
+        },
+        {
+          "text": "Evaluation of hematospermia (hemospermia), to distinguish idiopathic from secondary causes; or"
+        },
+        {
+          "text": "Evaluation of malignant or benign peri-rectal tumors; or"
+        },
+        {
+          "text": "Evaluation of members who have had definitive treatment for carcinoma of the rectum where recurrent disease is noted; or"
+        },
+        {
+          "text": "Infertility and azoospermia where an ejaculatory duct cyst is suspected ( Note : Some benefit plans exclude coverage of infertility services. Please check benefit plan descriptions for details); or"
+        },
+        {
+          "text": "Metastatic lesions of unknown source, with a high PSA level (PSA greater than 10 ng/ml), which could have their origin in the prostate."
+        }
+      ]
+    },
+    {
+      "text": "Aetna considers transrectal ultrasound (TRUS) medically necessary for any of the specific conditions involving the prostate, rectum and surrounding tissues listed below:"
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "45341",
+          "description": "Sigmoidoscopy, flexible: with endoscopic ultrasound examination",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "76872",
+          "description": "Ultrasound, transrectal [TRUS combined with USG elastosonography plus contrast-enhanced USG not covered for staging of rectal cancer]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "76873",
+          "description": "prostate volume study for brachytherapy treatment planning (separate procedure)",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [
+        {
+          "code": "76376",
+          "description": "3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an independent workstation",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "76856",
+          "description": "Ultrasound, pelvic (nonobstetric), real time with image documentation; complete",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "76978",
+          "description": "Ultrasound, targeted dynamic microbubble sonographic contrast characterization (non-cardiac)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "76979",
+          "description": "each additional lesion with separate injection (List separately in addition to code for primary procedure)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "76981 - 76983",
+          "description": "Ultrasound, elastography",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "78812",
+          "description": "Positron emission tomography (PET) imaging; skull base to mid-thigh",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "45342",
+          "description": "Sigmoidoscopy, flexible; with transendoscopic ultrasound guided intramural or transmural fine needle aspiration/biopsy(s)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "76870",
+          "description": "Ultrasound, scrotum and contents",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "77761 - 77778, 77789",
+          "description": "Brachytherapy",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "C19 - C21.8",
+          "description": "Malignant neoplasm of rectosigmoid junction, rectum, anus and anal canal",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C61",
+          "description": "Malignant neoplasm of prostate",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C76.3",
+          "description": "Malignant neoplasm of pelvis",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C78.5",
+          "description": "Secondary malignant neoplasm of large intestine and rectum",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C79.82",
+          "description": "Secondary malignant neoplasm of genital organs",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D01.1 - D01.3",
+          "description": "Carcinoma in situ of rectosigmoid junction, rectum, anus and anal canal",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D07.5",
+          "description": "Carcinoma in situ of prostate",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D12.7 - D12.9",
+          "description": "Benign neoplasm of rectosigmoid junction, rectum, anus and anal canal",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D29.1",
+          "description": "Benign neoplasm of prostate",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D37.5",
+          "description": "Neoplasm of uncertain behavior of rectum",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D40.0",
+          "description": "Neoplasm of uncertain behavior of prostate",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K60.3 - K60.5",
+          "description": "Fistula of anal and rectal regions",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K61.0 - K61.4",
+          "description": "Abscess of anal and rectal regions",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K62.89",
+          "description": "Other specified diseases of anus and rectum (to be used for anal sphincter dysfunction)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "N46.01 - N46.9",
+          "description": "Male infertility",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R36.1",
+          "description": "Hematospermia",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R97.20",
+          "description": "Elevated prostate specific antigen [PSA]",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB:": [
+        {
+          "code": "Z03.89",
+          "description": "Encounter for observation for other suspected diseases and conditions ruled out",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Z12.12",
+          "description": "Encounter for screening for malignant neoplasm of rectum",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Z12.5",
+          "description": "Encounter for screening for malignant neoplasm of prostate",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Information in the [brackets] below has been added for clarification purposes.  &nbspCodes requiring a 7th character are represented by \"+\":": []
+    }
+  }
+}

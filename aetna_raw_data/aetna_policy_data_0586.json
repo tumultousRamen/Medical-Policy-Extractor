@@ -1,0 +1,444 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Human Heart Transplantation Aetna considers heart transplantation medically necessary for any of the following conditions (not an all-inclusive list) when the member meets the transplanting institution's protocol eligibility criteria. In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including  the following indications when the selection criteria listed below are met and none of the absolute contraindications is present: Cardiac arrhythmia Cardiac re-transplantation due to graft failure Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies Congenital heart disease End-stage ventricular failure Idiopathic dilated cardiomyopathy Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery Intractable coronary artery disease Myocarditis Post-partum cardiomyopathy Right ventricular dysplasia/cardiomyopathy Valvular heart disease. Selection Criteria for Human Heart Transplantation For members off protocol, all criteria listed below must be met: New York Heart Association (NYHA) classification of heart failure III or IV (see Note below) - does not apply to pediatric members ; and Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and Adequate pulmonary, liver and renal function; and Absence of active infections that are not effectively treated; and Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and Absence of active or recurrent pancreatitis; and Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen. Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.  They are comfortable at rest.  Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.  Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.  If any physical activity is undertaken, discomfort is increased. Contraindications Heart transplant is considered not medically necessary for persons with any of the following contraindications: Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or Presence of bleeding peptic ulcer; or Presence of hepatitis B antigen; or Presence of diverticulitis; or Presence of immediately life-threatening neuromuscular disorders; or Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis)).",
+      "sub_items": [
+        {
+          "text": "In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including  the following indications when the selection criteria listed below are met and none of the absolute contraindications is present: Cardiac arrhythmia Cardiac re-transplantation due to graft failure Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies Congenital heart disease End-stage ventricular failure Idiopathic dilated cardiomyopathy Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery Intractable coronary artery disease Myocarditis Post-partum cardiomyopathy Right ventricular dysplasia/cardiomyopathy Valvular heart disease.",
+          "sub_items": [
+            {
+              "text": "Cardiac arrhythmia"
+            },
+            {
+              "text": "Cardiac re-transplantation due to graft failure"
+            },
+            {
+              "text": "Cardiomyopathy due to nutritional, metabolic, hypertrophic or restrictive etiologies"
+            },
+            {
+              "text": "Congenital heart disease"
+            },
+            {
+              "text": "End-stage ventricular failure"
+            },
+            {
+              "text": "Idiopathic dilated cardiomyopathy"
+            },
+            {
+              "text": "Inability to be weaned from temporary cardiac-assist devices after myocardial infarction or non-transplant cardiac surgery"
+            },
+            {
+              "text": "Intractable coronary artery disease"
+            },
+            {
+              "text": "Myocarditis"
+            },
+            {
+              "text": "Post-partum cardiomyopathy"
+            },
+            {
+              "text": "Right ventricular dysplasia/cardiomyopathy"
+            },
+            {
+              "text": "Valvular heart disease."
+            }
+          ]
+        },
+        {
+          "text": "Selection Criteria for Human Heart Transplantation For members off protocol, all criteria listed below must be met: New York Heart Association (NYHA) classification of heart failure III or IV (see Note below) - does not apply to pediatric members ; and Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and Adequate pulmonary, liver and renal function; and Absence of active infections that are not effectively treated; and Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and Absence of active or recurrent pancreatitis; and Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen. Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.  They are comfortable at rest.  Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.  Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.  If any physical activity is undertaken, discomfort is increased.",
+          "sub_items": [
+            {
+              "text": "New York Heart Association (NYHA) classification of heart failure III or IV (see Note below) - does not apply to pediatric members ; and"
+            },
+            {
+              "text": "Member has potential for conditioning and rehabilitation after transplant (i.e., member is not moribund); and"
+            },
+            {
+              "text": "Life expectancy (in the absence of cardiovascular disease) is greater than 2 years; and"
+            },
+            {
+              "text": "No malignancy (except for non-melanomatous skin cancers or low grade prostate cancer) or malignancy has been completely resected or (upon individual case review) malignancy has been adequately treated with no substantial likelihood of recurrence with acceptable future risks; and"
+            },
+            {
+              "text": "Adequate pulmonary, liver and renal function; and"
+            },
+            {
+              "text": "Absence of active infections that are not effectively treated; and"
+            },
+            {
+              "text": "Absence of uncontrolled HIV infection, defined as: CD4 count greater than 200 cells/mm 3 for greater than 6 months; and HIV-1 RNA (viral load) undetectable; and On stable anti-viral therapy greater than 3 months; and No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and",
+              "sub_items": [
+                {
+                  "text": "CD4 count greater than 200 cells/mm 3 for greater than 6 months; and"
+                },
+                {
+                  "text": "HIV-1 RNA (viral load) undetectable; and"
+                },
+                {
+                  "text": "On stable anti-viral therapy greater than 3 months; and"
+                },
+                {
+                  "text": "No other complications from AIDS, such as opportunistic infections (e.g., aspergillus, tuberculosis, coccidiodomycosis, resistant fungal infections) or neoplasms (e.g., Kaposi's sarcoma, non-Hodgkin's lymphoma); and"
+                }
+              ]
+            },
+            {
+              "text": "Absence of active or recurrent pancreatitis; and"
+            },
+            {
+              "text": "Absence of diabetes with severe end-organ damage (neuropathy, nephropathy with declining renal function and proliferative retinopathy); and"
+            },
+            {
+              "text": "No uncontrolled and/or untreated psychiatric disorders that interfere with compliance to a strict treatment regimen; and"
+            },
+            {
+              "text": "No active alcohol or chemical dependency that interferes with compliance to a strict treatment regimen."
+            }
+          ]
+        },
+        {
+          "text": "Contraindications Heart transplant is considered not medically necessary for persons with any of the following contraindications: Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or Presence of bleeding peptic ulcer; or Presence of hepatitis B antigen; or Presence of diverticulitis; or Presence of immediately life-threatening neuromuscular disorders; or Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis)).",
+          "sub_items": [
+            {
+              "text": "Presence of irreversible end-organ diseases (e.g., renal, hepatic, pulmonary) (unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc.); or"
+            },
+            {
+              "text": "Presence of severe pulmonary hypertension with irreversibly high pulmonary vascular resistance; or"
+            },
+            {
+              "text": "Presence of a recent intra-cranial cerebrovascular event with significant persistent deficit; or"
+            },
+            {
+              "text": "Presence of bleeding peptic ulcer; or"
+            },
+            {
+              "text": "Presence of hepatitis B antigen; or"
+            },
+            {
+              "text": "Presence of diverticulitis; or"
+            },
+            {
+              "text": "Presence of immediately life-threatening neuromuscular disorders; or"
+            },
+            {
+              "text": "Presence of HIV/AIDS with profound immunosuppression (CD4 count of less than 200 cells/mm3); or"
+            },
+            {
+              "text": "Presence of AL amyloidosis (although amyloidosis is considered a contraindication to heart transplantation, exceptions may be made in circumstances where curative therapy of amyloidosis has been performed or is planned (e.g., stem cell transplantation in primary amyloidosis, liver transplantation in familial amyloidosis))."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Total Artificial Heart Aetna considers the use of a total artificial heart (e.g., ABIOCOR Total Artificial Heart, SynCardiaâ¢ temporary Total Artificial Heart (formerly known as CardioWest Total Artificial Heart)) as permanent treatment (destination therapy) (i.e., as an alternative to heart transplantation) experimental and investigational because its safety and effectiveness for this indication has not been established. Aetna considers a U.S. Food and Drug Administration-approved total artificial heart (e.g., CardioWest Total Artificial Heart, SynCardia Systems) medically necessary when used as a bridge to transplant for transplant-eligible members who are at imminent risk of death (NYHA Class IV) due to biventricular failure who are awaiting heart transplantation. See CPB 0654 - Ventricular Assist Devices ."
+    },
+    {
+      "text": "AlloMapâ¢ Molecular-Expression Blood Test Aetna considers the AlloMap gene expression profile medically necessary for monitoring rejection in heart transplant recipients more than 6 months post-heart transplant. Aetna considers the AlloMap gene expression profile experimental and investigational for all other indications because its clinical value has not been established."
+    },
+    {
+      "text": "Aetna considers heart transplantation medically necessary for any of the following conditions (not an all-inclusive list) when the member meets the transplanting institution's protocol eligibility criteria."
+    },
+    {
+      "text": "In the absence of a protocol, Aetna considers heart transplantation medically necessary for heart failure with irreversible underlying etiology, including  the following indications when the selection criteria listed below are met and none of the absolute contraindications is present:"
+    },
+    {
+      "text": "For members off protocol, all criteria listed below must be met:"
+    },
+    {
+      "text": "Note : NYHA Class III and Class IV for heart failure are defined as follows: Table 1: NYHA Class III and Class IV for heart failure Class Classification Class III: Persons with cardiac disease resulting in marked limitation of physical activity.  They are comfortable at rest.  Less than ordinary activity (i.e., mild exertion) causes fatigue, palpitation, dyspnea, or anginal pain. Class IV: Persons with cardiac disease resulting in inability to carry on any physical activity without discomfort.  Symptoms of cardiac insufficiency or of the anginal syndrome may be present even at rest.  If any physical activity is undertaken, discomfort is increased."
+    },
+    {
+      "text": "Note : NYHA Class III and Class IV for heart failure are defined as follows:"
+    },
+    {
+      "text": "Heart transplant is considered not medically necessary for persons with any of the following contraindications:"
+    },
+    {
+      "text": "Aetna considers the use of a total artificial heart (e.g., ABIOCOR Total Artificial Heart, SynCardiaâ¢ temporary Total Artificial Heart (formerly known as CardioWest Total Artificial Heart)) as permanent treatment (destination therapy) (i.e., as an alternative to heart transplantation) experimental and investigational because its safety and effectiveness for this indication has not been established."
+    },
+    {
+      "text": "Aetna considers a U.S. Food and Drug Administration-approved total artificial heart (e.g., CardioWest Total Artificial Heart, SynCardia Systems) medically necessary when used as a bridge to transplant for transplant-eligible members who are at imminent risk of death (NYHA Class IV) due to biventricular failure who are awaiting heart transplantation. See CPB 0654 - Ventricular Assist Devices ."
+    },
+    {
+      "text": "Aetna considers the AlloMap gene expression profile medically necessary for monitoring rejection in heart transplant recipients more than 6 months post-heart transplant."
+    },
+    {
+      "text": "Aetna considers the AlloMap gene expression profile experimental and investigational for all other indications because its clinical value has not been established."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "33927",
+          "description": "Implantation of a total replacement heart system (artificial heart) with recipient cardiectomy",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "33928",
+          "description": "Removal and replacement of total replacement heart system (artificial heart)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "33929",
+          "description": "Removal of a total replacement heart system (artificial heart) for heart transplantation (List separately in addition to code for primary procedure)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "33940",
+          "description": "Donor cardiectomy, (including cold preservation)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "33945",
+          "description": "Heart transplant, with or without recipient cardiectomy",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "81595",
+          "description": "Cardiology (heart transplant), mRNA, gene expression profiling by real-time quantitative PCR of 20 genes (11 content and 9 housekeeping), utilizing subfraction of peripheral blood, algorithm reported as a rejection risk score [Allomap]",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [
+        {
+          "code": "0055U",
+          "description": "Cardiology (heart transplant), cell-free DNA, PCR assay of 96 DNA target sequences (94 single nucleotide polymorphism targets and two control targets), plasma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0087U",
+          "description": "Cardiology (heart transplant), mRNA gene expression profiling by microarray of 1283 genes, transplant biopsy tissue, allograft rejection and injury algorithm reported as a probability score",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "71275",
+          "description": "Computed tomographic angiography, chest (noncoronary), with contrast material(s), including noncontrast images, if performed, and image postprocessing",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "84484",
+          "description": "Troponin, quantitative [cardiac troponins]",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "33975",
+          "description": "Insertion of ventricular assist device; extracorporeal, single ventricle",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33976",
+          "description": "extracorporeal, biventricular",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33977",
+          "description": "Removal of ventricular  assist device; extracorporeal, single ventricle",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33978",
+          "description": "extracorporeal, biventricular",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33979",
+          "description": "Insertion of ventricular assist device, implantable intracorporeal, single ventricle",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33990",
+          "description": "Insertion of ventricular assist device, percutaneous including radiological supervision and interpretation; arterial access only",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33991",
+          "description": "both arterial and venous access, with transseptal puncture",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33992",
+          "description": "Removal of percutaneous ventricular assist device at separate and distinct session from insertion",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "33993",
+          "description": "Repositioning of percutaneous ventricular assist device with imaging guidance at separate and distinct session from insertion",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "93015 - 93018",
+          "description": "Cardiovascular stress test using maximal or submaximal treadmill or bicycle exercise, continuous electrocardiographic monitoring, and/or pharmacological stress",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "93451- 93454",
+          "description": "Cardiac catheterization",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "93798",
+          "description": "Physician services for outpatient cardiac rehabilitation; with continuous ECG monitoring (per session)",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met: HCPCS codes covered if selection criteria are met:": [
+        {
+          "code": "L8698",
+          "description": "Miscellaneous component, supply or accessory for use with total artificial heart system",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [],
+      "Other: Other HCPCS codes related to the CPB:": [
+        {
+          "code": "G0422",
+          "description": "Intensive cardiac rehabilitation; with or without continuous ECG monitoring with exercise, per session",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "S9472",
+          "description": "Cardiac rehabilitation program, non-physician provider, per diem",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met (not all-inclusive):": [
+        {
+          "code": "I21.01 - I24.9",
+          "description": "Acute myocardial infarction and other acute forms of ischemic heart disease",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I25.10 - I25.799",
+          "description": "Chronic ischemic heart disease",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I25.810 - I25.9",
+          "description": "Other and unspecified forms of chronic ischemic heart disease",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I34.0 - I39",
+          "description": "Nonrheumatic mitral valve, aortic valve, tricuspid valve and pulmonary valve disorders",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I42.0, I42.2, I42.5,I42.8, I42.9",
+          "description": "Other cardiomyopathies",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I42.1",
+          "description": "Obstructive hypertrophic cardiomyopathy",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I43",
+          "description": "Cardiomyopathy in diseases classified elsewhere",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I47.0 - I49.9",
+          "description": "Cardiac dysrhythmias",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I50.1 - I50.9",
+          "description": "Heart failure",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "I51.4",
+          "description": "Myocarditis, unspecified",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "O90.81 - O90.9",
+          "description": "Other and unspecified complications of the puerperium, not elsewhere classified [postpartum cardiomyopathy]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q20.0 - Q24.9",
+          "description": "Bulbous cordis anomalies and anomalies of cardiac septal closure, endocardial cushion defects and other congenital anomalies of heart",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "T86.20 - T86.298",
+          "description": "Complications of heart transplant",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Z94.1",
+          "description": "Heart transplant status",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Other: ICD-10 codes contraindicated for this CPB (not all-inclusive):": [
+        {
+          "code": "A00.0 - B99.9",
+          "description": "Infectious and parasitic diseases",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "E85.0 - E85.9",
+          "description": "Amyloidosis",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "G70.0 - G73.7",
+          "description": "Diseases of myoneural junction and muscle",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "I27.0 - I27.9",
+          "description": "Other pulmonary heart diseases [severe]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "I69.00 - I69.998",
+          "description": "Sequelae of cerebrovascular disease [significant persistent deficit]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "J44.9",
+          "description": "Chronic obstructive pulmonary disease, unspecified [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "K27.0, K27.2, K27.4, K27.6",
+          "description": "Peptic ulcer with hemorrhage",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "K57.00 - K57.93",
+          "description": "Diverticular disease of intestine",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "K70.0 - K74.69, K76.89",
+          "description": "Diseases of liver  [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "M04.1 - M04.9",
+          "description": "Autoinflammatory syndromes",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "N18.6",
+          "description": "End stage renal disease  [unless person is to undergo dual organ transplantation, e.g., heart-lung, heart-kidney, etc]",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "Other": {}
+  }
+}

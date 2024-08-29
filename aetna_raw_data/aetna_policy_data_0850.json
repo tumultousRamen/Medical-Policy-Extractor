@@ -1,0 +1,163 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers the following interventions medically necessary:"
+    },
+    {
+      "text": "Neuroplasty (neurolysis or nerve decompression) for brachial plexus neuromas and other brachial plexus lesions;"
+    },
+    {
+      "text": "Dorsal root entry zone (DREZ) coagulation for brachial plexus avulsion;"
+    },
+    {
+      "text": "Nerve grafting, nerve transfers and soft tissue reconstruction surgeries (e.g., triangle tilt surgery and the Mod-Quad procedure) for obstetric brachial plexus injury (BPI) (Erb's palsy) if functional recovery does not ensue in 3 or more months. Note : There is a lack of reliable evidence that one type of reconstructive soft tissue technique is more effective than others for obstetric BPIs."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "64713",
+          "description": "Neuroplasty, major peripheral nerve, arm or leg, open; brachial plexus",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64892 - 64893",
+          "description": "Nerve graft (includes obtaining graft), single strand, arm or leg",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64897 â 64898",
+          "description": "Nerve graft (includes obtaining graft), multiple strands (cable), arm or leg",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64901 - 64902",
+          "description": "Nerve graft",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64905, 64907",
+          "description": "Nerve pedicle transfer",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [
+        {
+          "code": "64912",
+          "description": "Nerve repair; with nerve allograft, each nerve, first strand (cable)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "64913",
+          "description": "Nerve repair; with nerve allograft, each additional strand (List separately in addition to code for primary procedure)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "+20985",
+          "description": "Computer-assisted surgical navigational procedure for musculoskeletal procedures, image-less (List separately in addition to code for primary procedure)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "29240",
+          "description": "Strapping; shoulder (eg., Velpeau) [therapeutic taping]",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Covered if criteria met: CPT codes covered if selection criteria are met::": [
+        {
+          "code": "63170",
+          "description": "Laminectomy with myelotomy (eg, Bischof or DREZ type), cervical, thoracic, or thoracolumbar",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "64640",
+          "description": "Destruction by neurolytic agent; other peripheral nerve or branch",
+          "coverage_status": "Covered if criteria met"
+        }
+      ]
+    },
+    "HCPCS": {},
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "D21.0",
+          "description": "Benign neoplasm of connective and other soft tissue of head, face and neck",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "D21.10 - D21.12",
+          "description": "Benign neoplasm of connective and other soft tissue of upper limb, including shoulder",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S14.3XXA â S14.3XXS",
+          "description": "Injury of brachial plexus",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S14.3XXA â S14.3XXS",
+          "description": "Injury of brachial plexus [brachial plexus avulsion]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S14.3XXA- S14.3XXS",
+          "description": "Injury of brachial plexus",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB (not all-inclusive):": [
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "S14.3XXA â S14.3XXS",
+          "description": "Injury of brachial plexus [brachial plexus avulsion]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G54.0",
+          "description": "Brachial plexus disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M21.821 - M21.829",
+          "description": "Other specified acquired deformities of upper arm [winged scapula]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "P14.3",
+          "description": "Other brachial plexus birth injury",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Triangle Tilt Surgery, Mod-Quad Procedure- no specific code:": [],
+      "Other: Neurolysis:": [],
+      "Other: Vascularized brachial plexus allo-transplantation:": [],
+      "Other: Dorsal root entry zone (DREZ) coagulation:": [],
+      "Other: Computer-assisted dorsal root entry zone (CA-DREZ) coagulation:": [],
+      "Other: Bionic reconstruction:": [],
+      "Other: Therapeutic taping for scapular stabilization:": [],
+      "Other: Nerve grafting and nerve transfer:": []
+    }
+  }
+}

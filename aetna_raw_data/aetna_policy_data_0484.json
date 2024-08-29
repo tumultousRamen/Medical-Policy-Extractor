@@ -1,0 +1,694 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers the following glaucoma treatments as medically necessary:"
+    },
+    {
+      "text": "Laser trabeculoplasty or Food and Drug Administration (FDA)-approved aqueous drainage/shunt implants for the treatment of members with refractory primary open-angle glaucoma when first-line drugs (e.g., latanoprost or timolol), and second-line drugs (e.g., brimonidine or dorzolamide) have failed to control intra-ocular pressure (IOP). Currently available implants include: Ahmed glaucoma implant Baerveldt seton Ex-PRESS mini glaucoma shunt Glaucoma pressure regulator Krupin-Denver valve implant Molteno implant Schocket shunt;",
+      "sub_items": [
+        {
+          "text": "Ahmed glaucoma implant"
+        },
+        {
+          "text": "Baerveldt seton"
+        },
+        {
+          "text": "Ex-PRESS mini glaucoma shunt"
+        },
+        {
+          "text": "Glaucoma pressure regulator"
+        },
+        {
+          "text": "Krupin-Denver valve implant"
+        },
+        {
+          "text": "Molteno implant"
+        },
+        {
+          "text": "Schocket shunt;"
+        }
+      ]
+    },
+    {
+      "text": "One or two iStent Trabecular Micro-Bypass Stents per eye for the treatment of adults with mild or moderate open-angle glaucoma and a cataract when the individual is currently being treated with an ocular hypotensive medication and the procedure is being performed in conjunction with cataract surgery;"
+    },
+    {
+      "text": "Hydrus Microstent for the treatment of adults with mild or moderate open-angle glaucoma and a cataract when the individual is currently being treated with an ocular hypotensive medication and the procedure is being performed in conjunction with cataract surgery;"
+    },
+    {
+      "text": "XEN Glaucoma Treatment System for the management of refractory glaucoma, including cases where previous surgical treatment has failed, cases of primary open angle glaucoma, and pseudoexfoliative or pigmentary glaucoma with open angles that are unresponsive to maximum tolerated medical therapy;"
+    },
+    {
+      "text": "Adjunctive use of anti-fibrotic agents (e.g., mitomycin C) for use with the Ex-PRESS mini glaucoma shunt. However, adjunctive use of anti-fibrotic agents (e.g., mitomycin C) or systemic corticosteroids with other shunt implants is considered experimental and investigational because there are no advantages to the adjunctive use of these agents with currently available shunts;"
+    },
+    {
+      "text": "Combined glaucoma and cataract surgery for persons with a visually signifiant cataract with uncontrolled glaucoma despite maximal medical therapy and/or laser trabeculoplasty."
+    },
+    {
+      "text": "Laser trabeculoplasty or Food and Drug Administration (FDA)-approved aqueous drainage/shunt implants for the treatment of members with refractory primary open-angle glaucoma when first-line drugs (e.g., latanoprost or timolol), and second-line drugs (e.g., brimonidine or dorzolamide) have failed to control intra-ocular pressure (IOP). Currently available implants include:"
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "0449T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; initial device",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "0450T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; each additional device (List separately in addition to code for primary procedure)",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "65855",
+          "description": "Trabeculoplasty by laser surgery",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66180",
+          "description": "Aqueous shunt to extraocular equatorial plate reservoir, external approach; with graft",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66183",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, external approach",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66185",
+          "description": "Revision of aqueous shunt to extraocular equatorial plate reservoir; with graft",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66989",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular reservoir, internal approach, one or more",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "66991",
+          "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with insertion of intraocular (eg, trabecular meshwork, supraciliary, suprachoroidal) anterior segment aqueous drainage device, without extraocular",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "0449T",
+          "description": "Insertion of aqueous drainage device, without extraocular reservoir, internal approach, into the subconjunctival space; initial device",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [
+        {
+          "code": "0253T",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, internal approach, into the suprachoroidal space",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0444T",
+          "description": "Initial placement of a drug-eluting ocular insert under one or more eyelids, including fitting, training, and insertion, unilateral or bilateral",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0445T",
+          "description": "Subsequent placement of a drug-eluting ocular insert under one or more eyelids, including re-training, and removal of existing insert, unilateral or bilateral",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0474T",
+          "description": "Insertion of anterior segment aqueous drainage device, with creation of intraocular reservoir, internal approach, into the supraciliary space",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0253T",
+          "description": "Insertion of anterior segment aqueous drainage device, without extraocular reservoir, internal approach, into the suprachoroidal space [iStent G3 Supra]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0474T",
+          "description": "Insertion of anterior segment aqueous drainage device, with creation of intraocular reservoir, internal approach, into the supraciliary space [Cypass]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "77401 - 77412",
+          "description": "Radiation treatment delivery",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0660T",
+          "description": "Implantation of anterior segment intraocular nonbiodegradable drug-eluting system, internal approach",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0661T",
+          "description": "Removal and reimplantation of anterior segment intraocular nonbiodegradable drug-eluting implant",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "68841",
+          "description": "Insertion of drug-eluting implant, including punctal dilation when performed, into lacrimal canaliculus, each",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "0671T",
+          "description": "Insertion of anterior segment aqueous drainage device into the trabecular meshwork, without external reservoir, and without concomitant cataract removal, one or more",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "66150",
+          "description": "Fistulization of sclera for glaucoma; trephination with iridectomy",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66155",
+          "description": "thermocauterization with iridectomy",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66160",
+          "description": "sclerectomy with punch or scissors, with iridectomy",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66710",
+          "description": "Ciliary body destruction; cyclophotocoagulation, transscleral",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66720",
+          "description": "cryotherapy",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66761",
+          "description": "Iridotomy/iridectomy by laser surgery (e.g., for glaucoma) (one or more sessions)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66820 â 66821",
+          "description": "Discission of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid); stab incision technique (Ziegler or Wheeler knife) or   laser surgery (eg, YAG laser) (1 or more stages)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66830",
+          "description": "Removal of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid) with corneo-scleral section, with or without iridectomy (iridocapsulotomy, iridocapsulectomy)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66840",
+          "description": "Removal of lens material; aspiration technique, 1 or more stages",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66850",
+          "description": "Removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (eg, phacoemulsification), with aspiration",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "66852",
+          "description": "Removal of lens material; pars plana approach, with or without vitrectomy",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met: HCPCS codes covered if selection criteria are met:": [
+        {
+          "code": "J7315",
+          "description": "Mitomycin, opthalmic, 0.2 mg",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "J9190",
+          "description": "Injection, fluorouracil, 500 mg",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt [covered if FDA approved] [DeepLight Gold Micro-Shunt and Eyepass Glaucoma Implant are not covered]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [
+        {
+          "code": "C9257",
+          "description": "Injection, bevacizumab, 0.25mg [Avastin] [intraocular dose]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J0178",
+          "description": "Injection, aflibercept, 1 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J0702",
+          "description": "Injection, betamethasone acetate and betamethasone sodium phosphate, per 3 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1020",
+          "description": "Injection, methylprednisolone acetate, 20 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1030",
+          "description": "Injection, methylprednisolone acetate, 40 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1040",
+          "description": "Injection, methylprednisolone acetate, 80 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1094",
+          "description": "Injection, dexamethasone acetate, 1 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1100",
+          "description": "Injection, dexamethasone sodium phosphate, 1mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1700",
+          "description": "Injection, hydrocortisone acetate, up to 25 mg (i. e., Hydrocortone acetate)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1710",
+          "description": "Injection, hydrocortisone sodium phosphate, up to 50 mg (i.e., Hydrocortone phosphate)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J1720",
+          "description": "Injection, hydrocortisone sodium succinate, up to 100 mg (i.e., Solu-Cortef)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J2503",
+          "description": "Injection, pegaptanib sodium, 0.3 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J2650",
+          "description": "Injection, prednisolone acetate, up to 1 ml (i.e., Key-Pred 25, Key-Pred 50, Predcor-25, Predcor-50, Predoject 50, Predalone-50, Predicort-50)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J2778",
+          "description": "Injection, ranibizumab, 0.1 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J2920",
+          "description": "Injection, methylprednisolone sodium succinate, up to 40 mg (i.e., Solu-Medrol)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J2930",
+          "description": "Injection, methylprednisolone sodium succinate, up to 125 mg (i.e., Solu-Medrol)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J3301",
+          "description": "Injection, triamcinolone acetonide, not otherwise specified, per 10 mg (i.e., Kenalog)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J3302",
+          "description": "Injection, triamcinolone diacetate, per 5 mg (i.e., Aristocort)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J3303",
+          "description": "Injection, triamcinolone hexacetonide, per 5 mg (i.e., Aristospan)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J7509",
+          "description": "Methylprednisolone, oral, per 4 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J7510",
+          "description": "Prednisolone, oral, per 5 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J7512",
+          "description": "Prednisone, immediate release or delayed release, oral, 1 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J8540",
+          "description": "Dexamethasone, oral, 0.25 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J9035",
+          "description": "Injection, bevacizumab, 10 mg [Avastin] [chemotherapy dose]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J9280",
+          "description": "Injection, mitomycin, 5 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q5107",
+          "description": "Injection, bevacizumab-awwb, biosimilar, (mvasi), 10 mg",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G6001 - G6014",
+          "description": "Radiation treatment delivery",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "C1783",
+          "description": "Ocular implant, aqueous drainage assist device",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "L8612",
+          "description": "Aqueous shunt",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other HCPCS codes related to the CPB:": [
+        {
+          "code": "J0171",
+          "description": "Injection, adrenaline, epinephrine, 0.1 mg",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "J1120",
+          "description": "Injection, acetazolamide sodium, up to 500 mg",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "H40.1110 - H40.1194",
+          "description": "Primary open-angle glaucoma",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H25.011 - H26.9",
+          "description": "Cataract  [must be billed with H40.011+]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1111",
+          "description": "Primary open-angle glaucoma, right eye, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1112",
+          "description": "Primary open-angle glaucoma, right eye, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1121",
+          "description": "Primary open-angle glaucoma, left eye, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1122",
+          "description": "Primary open-angle glaucoma, left eye, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1131",
+          "description": "Primary open-angle glaucoma, bilateral, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1132",
+          "description": "Primary open-angle glaucoma, bilateral, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q12.0 - Q12.9",
+          "description": "Congenital cataract and lens malformations",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H25.011 â H26.9",
+          "description": "Cataract [must be billed with H40.011+]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1111",
+          "description": "Primary open-angle glaucoma, right eye, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1112",
+          "description": "Primary open-angle glaucoma, right eye, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1121",
+          "description": "Primary open-angle glaucoma, left eye, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1122",
+          "description": "Primary open-angle glaucoma, left eye, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1131",
+          "description": "Primary open-angle glaucoma, bilateral, mild stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1132",
+          "description": "Primary open-angle glaucoma, bilateral, moderate stage",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.151",
+          "description": "Residual stage of open-angle glaucoma, right eye",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.152",
+          "description": "Residual stage of open-angle glaucoma, left eye",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.153",
+          "description": "Residual stage of open-angle glaucoma, bilateral",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "Q12.0 â Q12.9",
+          "description": "Congenital cataract and lens malformations",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1110 - H40.1194",
+          "description": "Glaucoma",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "H40.1311 - H40.1394",
+          "description": "Pigmentary glaucoma",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB:": [
+        {
+          "code": "C69.60 - C69.62",
+          "description": "Malignant neoplasm of orbit [retrobulbar tumor]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "E05.00 - E05.01",
+          "description": "Thyrotoxicosis with diffuse goiter  [thyroid eye disease]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.20x0 - H40.2494",
+          "description": "Primary angle-closure glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.50x0 -  H40.53x4",
+          "description": "Glaucoma secondary to other eye disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.89",
+          "description": "Other specified glaucoma [neovascular glaucoma]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q85.81 - Q85.89",
+          "description": "Other phakomatoses, not elsewhere classified [Sturge-Weber Syndrome]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q13.00 â Q13.89",
+          "description": "Congenital malformations of anterior segment of eye [birth defects of the anterior chamber angle of the eye]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.20x0 â H40.249",
+          "description": "Primary angle-closure glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.50x0 â H40.534",
+          "description": "Glaucoma secondary to other eye disorders [secondary angle-closure glaucoma] [neovascular glaucoma]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.831 â H40.839",
+          "description": "Aqueous misdirection",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.30x0 â H40.33x4",
+          "description": "Glaucoma secondary to eye trauma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.40x0 â H40.43x4",
+          "description": "Glaucoma secondary to eye inflammation [uveitic glaucoma]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.001 - H42",
+          "description": "Glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.001 - H40.9",
+          "description": "Glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.001 â H40.9",
+          "description": "Glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma [primary]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.001 - H42",
+          "description": "Glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q15.0",
+          "description": "Congenital glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H40.10x0 - H40.159",
+          "description": "Open-angle glaucoma",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Laser Trabeculoplasty or Food and Drug Administration (FDA)-approved aqueous drainage/shunt implants:": [],
+      "Other: iStent Trabecular Micro-Bypass Stent System:": [],
+      "Other: Hydrus Microstent:": [],
+      "Other: XEN Glaucoma Treatment System:": [],
+      "Other: Beta radiation for glaucoma:": [],
+      "Other: Drug-eluting implant into the lacrimal canaliculus:": [],
+      "Other: Ab interno trabeculectomy:": [],
+      "Other: Ab interno Kahook dual blade trabeculectomy- no specific code:": [
+        {
+          "code": "0621T",
+          "description": "Trabeculostomy ab interno by laser",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "0622T",
+          "description": "Trabeculostomy ab interno by laser; with use of ophthalmic endoscope",
+          "coverage_status": "Other"
+        }
+      ],
+      "Other: Intra-operative optical coherence tomography:": [],
+      "Other: Intra-operative optical coherence tomography- no specific code:": [],
+      "Other: iStent Infinite:": []
+    }
+  }
+}

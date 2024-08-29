@@ -1,0 +1,320 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers voice therapy medically necessary to restore the ability of the member to produce speech sounds from the larynx for any of the following indications:"
+    },
+    {
+      "text": "Essential voice tremor; or"
+    },
+    {
+      "text": "Following surgery or traumatic injury to the vocal cords; or"
+    },
+    {
+      "text": "Following treatment for laryngeal (glottic) carcinoma; or"
+    },
+    {
+      "text": "Muscle tension dysphonia (functional dysphonia); or"
+    },
+    {
+      "text": "Paradoxical vocal cord motion; or"
+    },
+    {
+      "text": "Spastic (spasmodic) dysphonia; or"
+    },
+    {
+      "text": "Symptomatic benign vocal fold lesions (cysts, nodules and polyps); or"
+    },
+    {
+      "text": "Vocal cord paralysis."
+    },
+    {
+      "text": "Aetna considers voice therapy not medically necessary for any of the following indications:"
+    },
+    {
+      "text": "Improvement of voice quality; or"
+    },
+    {
+      "text": "Occupational or recreational purposes (e.g., public speaking, singing, etc.); or"
+    },
+    {
+      "text": "Self-limited conditions, such as acute laryngitis."
+    },
+    {
+      "text": "Maintenance treatment, where the member's symptoms are not improving, is considered not medically necessary. If no clinical benefit is appreciated after 4 weeks of voice therapy, then the treatment plan should be re-evaluated. Further voice therapy is not considered medically necessary if the member does not demonstrate meaningful improvement in symptoms."
+    },
+    {
+      "text": "Note: Megaphones or amplifiers (e.g., ChatterVox, Mega Mite Megaphone) may be of use in the absence of illness or injury and therefore do not meet Aetna's definition of covered durable medical equipment."
+    },
+    {
+      "text": "Note: An electronic artificial larynx (artificial voice box) that is used by laryngectomized individuals and persons with a permanently inoperative larynx is covered as a prosthetic.  See \"Note\" regarding electronic speech aids accompanying CPB 0437 - Speech Generating Devices. See also  CPB 0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy."
+    },
+    {
+      "text": "Note: Voice therapy for male-to-female transgender individuals to feminize the voice or for female-to-male transgender individuals to masculinize the voice is considered not medically necessary and cosmetic. See also CPB 0615 - Gender Affirming Surgery."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "92507",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual [voice therapy] [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "92508",
+          "description": "Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, two or more individuals [voice therapy] [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Other: Other CPT codes related to the CPB:": [
+        {
+          "code": "31505 - 31592",
+          "description": "Laryngoscopy and laryngoplasty procedures (therapeutic)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "31611",
+          "description": "Construction of tracheoesophageal fistula and subsequent insertion of an alaryngeal speech prosthesis (e.g., voice button, Blom-Singer prosthesis)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "92521",
+          "description": "Evaluation of speech fluency (eg, stuttering, cluttering)",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "92522",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria) [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "92523",
+          "description": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language) [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "92524",
+          "description": "Behavioral and qualitative analysis of voice and resonance [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice]",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "92597",
+          "description": "Evaluation for use and/or fitting of voice prosthetic device to supplement oral speech",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "96401 - 96417",
+          "description": "Injection and intravenous infusion chemotherapy and other highly complex drug or highly complex biologic agent administration",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "96420 - 96425",
+          "description": "Intra-arterial chemotherapy and other highly complex drug or highly complex biologic agent administration",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Covered if criteria met: HCPCS codes covered if selection criteria are met:": [
+        {
+          "code": "G0153",
+          "description": "Services performed by a qualified speech-language pathologist in the home health or hospice setting, each 15 minutes",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G0161",
+          "description": "Services performed by a qualified speech-language pathologist, in the home health setting, in the establishment or delivery of a safe and effective speech-language pathology maintenance program, each 15 minutes",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S9128",
+          "description": "Speech therapy, in the home, per diem",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [
+        {
+          "code": "L8510",
+          "description": "Voice amplifier",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ],
+      "Other: Other HCPCS codes related to the CPB:": [
+        {
+          "code": "L8500",
+          "description": "Artificial larynx, any type",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8505",
+          "description": "Artificial larynx replacement battery / accessory, any type",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8507",
+          "description": "Tracheo-esophageal voice prosthesis, patient inserted, any type, each",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "L8509",
+          "description": "Tracheo-esophageal voice prosthesis, inserted by a licensed health care provider, any type",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "V5362",
+          "description": "Speech screening",
+          "coverage_status": "Other"
+        },
+        {
+          "code": "V5363",
+          "description": "Language screening",
+          "coverage_status": "Other"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "D14.1",
+          "description": "Benign neoplasm of larynx [benign vocal fold lesions]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "F44.4",
+          "description": "Conversion disorder with motor symptom or deficit [functional dysphonia]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "G25.2",
+          "description": "Other specified forms of tremor [voice]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "J38.00 - J38.02",
+          "description": "Paralysis of vocal cords and larnyx",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "J38.1",
+          "description": "Polyp of vocal cord and larynx",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "J38.2",
+          "description": "Nodules of vocal cords",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "R49.0",
+          "description": "Dysphonia [functional dysphonia]",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "S19.83X+",
+          "description": "Other specified injuries of vocal cord",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB:": [
+        {
+          "code": "A15.5",
+          "description": "Tuberculous laryngitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "A36.2",
+          "description": "Laryngeal diphtheria",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "A52.73",
+          "description": "Symptomatic late syphilis of other respiratory organs",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "A69.1",
+          "description": "Other Vincent's infections [Vincent's angina]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "F64.1",
+          "description": "Gender identity disorder in adolescences and adulthood",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I69.020 - I69.028I69.120 - I69.128I69.220 - I69.228I69.320 - I69.328I69.820 - I69.828I69.920 - I69.928",
+          "description": "Sequelae of cerebrovascular disease, speech and language deficits",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J02.0",
+          "description": "Streptococcal pharyngitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J03.00",
+          "description": "Acute streptococcal tonsillitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J03.01",
+          "description": "Acute recurrent streptococcal tonsillitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J04.0",
+          "description": "Acute laryngitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J04.2",
+          "description": "Acute laryngotracheitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J05.0",
+          "description": "Acute obstructive laryngitis [croup]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J06.0",
+          "description": "Acute laryngopharyngitis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J10.1",
+          "description": "Influenza due to other identified influenza virus with other respiratory manifestations",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J11.1",
+          "description": "Influenza due to unidentified influenza virus with other respiratory manifestations",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R47.02",
+          "description": "Dysphasia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R47.1",
+          "description": "Dysarthria and anarthria",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R47.81 - R47.89",
+          "description": "Other speech disturbances",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Z51.89",
+          "description": "Encounter for other specified aftercare [occupational therapy]",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Information in the [brackets] below has been added for clarification purposes.  &nbspCodes requiring a 7th character are represented by \"+\":": []
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "medical_necessity_criteria": [
+    {
+      "text": "Aetna considers infrared coagulation medically necessary for the following:"
+    },
+    {
+      "text": "Anal dysplasia;"
+    },
+    {
+      "text": "For members with grade I or grade II internal hemorrhoids that are painful or persistently bleeding. (See Appendix for grading of internal hemorrhoids). Note: Infrared light treatment is considered medically necessary as a heat modality in physical therapy."
+    }
+  ],
+  "codes": {
+    "CPT": {
+      "Covered if criteria met: CPT codes covered if selection criteria are met:": [
+        {
+          "code": "46930",
+          "description": "Destruction of internal hemorrhoid(s), by thermal energy (eg, infrared coagulation, cautery, radiofrequency)",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: CPT codes not covered for indications listed in the CPB:": [
+        {
+          "code": "97026",
+          "description": "Application of a modality to one or more areas; infrared",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "HCPCS": {
+      "Not covered for listed indications: HCPCS codes not covered for indications listed in the CPB:": [
+        {
+          "code": "A4639",
+          "description": "Replacement pad for infrared heating pad system, each",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "E0221",
+          "description": "Infrared heating pad system",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "ICD-10": {
+      "Covered if criteria met: ICD-10 codes covered if selection criteria are met:": [
+        {
+          "code": "K62.82",
+          "description": "Dysplasia of anus",
+          "coverage_status": "Covered if criteria met"
+        },
+        {
+          "code": "K64.0 - K64.1",
+          "description": "First degree and second degree hemorrhoids",
+          "coverage_status": "Covered if criteria met"
+        }
+      ],
+      "Not covered for listed indications: ICD-10 codes not covered for indications listed in the CPB (not all-inclusive):": [
+        {
+          "code": "B35.1",
+          "description": "Tinea unguium [onychomycosis]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "C00.0 - D09.9",
+          "description": "Malignant neoplasms and carcinoma in situ",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "E08.00 - E13.9",
+          "description": "Diabetes mellitus",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "F01.50 â F01.C4",
+          "description": "Vascular dementia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "F02.80 â F02.81",
+          "description": "Dementia in other diseases classified elsewhere",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "F03.90 â F03.91",
+          "description": "Unspecified dementia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "F33.0 - F33.9",
+          "description": "Major depressive disorder, recurrent [not covered for prevention of seasonal affective disorder]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G11.1",
+          "description": "Early-onset cerebellar ataxia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G20 - G21.9",
+          "description": "Parkinson's disease",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G43.001 - G43.901",
+          "description": "Migraines",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G51.0",
+          "description": "Bell's palsy",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G60.0 - G62.9",
+          "description": "Non-diabetic peripheral neuropathy",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G91.0 â G91.9",
+          "description": "Hydrocephalus",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G92",
+          "description": "Toxic encephalopathy",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "G93.1 â G93.9",
+          "description": "Other disorders of brain",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "H35.30 - H35.466",
+          "description": "Degeneration of macula and posterior pole and peripheral retinal",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I00 - I52",
+          "description": "Acute rheumatic fever, chronic rheumatic heart diseases, hypertensive disease, ischemic heart disease, pulmonary heart disease and disease of pulmonary circulation and other forms of heart diseases [cardiovascular diseases]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I63.00 - I63.9",
+          "description": "Cerebral infarction",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I73.00 - I73.01",
+          "description": "Raynaud's syndrome",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I89.0",
+          "description": "Lymphedema, not elsewhere classified",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "I97.2",
+          "description": "Postmastectomy lymphedema syndrome",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.20 - J45.22",
+          "description": "Mild intermittent asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.30 - J45.32",
+          "description": "Mild persistent asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.40 - J45.42",
+          "description": "Moderate persistent asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.50 - J45.52",
+          "description": "Severe persistent asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.901 - J45.909",
+          "description": "Unspecified asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "J45.990 - J45.998",
+          "description": "Other asthma",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "L70.0 - L70.9",
+          "description": "Acne",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "L89.000 - L89.95",
+          "description": "Pressure ulcer",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M15.0 - M19.93",
+          "description": "Osteoarthritis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M26.601 - M26.609",
+          "description": "Temporomandibular joint disorders",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M54.2",
+          "description": "Cervicalgia",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M54.50 - M54.59",
+          "description": "Low back pain",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M54.6",
+          "description": "Pain in thoracic spine",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M54.9",
+          "description": "Dorsalgia, unspecified",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M67.00 - M67.99",
+          "description": "Other disorder of synovium and tendon",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M80.00 -  M81.8",
+          "description": "Osteoporosis",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "M85.80 - M85.9",
+          "description": "Other specified disorders of bone density and structure [osteopenia]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "N18.1 - N18.9",
+          "description": "Chronic kidney disease (CKD)",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Q82.0",
+          "description": "Hereditary lymphedema",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R40.0 - R40.4",
+          "description": "Somnolence, stupor and coma [disorders of consciousness]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "R68.2",
+          "description": "Dry mouth, unspecified",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "S02.0xx+ - S02.19x+, S02.91x+ (must be billed with intracranial injury codes)",
+          "description": "Fracture of vault and base of skull",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "S06.0X0A - S06.A1XS, S06.0XAA - S06.9XAS (must be billed with fracture of skull codes)",
+          "description": "Intracranial injury",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "S12.000+ - S12.9xx+, S22.000+ - S22.089+, S32.000+ - S32.2xx+ (must be billed with spinal cord injury codes)",
+          "description": "Fracture of vertebral column",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "S14.0xx+ - S14.9, S24.0xx+ - S24.9, S34.01x+ - S34.9xx+ (must be billed with fracture of vertebral column codes)",
+          "description": "Spinal cord injury",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "T81.30X+ - T81.33X+",
+          "description": "Disruption of wound, not elsewhere classified",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "T81.89X+",
+          "description": "Other complications of procedures, not elsewhere classified [non-healing surgical wound]",
+          "coverage_status": "Not covered for listed indications"
+        },
+        {
+          "code": "Numerous options",
+          "description": "Open Wounds [chronic non-healing wounds] [Codes not listed due to expanded specificity]",
+          "coverage_status": "Not covered for listed indications"
+        }
+      ]
+    },
+    "Other": {
+      "Other: Information in the [brackets] below has been added for clarification purposes.  &nbspCodes requiring a 7th character are represented by \"+\":": []
+    }
+  }
+}
