@@ -1,0 +1,12 @@
+{
+  "Diagnosis": ["diagnosis", "assessment", "evaluation", "staging", "prognosis", "differential", "workup"],
+  "Treatment": ["treatment", "therapy", "intervention", "surgery", "implant", "medication", "rehabilitation", "removal", "extraction", "repair"],
+  "Anatomy": ["eye", "retina", "cornea", "lens", "cataract", "macula", "optic nerve", "iris", "pupil", "sclera", "choroid", "vitreous", "aqueous humor"],
+  "Condition": ["glaucoma", "macular degeneration", "diabetic retinopathy", "cataract", "dry eye", "conjunctivitis", "keratitis", "uveitis", "retinal detachment"],
+  "Procedure": ["cataract surgery", "laser treatment", "intravitreal injection", "fundus photography", "optical coherence tomography", "visual field test", "tonometry"],
+  "Medication": ["eye drops", "ointment", "oral medication", "antibiotic", "steroid", "anti-inflammatory", "lubricant"],
+  "Medical Device": ["intraocular lens", "contact lens", "glasses", "prosthetic eye", "eye patch"],
+  "Lab Test": ["visual acuity test", "refraction", "slit lamp examination", "dilated eye exam", "ophthalmoscopy", "gonioscopy", "pachymetry"],
+  "Symptoms": ["blurred vision", "eye pain", "redness", "light sensitivity", "floaters", "double vision", "vision loss"],
+  "Risk Factors": ["age", "family history", "diabetes", "hypertension", "smoking", "UV exposure", "certain medications"]
+}
